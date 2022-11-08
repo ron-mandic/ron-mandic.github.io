@@ -6,9 +6,11 @@ let direction = 0;
 let ArrowImage;
 let ImageSize;
 const angles = [90, 270];
+let audiocounter = 0;
 
-var left = new Audio("Assets/Links meine Kerle.mp3");
-var right = new Audio("Assets/Rechts.mp3");
+var left = new Audio("Assets/LinksAI.mp3");
+var right1 = new Audio("Assets/RechtsAI.mp3");
+var right2 = new Audio("Assets/Rechts.mp3");
 
 const TIMER_MIN = 5,
 	TIMER_MAX = 15;
@@ -20,7 +22,12 @@ function getAngle() {
 	let randomnum = Math.floor(Math.random() * angles.length);
 	switch (randomnum) {
 		case 0:
-			right.play();
+			audiocounter++;
+			if (audiocounter == 10) {
+				right2.play();
+			} else {
+				right1.play();
+			}
 			break;
 		case 1:
 			left.play();
