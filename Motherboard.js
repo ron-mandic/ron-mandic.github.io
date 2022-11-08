@@ -38,7 +38,6 @@ function getAngle() {
 
 function preload() {
 	ArrowImage = loadImage("Assets/Arrow.png");
-	console.log(ArrowAnimation);
 }
 
 function setup() {
