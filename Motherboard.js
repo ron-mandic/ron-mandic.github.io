@@ -8,6 +8,8 @@ let ctx;
 let ArrowImage;
 let ImageSize;
 const angles = [90, 270];
+let ArrowAnimation = [];
+let AnimationCounter = 0;
 
 const TIMER_MIN = 5,
 	TIMER_MAX = 15;
@@ -21,6 +23,9 @@ function getAngle() {
 
 function preload() {
 	ArrowImage = loadImage("Assets/Arrow.png");
+	ArrowImageWhite = loadImage("Assets/ArrowWhite.png");
+	ArrowAnimation = [ArrowImage, ArrowImageWhite];
+	console.log(ArrowAnimation);
 }
 
 function setup() {
@@ -36,16 +41,19 @@ function setup() {
 }
 
 function draw() {
-	const angleInDegrees = getAngle();
-	const angleInRadians = radians(angleInDegrees);
-
 	background("black");
 	fill(customColor);
 
 	push();
 	translate(width / 2, height / 2);
-	rotate(angleInRadians);
-	image(ArrowImage, 0, 0, ArrowImage.width / 4, ArrowImage.height / 4);
+	rotate(direction);
+	image(
+		ArrowAnimation[AnimationCounter],
+		0,
+		0,
+		ArrowImage.width / 4,
+		ArrowImage.height / 4
+	);
 	pop();
 
 	text(timer, width / 2, 50);
@@ -53,10 +61,16 @@ function draw() {
 	if (frameCount % 60 == 0 && timer > 0) {
 		timer--;
 	}
+
 	if (timer == 0) {
 		// text("GAME OVER", width / 2, height * 0.7);
+		// make the image blink 10 times
+		if (frameCount % 10 == 0) {
+			AnimationCounter = (AnimationCounter + 1) % ArrowAnimation.length;
+		}
+
 		timer = int(random(TIMER_MIN, TIMER_MAX));
-		direction = getAngle();
+		direction = radians(getAngle());
 	}
 }
 
