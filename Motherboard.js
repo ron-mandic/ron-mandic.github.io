@@ -2,7 +2,6 @@ let direction = 0;
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
-	fill("white");
 	textAlign(CENTER, CENTER);
 	textSize(700);
 }
@@ -16,6 +15,7 @@ function draw() {
 	push();
 	translate(width / 2, height / 2);
 	rotate(angleInRadians);
+	fill("white");
 	text("↑", 0, 0);
 	pop();
 }
