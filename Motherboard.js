@@ -1,15 +1,14 @@
-let direction = 0;
-
 /**
  * Quelle für Timer: https://editor.p5js.org/marynotari/sketches/S1T2ZTMp-
  */
 
-let ctx;
+let direction = 0;
 let ArrowImage;
 let ImageSize;
 const angles = [90, 270];
-let ArrowAnimation = [];
-let AnimationCounter = 0;
+
+var left = new Audio("Assets/Links meine Kerle.mp3");
+var right = new Audio("Assets/Rechts.mp3");
 
 const TIMER_MIN = 5,
 	TIMER_MAX = 15;
@@ -18,13 +17,20 @@ let timer;
 let customColor;
 
 function getAngle() {
-	return angles[Math.floor(Math.random() * angles.length)];
+	let randomnum = Math.floor(Math.random() * angles.length);
+	switch (randomnum) {
+		case 0:
+			right.play();
+			break;
+		case 1:
+			left.play();
+			break;
+	}
+	return angles[randomnum];
 }
 
 function preload() {
 	ArrowImage = loadImage("Assets/Arrow.png");
-	ArrowImageWhite = loadImage("Assets/ArrowWhite.png");
-	ArrowAnimation = [ArrowImage, ArrowImageWhite];
 	console.log(ArrowAnimation);
 }
 
@@ -47,13 +53,7 @@ function draw() {
 	push();
 	translate(width / 2, height / 2);
 	rotate(direction);
-	image(
-		ArrowAnimation[AnimationCounter],
-		0,
-		0,
-		ArrowImage.width / 4,
-		ArrowImage.height / 4
-	);
+	image(ArrowImage, 0, 0, ArrowImage.width / 4, ArrowImage.height / 4);
 	pop();
 
 	text(timer, width / 2, 50);
@@ -65,10 +65,6 @@ function draw() {
 	if (timer == 0) {
 		// text("GAME OVER", width / 2, height * 0.7);
 		// make the image blink 10 times
-		if (frameCount % 10 == 0) {
-			AnimationCounter = (AnimationCounter + 1) % ArrowAnimation.length;
-		}
-
 		timer = int(random(TIMER_MIN, TIMER_MAX));
 		direction = radians(getAngle());
 	}
