@@ -13,27 +13,27 @@ const CANVAS_BREAKPOINT = 690;
 
 /** @enum {number} */
 const Canvas = {
-  WIDTH: 1280,
-  HEIGHT: 720,
+	WIDTH: 1280,
+	HEIGHT: 720,
 };
 /** @enum {number} */
 const Keys = {
-  SPACE: 32,
-  S: 83,
+	SPACE: 32,
+	S: 83,
 };
 /** @enum {number} */
 const Masks = {
-  WORLD: 0x0001,
-  CAR: 0x0002,
-  AREA: 0x0004,
+	WORLD: 0x0001,
+	CAR: 0x0002,
+	AREA: 0x0004,
 };
 /** @enum {number} */
 const SpaceMapping = {
-  EMPTY: -1,
-  SINGLE_JUMP: 0,
-  CANNON_FIRE: 1,
-  PLAYER_REWIND: 2,
-  CAR_REWIND: 3,
+	EMPTY: -1,
+	SINGLE_JUMP: 0,
+	CANNON_FIRE: 1,
+	PLAYER_REWIND: 2,
+	CAR_REWIND: 3,
 };
 /** @type {number} */ const CANVAS_DATA_CHUNK_SIZE = 4;
 
@@ -42,8 +42,8 @@ console.clear();
 
 // Setting up the project
 const Engine = Matter.Engine,
-  Runner = Matter.Runner,
-  Body = Matter.Body;
+	Runner = Matter.Runner,
+	Body = Matter.Body;
 
 // Initializations ###########################
 /** @type {Renderer} */ let canvas;
@@ -71,8 +71,8 @@ let playerVelocityX = 0;
 let playerIsInSlowMotion = false;
 let playerHasNotLandedInBallPit = true;
 const playerCurrentMapping = {
-  press: SpaceMapping.EMPTY,
-  hold: SpaceMapping.EMPTY,
+	press: SpaceMapping.EMPTY,
+	hold: SpaceMapping.EMPTY,
 };
 /** @type {Matter.Vector} */ let playerPositionOriginal = null;
 let playerHasMadeTheLooping = false;
@@ -224,124 +224,128 @@ let canvascontent;
 // ##################################################
 
 function preload() {
-  loadAssets();
+	loadAssets();
 }
 
 function setup() {
-  init();
+	init();
 
-  // mouse.mouse.pixelRatio = pixelDensity();
+	// mouse.mouse.pixelRatio = pixelDensity();
 
-  marbleRun = new MarbleRun();
-  cam = new Camera(player.body);
+	marbleRun = new MarbleRun();
+	cam = new Camera(player.body);
 
-  player.initCollisions();
+	player.initCollisions();
 
-  screens = [screen01 /*, screen02 */];
+	screens = [screen01 /*, screen02 */];
 
-  initScreens(screens);
-  screenEvents();
+	initScreens(screens);
+	screenEvents();
 
-  MarbleRun.stop(marbleRun);
+	MarbleRun.stop(marbleRun);
 }
 
 function draw() {
-  background(255, 255, 255);
-  Engine.update(engine);
+	background(255, 255, 255);
+	Engine.update(engine);
 
-  Player.recordDataOf(player, !spaceIsPressed && player.isRecording);
+	Player.recordDataOf(player, !spaceIsPressed && player.isRecording);
 
-  MarbleRun.Cycle.over(5600, () => {
-    if (!playerHasBeenAssigned) {
-      playerHasBeenAssigned = true;
-      player.onSpacePress = MarbleRun.mapSpacePressTo(SpaceMapping.SINGLE_JUMP);
-      player.onSpaceHold = MarbleRun.mapSpaceHoldTo(SpaceMapping.PLAYER_REWIND);
-    }
-  });
+	MarbleRun.Cycle.over(5600, () => {
+		if (!playerHasBeenAssigned) {
+			playerHasBeenAssigned = true;
+			player.onSpacePress = MarbleRun.mapSpacePressTo(
+				SpaceMapping.SINGLE_JUMP
+			);
+			player.onSpaceHold = MarbleRun.mapSpaceHoldTo(
+				SpaceMapping.PLAYER_REWIND
+			);
+		}
+	});
 
-  once(drawCanvas);
-  spacePressed();
+	once(drawCanvas);
+	spacePressed();
 
-  MarbleRun.Cycle.forNext(
-    1500,
-    playerIsInSlowMotion || playerHasNotLandedInBallPit,
-    () => {
-      if (playerIsInSlowMotion) {
-        engine.timing.timeScale = 0.15;
-        playerIsInSlowMotion = false;
-      }
-    },
-    () => {
-      engine.timing.timeScale = 1;
+	MarbleRun.Cycle.forNext(
+		1500,
+		playerIsInSlowMotion || playerHasNotLandedInBallPit,
+		() => {
+			if (playerIsInSlowMotion) {
+				engine.timing.timeScale = 0.15;
+				playerIsInSlowMotion = false;
+			}
+		},
+		() => {
+			engine.timing.timeScale = 1;
 
-      if (carHasBeenReleased) {
-        setTimeout(() => {
-          playerHasNotLandedInBallPit = false;
-          carHasBeenReleased = false;
-        }, 3000);
-      }
-    }
-  );
+			if (carHasBeenReleased) {
+				setTimeout(() => {
+					playerHasNotLandedInBallPit = false;
+					carHasBeenReleased = false;
+				}, 3000);
+			}
+		}
+	);
 
-  MarbleRun.Cycle.forNext(
-    500,
-    cannonHasBeenFired,
-    () => {
-      if (cannonHasBeenFired) engine.timing.timeScale = 0.15;
-    },
-    () => {
-      engine.timing.timeScale = 1;
-      if (cannonHasBeenLoaded) cannonHasBeenFired = false;
-    }
-  );
+	MarbleRun.Cycle.forNext(
+		500,
+		cannonHasBeenFired,
+		() => {
+			if (cannonHasBeenFired) engine.timing.timeScale = 0.15;
+		},
+		() => {
+			engine.timing.timeScale = 1;
+			if (cannonHasBeenLoaded) cannonHasBeenFired = false;
+		}
+	);
 
-  // When the car isn't wound up anymore and still isn't ready for reset
-  if (!carBody.body.isStatic && !carHasToBeReset) {
-    ifCarStandsStill(() => {
-      setTimeout(() => {
-        player.onSpacePress = MarbleRun.mapSpacePressTo(SpaceMapping.EMPTY);
-        player.onSpaceHold = MarbleRun.mapSpaceHoldTo(
-          SpaceMapping.PLAYER_REWIND
-        );
-      }, 2000);
-    });
-  }
+	// When the car isn't wound up anymore and still isn't ready for reset
+	if (!carBody.body.isStatic && !carHasToBeReset) {
+		ifCarStandsStill(() => {
+			setTimeout(() => {
+				// player.onSpacePress = MarbleRun.mapSpacePressTo(SpaceMapping.EMPTY);
+				player.onSpaceHold = MarbleRun.mapSpaceHoldTo(
+					SpaceMapping.PLAYER_REWIND
+				);
+			}, 2000);
+		});
+	}
 
-  // getCanvasContent();
-  // if (player.body.position.x >= CANVAS_BREAKPOINT) marbleRun.stats();
+	// getCanvasContent();
+	// if (player.body.position.x >= CANVAS_BREAKPOINT) marbleRun.stats();
 }
 
 // ##################################################
 
 function keyPressed() {
-  if (keyCode === Keys.SPACE) {
-    if (userIsReady) {
-      player.timer.start();
-      player.onSpacePress();
+	if (keyCode === Keys.SPACE) {
+		if (userIsReady) {
+			player.timer.start();
+			player.onSpacePress();
 
-      spaceIsPressed = true;
-    } else {
-      userIsReady = true;
-      MarbleRun.resume(marbleRun);
-    }
-  }
+			spaceIsPressed = true;
+		} else {
+			userIsReady = true;
+			MarbleRun.resume(marbleRun);
+		}
+	}
 
-  if (keyCode === Keys.S) {
-    saveCanvas(canvas);
-  }
+	if (keyCode === Keys.S) {
+		saveCanvas(canvas);
+	}
 }
 
 function keyReleased() {
-  if (player.timer.progress > Player.THRESHOLD_TIMER_PERCENT) {
-    Matter.Body.setVelocity(player.body, { x: 0, y: engine.gravity.y });
-  }
+	if (player.timer.progress > Player.THRESHOLD_TIMER_PERCENT) {
+		Matter.Body.setVelocity(player.body, { x: 0, y: engine.gravity.y });
+	}
 
-  carReleased();
+	carReleased();
 
-  player.timer.reset();
-  player.resetBooleans();
+	player.timer.reset();
+	player.resetBooleans();
 
-  soundRewind.stop();
+	soundRewind.stop();
 
-  spaceIsPressed = false;
+	spaceIsPressed = false;
 }
