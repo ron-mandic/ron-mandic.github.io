@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+
+/* ###################################################################### General */
+/* ################################ Root */
+:root {
+	font-size: 10px;
+
+	--canvas_width: 1600px;
+	--canvas_height: 1200px;
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+	width: 1.75rem;
+	background-color: hsl(0, 0%, 97%);
+}
+
+::-webkit-scrollbar-track {
+	border-radius: 0.5rem;
+	background-color: hsl(0, 0%, 97%);
+	border-right: 1px solid hsla(0, 100%, 75%, 50%);
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 0.5rem;
+	background: hsla(0, 100%, 75%, 25%);
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: hsla(0, 100%, 75%, 55%);
+	cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb:active {
+	background: hsla(0, 100%, 75%, 78%);
+}
+
+/* ################################ Classes */
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* ################################ Common */
+#p5_loading,
+canvas {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/* ################################ Animations */
+@keyframes pulse {
+	0% {
+		opacity: 0.5;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0.5;
+	}
+}
+
+/* ###################################################################### App */
+/* ################################ Loader */
+.loadingclass {
+	width: var(--canvas_width);
+	height: var(--canvas_height);
+}
+
+.loadingclass p {
+	animation: pulse 1s infinite;
+	font-size: 1.25rem;
+	font-weight: 500;
+	color: hsl(0, 0%, 27%);
+}
+
+.loadingclass p::after {
+	content: "...";
+}
+
+/* ################################ Main */
+body {
+	width: 100%;
+	height: 100vh;
+	font-family: "Inter", Courier, monospace;
+}
+
+canvas {
+	overflow: hidden;
+	border-radius: 1rem;
+	border: 2px solid hsl(0, 0%, 97%);
+	box-shadow: 0 0.5rem 1rem hsla(0, 0%, 97%, 95%);
+	z-index: 0;
+}
+
+#app {
+	position: relative;
+	width: var(--canvas_width);
+	height: var(--canvas_height);
+}
+
+.rect {
+	display: none;
+	position: absolute;
+	top: 50%;
+	right: 100px;
+	width: 600px;
+	height: 700px;
+	transform: translateY(calc(-50% - 100px));
+	background-color: rgba(255, 250, 250, 0.75);
+	border-top: 1px solid hsla(0, 100%, 75%, 50%);
+	border-bottom: 1px solid hsla(0, 100%, 75%, 50%);
+	border-left: 1px solid hsla(0, 100%, 75%, 50%);
+	border-radius: 0.5rem;
+	padding: 0 2.5rem 2.5rem 2.5rem;
+	overflow-x: hidden;
+	overflow-y: auto;
+	backdrop-filter: blur(10px);
+	user-select: none;
+}
+
+h1 {
+	font-size: 2.5rem;
+	font-weight: 700;
+	top: 0;
+	left: 2rem;
+	padding: 3rem 0 3rem;
+	position: sticky;
+	background: linear-gradient(to bottom, #fffbfb, rgb(255 251 251 / 50%));
+	color: hsl(0 100% 20% / 1);
+	backdrop-filter: blur(10px);
+	z-index: 2;
+}
+
+ul {
+	position: relative;
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	justify-content: stretch;
+	padding-top: 1rem;
+	gap: 1rem;
+}
+
+li {
+	background-color: hsl(0 100% 97% / 1);
+	padding: 1rem;
+	border-radius: 0.5rem;
+	color: hsl(0 100% 20% / 1);
+}
+
+li.active {
+	background: linear-gradient(
+		to left,
+		hsl(0 100% 93% / 1),
+		hsl(0 100% 85% / 1)
+	);
+}
+
+li:hover {
+	cursor: pointer;
+}
+
+li:hover h2 {
+	transform: translateX(1rem);
+	transition: transform 0.25s ease-in;
+}
+
+span.code {
+	font-size: 75%;
+	opacity: 0.675;
+	padding-left: 0.5rem;
+}
+
+.card {
+	padding: 1rem 0.75rem;
+}
+
+.card__body {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header h2 span.name {
+	font-size: 1.75rem;
+	font-weight: 600;
+}
+
+.header h2 {
+	transition: transform 0.25s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.content {
+	font-size: 135%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 3rem;
+	font-weight: 600;
+}
+
+.population {
+	text-align: left;
+}
+
+.cases::after {
+	font-size: 70%;
+	padding-left: 0.75rem;
+	content: "per 100,000 habitants";
+}

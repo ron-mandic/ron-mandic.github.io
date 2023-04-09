@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!--
+			ITF Transport Statistics
+			International Transport Forum
+
+			The ITF Transport Statistics database comprises statistics collected by the
+			International Transport Forum on transport networks, equipment, freight and
+			passenger transport, road safety and spending on infrastructure. Additionally,
+			there are quarterly data covering road traffic, new vehicles, and fuel use.
+			Most of the ITF data series start in 1995. However, the database also includes
+			harmonised time series consolidated as far back as 1970.
+		-->
+		<!-- Data: https://www.oecd-ilibrary.org/transport/data/itf-transport-statistics/casualties-by-age-and-road-user_3c6c57b0-en -->
+		<!-- 
+			This dataset comprises data on injuries and deaths resulting from road accidents,
+			by age and road use. The data are an extract of the International Traffic Safety
+			Data and Analysis Group (IRTAD) database which is available to members of the
+			IRTAD community.
+		 -->
+		<!--
+			Author(s)
+			International Transport Forum
+
+			https://doi.org/10.1787/3c6c57b0-en
+		 -->
+		<!--
+			Legend:
+			b	Break
+			e	Estimate
+			p	Provisional
+			ep	Estimate and provisional
+			eb 	Estimate and break
+			pb 	Provisional and break
+
+			Viewed on 01 April 2023 Source: OECD	
+		 -->
+		<!--
+			Population data: https://data.worldbank.org/indicator/SP.POP.TOTL?end=2020&start=1990
+			1990-2020
+		 -->
+
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="shortcut icon"
+			href="./public/favicon.ico"
+			type="image/x-icon"
+		/>
+
+		<script src="./lib/p5.js"></script>
+		<script src="./lib/p5.anims.js"></script>
+
+		<!-- ./source/js/lib/ -->
+		<script src="./source/js/lib/constants.js"></script>
+		<script src="./source/js/lib/enum.js"></script>
+		<script src="./source/js/lib/typedef.js"></script>
+		<script src="./source/js/lib/variables.js"></script>
+		<script src="./source/js/lib/helpers.js"></script>
+
+		<!-- ./source/js/classes/ -->
+		<script src="./source/js/classes/Chart.js"></script>
+		<script src="./source/js/classes/Bar.js"></script>
+		<script src="./source/js/classes/Arc.js"></script>
+		<script src="./source/js/classes/Segment.js"></script>
+		<script src="./source/js/classes/Modal.js"></script>
+		<script src="./source/js/classes/Slider.js"></script>
+		<script src="./source/js/classes/TimingFunctions.js"></script>
+
+		<script src="./source/js/index.js"></script>
+
+		<link rel="stylesheet" href="./source/css/index.css" />
+		<title>Daten</title>
+	</head>
+	<body class="flex">
+		<div id="p5_loading" class="loadingclass flex">
+			<p class="loadingclass__text">Loading</p>
+		</div>
+		<main id="app">
+			<div id="canvas"></div>
+			<div class="rect">
+				<h1>
+					<span><span id="numCountries"></span> Countries</span>
+					<span
+						style="
+							font-size: 50%;
+							opacity: 0.75;
+							padding-left: 0.5rem;
+						"
+						>by population and total relative cases</span
+					>
+				</h1>
+				<ul id="country-list"></ul>
+			</div>
+		</main>
+
+		<template id="country-list-item-template">
+			<li class="country">
+				<div class="card">
+					<div class="card__body">
+						<div class="header">
+							<h2>
+								<span class="name"></span>
+								<span class="code"></span>
+							</h2>
+						</div>
+						<div class="content">
+							<span class="population"></span>
+							<span class="cases"></span>
+						</div>
+					</div>
+				</div>
+			</li>
+		</template>
+	</body>
+</html>

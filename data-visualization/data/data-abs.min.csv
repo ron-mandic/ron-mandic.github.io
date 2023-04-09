@@ -1,0 +1,3620 @@
+﻿"COUNTRY","Country","AGE_GROUP","TRAFFIC_PARTICIPATION","Year","Unit","Value"
+"AUS","Australia","0-14Y","CARS",2000,"Persons",65
+"AUS","Australia","15-24Y","CARS",2000,"Persons",375
+"AUS","Australia","25-64Y","CARS",2000,"Persons",664
+"AUS","Australia","65MORE","CARS",2000,"Persons",198
+"AUS","Australia","0-14Y","CARS",2001,"Persons",48
+"AUS","Australia","15-24Y","CARS",2001,"Persons",352
+"AUS","Australia","25-64Y","CARS",2001,"Persons",589
+"AUS","Australia","65MORE","CARS",2001,"Persons",194
+"AUS","Australia","0-14Y","CARS",2002,"Persons",51
+"AUS","Australia","15-24Y","CARS",2002,"Persons",355
+"AUS","Australia","25-64Y","CARS",2002,"Persons",617
+"AUS","Australia","65MORE","CARS",2002,"Persons",184
+"AUS","Australia","0-14Y","CARS",2003,"Persons",75
+"AUS","Australia","15-24Y","CARS",2003,"Persons",348
+"AUS","Australia","25-64Y","CARS",2003,"Persons",557
+"AUS","Australia","65MORE","CARS",2003,"Persons",184
+"AUS","Australia","65MORE","CARS",2004,"Persons",178
+"AUS","Australia","0-14Y","CARS",2005,"Persons",55
+"AUS","Australia","15-24Y","CARS",2005,"Persons",310
+"AUS","Australia","25-64Y","CARS",2005,"Persons",582
+"AUS","Australia","65MORE","CARS",2005,"Persons",173
+"AUS","Australia","0-14Y","CARS",2006,"Persons",48
+"AUS","Australia","15-24Y","CARS",2006,"Persons",353
+"AUS","Australia","25-64Y","CARS",2006,"Persons",543
+"AUS","Australia","65MORE","CARS",2006,"Persons",149
+"AUS","Australia","0-14Y","CARS",2007,"Persons",49
+"AUS","Australia","15-24Y","CARS",2007,"Persons",290
+"AUS","Australia","25-64Y","CARS",2007,"Persons",594
+"AUS","Australia","65MORE","CARS",2007,"Persons",187
+"AUS","Australia","0-14Y","CARS",2008,"Persons",34
+"AUS","Australia","15-24Y","CARS",2008,"Persons",227
+"AUS","Australia","25-64Y","CARS",2008,"Persons",377
+"AUS","Australia","65MORE","CARS",2008,"Persons",132
+"AUS","Australia","0-14Y","CARS",2009,"Persons",48
+"AUS","Australia","15-24Y","CARS",2009,"Persons",239
+"AUS","Australia","25-64Y","CARS",2009,"Persons",382
+"AUS","Australia","65MORE","CARS",2009,"Persons",124
+"AUS","Australia","0-14Y","CARS",2010,"Persons",38
+"AUS","Australia","15-24Y","CARS",2010,"Persons",207
+"AUS","Australia","25-64Y","CARS",2010,"Persons",340
+"AUS","Australia","65MORE","CARS",2010,"Persons",136
+"AUS","Australia","0-14Y","CARS",2011,"Persons",39
+"AUS","Australia","15-24Y","CARS",2011,"Persons",188
+"AUS","Australia","25-64Y","CARS",2011,"Persons",327
+"AUS","Australia","65MORE","CARS",2011,"Persons",125
+"AUS","Australia","0-14Y","CARS",2012,"Persons",25
+"AUS","Australia","15-24Y","CARS",2012,"Persons",164
+"AUS","Australia","25-64Y","CARS",2012,"Persons",330
+"AUS","Australia","65MORE","CARS",2012,"Persons",150
+"AUS","Australia","0-14Y","CARS",2013,"Persons",28
+"AUS","Australia","15-24Y","CARS",2013,"Persons",131
+"AUS","Australia","25-64Y","CARS",2013,"Persons",280
+"AUS","Australia","65MORE","CARS",2013,"Persons",151
+"AUS","Australia","0-14Y","CARS",2014,"Persons",33
+"AUS","Australia","15-24Y","CARS",2014,"Persons",119
+"AUS","Australia","25-64Y","CARS",2014,"Persons",273
+"AUS","Australia","65MORE","CARS",2014,"Persons",140
+"AUS","Australia","0-14Y","CARS",2015,"Persons",27
+"AUS","Australia","15-24Y","CARS",2015,"Persons",140
+"AUS","Australia","25-64Y","CARS",2015,"Persons",299
+"AUS","Australia","65MORE","CARS",2015,"Persons",143
+"AUS","Australia","0-14Y","CARS",2016,"Persons",24
+"AUS","Australia","15-24Y","CARS",2016,"Persons",133
+"AUS","Australia","25-64Y","CARS",2016,"Persons",308
+"AUS","Australia","65MORE","CARS",2016,"Persons",139
+"AUS","Australia","0-14Y","CARS",2017,"Persons",16
+"AUS","Australia","15-24Y","CARS",2017,"Persons",129
+"AUS","Australia","25-64Y","CARS",2017,"Persons",281
+"AUS","Australia","65MORE","CARS",2017,"Persons",155
+"AUS","Australia","0-14Y","CARS",2018,"Persons",18
+"AUS","Australia","15-24Y","CARS",2018,"Persons",134
+"AUS","Australia","25-64Y","CARS",2018,"Persons",258
+"AUS","Australia","65MORE","CARS",2018,"Persons",121
+"AUS","Australia","0-14Y","CARS",2019,"Persons",24
+"AUS","Australia","15-24Y","CARS",2019,"Persons",114
+"AUS","Australia","25-64Y","CARS",2019,"Persons",268
+"AUS","Australia","65MORE","CARS",2019,"Persons",143
+"AUS","Australia","0-14Y","CARS",2020,"Persons",21
+"AUS","Australia","15-24Y","CARS",2020,"Persons",114
+"AUS","Australia","25-64Y","CARS",2020,"Persons",263
+"AUS","Australia","65MORE","CARS",2020,"Persons",127
+"AUT","Austria","0-14Y","CARS",1990,"Persons",28
+"AUT","Austria","15-24Y","CARS",1990,"Persons",319
+"AUT","Austria","25-64Y","CARS",1990,"Persons",475
+"AUT","Austria","65MORE","CARS",1990,"Persons",87
+"AUT","Austria","0-14Y","CARS",1991,"Persons",36
+"AUT","Austria","15-24Y","CARS",1991,"Persons",317
+"AUT","Austria","25-64Y","CARS",1991,"Persons",461
+"AUT","Austria","65MORE","CARS",1991,"Persons",96
+"AUT","Austria","0-14Y","CARS",1992,"Persons",19
+"AUT","Austria","15-24Y","CARS",1992,"Persons",285
+"AUT","Austria","25-64Y","CARS",1992,"Persons",473
+"AUT","Austria","65MORE","CARS",1992,"Persons",76
+"AUT","Austria","0-14Y","CARS",1993,"Persons",21
+"AUT","Austria","15-24Y","CARS",1993,"Persons",260
+"AUT","Austria","25-64Y","CARS",1993,"Persons",385
+"AUT","Austria","65MORE","CARS",1993,"Persons",80
+"AUT","Austria","0-14Y","CARS",1994,"Persons",23
+"AUT","Austria","15-24Y","CARS",1994,"Persons",286
+"AUT","Austria","25-64Y","CARS",1994,"Persons",415
+"AUT","Austria","65MORE","CARS",1994,"Persons",83
+"AUT","Austria","0-14Y","CARS",1995,"Persons",24
+"AUT","Austria","15-24Y","CARS",1995,"Persons",218
+"AUT","Austria","25-64Y","CARS",1995,"Persons",400
+"AUT","Austria","65MORE","CARS",1995,"Persons",66
+"AUT","Austria","0-14Y","CARS",1996,"Persons",20
+"AUT","Austria","15-24Y","CARS",1996,"Persons",204
+"AUT","Austria","25-64Y","CARS",1996,"Persons",334
+"AUT","Austria","65MORE","CARS",1996,"Persons",67
+"AUT","Austria","0-14Y","CARS",1997,"Persons",17
+"AUT","Austria","15-24Y","CARS",1997,"Persons",235
+"AUT","Austria","25-64Y","CARS",1997,"Persons",341
+"AUT","Austria","65MORE","CARS",1997,"Persons",74
+"AUT","Austria","0-14Y","CARS",1998,"Persons",22
+"AUT","Austria","15-24Y","CARS",1998,"Persons",157
+"AUT","Austria","25-64Y","CARS",1998,"Persons",313
+"AUT","Austria","65MORE","CARS",1998,"Persons",73
+"AUT","Austria","0-14Y","CARS",1999,"Persons",21
+"AUT","Austria","15-24Y","CARS",1999,"Persons",188
+"AUT","Austria","25-64Y","CARS",1999,"Persons",312
+"AUT","Austria","65MORE","CARS",1999,"Persons",93
+"AUT","Austria","0-14Y","CARS",2000,"Persons",10
+"AUT","Austria","15-24Y","CARS",2000,"Persons",172
+"AUT","Austria","25-64Y","CARS",2000,"Persons",299
+"AUT","Austria","65MORE","CARS",2000,"Persons",68
+"AUT","Austria","0-14Y","CARS",2001,"Persons",19
+"AUT","Austria","15-24Y","CARS",2001,"Persons",172
+"AUT","Austria","25-64Y","CARS",2001,"Persons",300
+"AUT","Austria","65MORE","CARS",2001,"Persons",79
+"AUT","Austria","0-14Y","CARS",2002,"Persons",14
+"AUT","Austria","15-24Y","CARS",2002,"Persons",156
+"AUT","Austria","25-64Y","CARS",2002,"Persons",281
+"AUT","Austria","65MORE","CARS",2002,"Persons",73
+"AUT","Austria","0-14Y","CARS",2003,"Persons",20
+"AUT","Austria","15-24Y","CARS",2003,"Persons",161
+"AUT","Austria","25-64Y","CARS",2003,"Persons",263
+"AUT","Austria","65MORE","CARS",2003,"Persons",80
+"AUT","Austria","0-14Y","CARS",2004,"Persons",8
+"AUT","Austria","15-24Y","CARS",2004,"Persons",148
+"AUT","Austria","25-64Y","CARS",2004,"Persons",256
+"AUT","Austria","65MORE","CARS",2004,"Persons",68
+"AUT","Austria","0-14Y","CARS",2005,"Persons",11
+"AUT","Austria","15-24Y","CARS",2005,"Persons",115
+"AUT","Austria","25-64Y","CARS",2005,"Persons",236
+"AUT","Austria","65MORE","CARS",2005,"Persons",70
+"AUT","Austria","0-14Y","CARS",2006,"Persons",14
+"AUT","Austria","15-24Y","CARS",2006,"Persons",107
+"AUT","Austria","25-64Y","CARS",2006,"Persons",204
+"AUT","Austria","65MORE","CARS",2006,"Persons",59
+"AUT","Austria","0-14Y","CARS",2007,"Persons",7
+"AUT","Austria","15-24Y","CARS",2007,"Persons",119
+"AUT","Austria","25-64Y","CARS",2007,"Persons",194
+"AUT","Austria","65MORE","CARS",2007,"Persons",58
+"AUT","Austria","0-14Y","CARS",2008,"Persons",7
+"AUT","Austria","15-24Y","CARS",2008,"Persons",113
+"AUT","Austria","25-64Y","CARS",2008,"Persons",176
+"AUT","Austria","65MORE","CARS",2008,"Persons",71
+"AUT","Austria","0-14Y","CARS",2009,"Persons",6
+"AUT","Austria","15-24Y","CARS",2009,"Persons",78
+"AUT","Austria","25-64Y","CARS",2009,"Persons",175
+"AUT","Austria","65MORE","CARS",2009,"Persons",69
+"AUT","Austria","0-14Y","CARS",2010,"Persons",4
+"AUT","Austria","15-24Y","CARS",2010,"Persons",97
+"AUT","Austria","25-64Y","CARS",2010,"Persons",134
+"AUT","Austria","65MORE","CARS",2010,"Persons",57
+"AUT","Austria","0-14Y","CARS",2011,"Persons",7
+"AUT","Austria","15-24Y","CARS",2011,"Persons",69
+"AUT","Austria","25-64Y","CARS",2011,"Persons",141
+"AUT","Austria","65MORE","CARS",2011,"Persons",73
+"AUT","Austria","0-14Y","CARS",2012,"Persons",2
+"AUT","Austria","15-24Y","CARS",2012,"Persons",74
+"AUT","Austria","25-64Y","CARS",2012,"Persons",139
+"AUT","Austria","65MORE","CARS",2012,"Persons",64
+"AUT","Austria","0-14Y","CARS",2013,"Persons",4
+"AUT","Austria","15-24Y","CARS",2013,"Persons",39
+"AUT","Austria","25-64Y","CARS",2013,"Persons",101
+"AUT","Austria","65MORE","CARS",2013,"Persons",49
+"AUT","Austria","0-14Y","CARS",2014,"Persons",3
+"AUT","Austria","15-24Y","CARS",2014,"Persons",43
+"AUT","Austria","25-64Y","CARS",2014,"Persons",100
+"AUT","Austria","65MORE","CARS",2014,"Persons",43
+"AUT","Austria","0-14Y","CARS",2015,"Persons",5
+"AUT","Austria","15-24Y","CARS",2015,"Persons",52
+"AUT","Austria","25-64Y","CARS",2015,"Persons",119
+"AUT","Austria","65MORE","CARS",2015,"Persons",62
+"AUT","Austria","0-14Y","CARS",2016,"Persons",3
+"AUT","Austria","15-24Y","CARS",2016,"Persons",45
+"AUT","Austria","25-64Y","CARS",2016,"Persons",89
+"AUT","Austria","65MORE","CARS",2016,"Persons",52
+"AUT","Austria","0-14Y","CARS",2017,"Persons",4
+"AUT","Austria","15-24Y","CARS",2017,"Persons",41
+"AUT","Austria","25-64Y","CARS",2017,"Persons",102
+"AUT","Austria","65MORE","CARS",2017,"Persons",35
+"AUT","Austria","0-14Y","CARS",2018,"Persons",3
+"AUT","Austria","15-24Y","CARS",2018,"Persons",24
+"AUT","Austria","25-64Y","CARS",2018,"Persons",105
+"AUT","Austria","65MORE","CARS",2018,"Persons",49
+"AUT","Austria","0-14Y","CARS",2019,"Persons",3
+"AUT","Austria","15-24Y","CARS",2019,"Persons",34
+"AUT","Austria","25-64Y","CARS",2019,"Persons",110
+"AUT","Austria","65MORE","CARS",2019,"Persons",53
+"AUT","Austria","0-14Y","CARS",2020,"Persons",1
+"AUT","Austria","15-24Y","CARS",2020,"Persons",33
+"AUT","Austria","25-64Y","CARS",2020,"Persons",73
+"AUT","Austria","65MORE","CARS",2020,"Persons",39
+"BEL","Belgium","0-14Y","CARS",1990,"Persons",39
+"BEL","Belgium","15-24Y","CARS",1990,"Persons",354
+"BEL","Belgium","25-64Y","CARS",1990,"Persons",646
+"BEL","Belgium","65MORE","CARS",1990,"Persons",129
+"BEL","Belgium","0-14Y","CARS",1991,"Persons",16
+"BEL","Belgium","15-24Y","CARS",1991,"Persons",331
+"BEL","Belgium","25-64Y","CARS",1991,"Persons",651
+"BEL","Belgium","65MORE","CARS",1991,"Persons",140
+"BEL","Belgium","0-14Y","CARS",1992,"Persons",23
+"BEL","Belgium","15-24Y","CARS",1992,"Persons",320
+"BEL","Belgium","25-64Y","CARS",1992,"Persons",572
+"BEL","Belgium","65MORE","CARS",1992,"Persons",123
+"BEL","Belgium","0-14Y","CARS",1993,"Persons",27
+"BEL","Belgium","15-24Y","CARS",1993,"Persons",283
+"BEL","Belgium","25-64Y","CARS",1993,"Persons",620
+"BEL","Belgium","65MORE","CARS",1993,"Persons",115
+"BEL","Belgium","0-14Y","CARS",1994,"Persons",24
+"BEL","Belgium","15-24Y","CARS",1994,"Persons",299
+"BEL","Belgium","25-64Y","CARS",1994,"Persons",582
+"BEL","Belgium","65MORE","CARS",1994,"Persons",152
+"BEL","Belgium","0-14Y","CARS",1995,"Persons",30
+"BEL","Belgium","15-24Y","CARS",1995,"Persons",247
+"BEL","Belgium","25-64Y","CARS",1995,"Persons",517
+"BEL","Belgium","65MORE","CARS",1995,"Persons",129
+"BEL","Belgium","0-14Y","CARS",1996,"Persons",25
+"BEL","Belgium","15-24Y","CARS",1996,"Persons",228
+"BEL","Belgium","25-64Y","CARS",1996,"Persons",467
+"BEL","Belgium","65MORE","CARS",1996,"Persons",127
+"BEL","Belgium","0-14Y","CARS",1997,"Persons",21
+"BEL","Belgium","15-24Y","CARS",1997,"Persons",205
+"BEL","Belgium","25-64Y","CARS",1997,"Persons",496
+"BEL","Belgium","65MORE","CARS",1997,"Persons",125
+"BEL","Belgium","0-14Y","CARS",1998,"Persons",38
+"BEL","Belgium","15-24Y","CARS",1998,"Persons",242
+"BEL","Belgium","25-64Y","CARS",1998,"Persons",515
+"BEL","Belgium","65MORE","CARS",1998,"Persons",135
+"BEL","Belgium","0-14Y","CARS",1999,"Persons",31
+"BEL","Belgium","15-24Y","CARS",1999,"Persons",234
+"BEL","Belgium","25-64Y","CARS",1999,"Persons",468
+"BEL","Belgium","65MORE","CARS",1999,"Persons",122
+"BEL","Belgium","0-14Y","CARS",2000,"Persons",20
+"BEL","Belgium","15-24Y","CARS",2000,"Persons",272
+"BEL","Belgium","25-64Y","CARS",2000,"Persons",514
+"BEL","Belgium","65MORE","CARS",2000,"Persons",108
+"BEL","Belgium","0-14Y","CARS",2001,"Persons",31
+"BEL","Belgium","15-24Y","CARS",2001,"Persons",220
+"BEL","Belgium","25-64Y","CARS",2001,"Persons",512
+"BEL","Belgium","65MORE","CARS",2001,"Persons",133
+"BEL","Belgium","0-14Y","CARS",2002,"Persons",14
+"BEL","Belgium","15-24Y","CARS",2002,"Persons",217
+"BEL","Belgium","25-64Y","CARS",2002,"Persons",463
+"BEL","Belgium","65MORE","CARS",2002,"Persons",107
+"BEL","Belgium","0-14Y","CARS",2003,"Persons",12
+"BEL","Belgium","15-24Y","CARS",2003,"Persons",193
+"BEL","Belgium","25-64Y","CARS",2003,"Persons",379
+"BEL","Belgium","65MORE","CARS",2003,"Persons",101
+"BEL","Belgium","0-14Y","CARS",2004,"Persons",10
+"BEL","Belgium","15-24Y","CARS",2004,"Persons",188
+"BEL","Belgium","25-64Y","CARS",2004,"Persons",350
+"BEL","Belgium","65MORE","CARS",2004,"Persons",78
+"BEL","Belgium","0-14Y","CARS",2005,"Persons",20
+"BEL","Belgium","15-24Y","CARS",2005,"Persons",159
+"BEL","Belgium","25-64Y","CARS",2005,"Persons",360
+"BEL","Belgium","65MORE","CARS",2005,"Persons",84
+"BEL","Belgium","0-14Y","CARS",2006,"Persons",18
+"BEL","Belgium","15-24Y","CARS",2006,"Persons",156
+"BEL","Belgium","25-64Y","CARS",2006,"Persons",356
+"BEL","Belgium","65MORE","CARS",2006,"Persons",79
+"BEL","Belgium","0-14Y","CARS",2007,"Persons",17
+"BEL","Belgium","15-24Y","CARS",2007,"Persons",161
+"BEL","Belgium","25-64Y","CARS",2007,"Persons",323
+"BEL","Belgium","65MORE","CARS",2007,"Persons",72
+"BEL","Belgium","0-14Y","CARS",2008,"Persons",18
+"BEL","Belgium","15-24Y","CARS",2008,"Persons",129
+"BEL","Belgium","25-64Y","CARS",2008,"Persons",276
+"BEL","Belgium","65MORE","CARS",2008,"Persons",75
+"BEL","Belgium","0-14Y","CARS",2009,"Persons",14
+"BEL","Belgium","15-24Y","CARS",2009,"Persons",126
+"BEL","Belgium","25-64Y","CARS",2009,"Persons",255
+"BEL","Belgium","65MORE","CARS",2009,"Persons",78
+"BEL","Belgium","0-14Y","CARS",2010,"Persons",9
+"BEL","Belgium","15-24Y","CARS",2010,"Persons",136
+"BEL","Belgium","25-64Y","CARS",2010,"Persons",240
+"BEL","Belgium","65MORE","CARS",2010,"Persons",63
+"BEL","Belgium","0-14Y","CARS",2011,"Persons",19
+"BEL","Belgium","15-24Y","CARS",2011,"Persons",104
+"BEL","Belgium","25-64Y","CARS",2011,"Persons",259
+"BEL","Belgium","65MORE","CARS",2011,"Persons",80
+"BEL","Belgium","0-14Y","CARS",2012,"Persons",7
+"BEL","Belgium","15-24Y","CARS",2012,"Persons",102
+"BEL","Belgium","25-64Y","CARS",2012,"Persons",227
+"BEL","Belgium","65MORE","CARS",2012,"Persons",66
+"BEL","Belgium","0-14Y","CARS",2013,"Persons",5
+"BEL","Belgium","15-24Y","CARS",2013,"Persons",91
+"BEL","Belgium","25-64Y","CARS",2013,"Persons",207
+"BEL","Belgium","65MORE","CARS",2013,"Persons",66
+"BEL","Belgium","0-14Y","CARS",2014,"Persons",10
+"BEL","Belgium","15-24Y","CARS",2014,"Persons",84
+"BEL","Belgium","25-64Y","CARS",2014,"Persons",207
+"BEL","Belgium","65MORE","CARS",2014,"Persons",86
+"BEL","Belgium","0-14Y","CARS",2015,"Persons",8
+"BEL","Belgium","15-24Y","CARS",2015,"Persons",80
+"BEL","Belgium","25-64Y","CARS",2015,"Persons",196
+"BEL","Belgium","65MORE","CARS",2015,"Persons",90
+"BEL","Belgium","0-14Y","CARS",2016,"Persons",7
+"BEL","Belgium","15-24Y","CARS",2016,"Persons",72
+"BEL","Belgium","25-64Y","CARS",2016,"Persons",193
+"BEL","Belgium","65MORE","CARS",2016,"Persons",67
+"BEL","Belgium","0-14Y","CARS",2017,"Persons",5
+"BEL","Belgium","15-24Y","CARS",2017,"Persons",59
+"BEL","Belgium","25-64Y","CARS",2017,"Persons",165
+"BEL","Belgium","65MORE","CARS",2017,"Persons",52
+"BEL","Belgium","0-14Y","CARS",2018,"Persons",5
+"BEL","Belgium","15-24Y","CARS",2018,"Persons",43
+"BEL","Belgium","25-64Y","CARS",2018,"Persons",153
+"BEL","Belgium","65MORE","CARS",2018,"Persons",69
+"BEL","Belgium","0-14Y","CARS",2019,"Persons",2
+"BEL","Belgium","15-24Y","CARS",2019,"Persons",65
+"BEL","Belgium","25-64Y","CARS",2019,"Persons",171
+"BEL","Belgium","65MORE","CARS",2019,"Persons",70
+"BEL","Belgium","0-14Y","CARS",2020,"Persons",3
+"BEL","Belgium","15-24Y","CARS",2020,"Persons",49
+"BEL","Belgium","25-64Y","CARS",2020,"Persons",138
+"BEL","Belgium","65MORE","CARS",2020,"Persons",29
+"CAN","Canada","0-14Y","CARS",1990,"Persons",126
+"CAN","Canada","15-24Y","CARS",1990,"Persons",642
+"CAN","Canada","25-64Y","CARS",1990,"Persons",1144
+"CAN","Canada","65MORE","CARS",1990,"Persons",324
+"CAN","Canada","0-14Y","CARS",1991,"Persons",77
+"CAN","Canada","15-24Y","CARS",1991,"Persons",626
+"CAN","Canada","25-64Y","CARS",1991,"Persons",1067
+"CAN","Canada","65MORE","CARS",1991,"Persons",317
+"CAN","Canada","0-14Y","CARS",1992,"Persons",101
+"CAN","Canada","15-24Y","CARS",1992,"Persons",575
+"CAN","Canada","25-64Y","CARS",1992,"Persons",1039
+"CAN","Canada","65MORE","CARS",1992,"Persons",317
+"CAN","Canada","0-14Y","CARS",1993,"Persons",78
+"CAN","Canada","15-24Y","CARS",1993,"Persons",603
+"CAN","Canada","25-64Y","CARS",1993,"Persons",1068
+"CAN","Canada","65MORE","CARS",1993,"Persons",313
+"CAN","Canada","0-14Y","CARS",1994,"Persons",81
+"CAN","Canada","15-24Y","CARS",1994,"Persons",518
+"CAN","Canada","25-64Y","CARS",1994,"Persons",910
+"CAN","Canada","65MORE","CARS",1994,"Persons",320
+"CAN","Canada","0-14Y","CARS",1995,"Persons",91
+"CAN","Canada","15-24Y","CARS",1995,"Persons",524
+"CAN","Canada","25-64Y","CARS",1995,"Persons",955
+"CAN","Canada","65MORE","CARS",1995,"Persons",322
+"CAN","Canada","0-14Y","CARS",1996,"Persons",77
+"CAN","Canada","15-24Y","CARS",1996,"Persons",540
+"CAN","Canada","25-64Y","CARS",1996,"Persons",952
+"CAN","Canada","65MORE","CARS",1996,"Persons",321
+"CAN","Canada","0-14Y","CARS",1997,"Persons",91
+"CAN","Canada","15-24Y","CARS",1997,"Persons",561
+"CAN","Canada","25-64Y","CARS",1997,"Persons",926
+"CAN","Canada","65MORE","CARS",1997,"Persons",326
+"CAN","Canada","0-14Y","CARS",1998,"Persons",61
+"CAN","Canada","15-24Y","CARS",1998,"Persons",449
+"CAN","Canada","25-64Y","CARS",1998,"Persons",794
+"CAN","Canada","65MORE","CARS",1998,"Persons",323
+"CAN","Canada","0-14Y","CARS",1999,"Persons",82
+"CAN","Canada","15-24Y","CARS",1999,"Persons",531
+"CAN","Canada","25-64Y","CARS",1999,"Persons",923
+"CAN","Canada","65MORE","CARS",1999,"Persons",330
+"CAN","Canada","0-14Y","CARS",2000,"Persons",81
+"CAN","Canada","15-24Y","CARS",2000,"Persons",594
+"CAN","Canada","25-64Y","CARS",2000,"Persons",1023
+"CAN","Canada","65MORE","CARS",2000,"Persons",341
+"CAN","Canada","0-14Y","CARS",2001,"Persons",74
+"CAN","Canada","15-24Y","CARS",2001,"Persons",551
+"CAN","Canada","25-64Y","CARS",2001,"Persons",998
+"CAN","Canada","65MORE","CARS",2001,"Persons",342
+"CAN","Canada","0-14Y","CARS",2002,"Persons",89
+"CAN","Canada","15-24Y","CARS",2002,"Persons",566
+"CAN","Canada","25-64Y","CARS",2002,"Persons",1047
+"CAN","Canada","65MORE","CARS",2002,"Persons",355
+"CAN","Canada","0-14Y","CARS",2003,"Persons",61
+"CAN","Canada","15-24Y","CARS",2003,"Persons",548
+"CAN","Canada","25-64Y","CARS",2003,"Persons",983
+"CAN","Canada","65MORE","CARS",2003,"Persons",314
+"CAN","Canada","0-14Y","CARS",2004,"Persons",56
+"CAN","Canada","15-24Y","CARS",2004,"Persons",532
+"CAN","Canada","25-64Y","CARS",2004,"Persons",933
+"CAN","Canada","65MORE","CARS",2004,"Persons",321
+"CAN","Canada","0-14Y","CARS",2005,"Persons",68
+"CAN","Canada","15-24Y","CARS",2005,"Persons",556
+"CAN","Canada","25-64Y","CARS",2005,"Persons",1034
+"CAN","Canada","65MORE","CARS",2005,"Persons",332
+"CAN","Canada","0-14Y","CARS",2006,"Persons",59
+"CAN","Canada","15-24Y","CARS",2006,"Persons",541
+"CAN","Canada","25-64Y","CARS",2006,"Persons",1054
+"CAN","Canada","65MORE","CARS",2006,"Persons",291
+"CAN","Canada","0-14Y","CARS",2007,"Persons",56
+"CAN","Canada","15-24Y","CARS",2007,"Persons",520
+"CAN","Canada","25-64Y","CARS",2007,"Persons",973
+"CAN","Canada","65MORE","CARS",2007,"Persons",289
+"CAN","Canada","0-14Y","CARS",2008,"Persons",34
+"CAN","Canada","15-24Y","CARS",2008,"Persons",460
+"CAN","Canada","25-64Y","CARS",2008,"Persons",830
+"CAN","Canada","65MORE","CARS",2008,"Persons",294
+"CAN","Canada","0-14Y","CARS",2009,"Persons",36
+"CAN","Canada","15-24Y","CARS",2009,"Persons",415
+"CAN","Canada","25-64Y","CARS",2009,"Persons",754
+"CAN","Canada","65MORE","CARS",2009,"Persons",242
+"CAN","Canada","0-14Y","CARS",2010,"Persons",36
+"CAN","Canada","15-24Y","CARS",2010,"Persons",412
+"CAN","Canada","25-64Y","CARS",2010,"Persons",765
+"CAN","Canada","65MORE","CARS",2010,"Persons",263
+"CAN","Canada","0-14Y","CARS",2011,"Persons",35
+"CAN","Canada","15-24Y","CARS",2011,"Persons",343
+"CAN","Canada","25-64Y","CARS",2011,"Persons",643
+"CAN","Canada","65MORE","CARS",2011,"Persons",262
+"CAN","Canada","0-14Y","CARS",2012,"Persons",45
+"CAN","Canada","15-24Y","CARS",2012,"Persons",361
+"CAN","Canada","25-64Y","CARS",2012,"Persons",683
+"CAN","Canada","65MORE","CARS",2012,"Persons",225
+"CAN","Canada","0-14Y","CARS",2013,"Persons",39
+"CAN","Canada","15-24Y","CARS",2013,"Persons",310
+"CAN","Canada","25-64Y","CARS",2013,"Persons",591
+"CAN","Canada","65MORE","CARS",2013,"Persons",248
+"CAN","Canada","0-14Y","CARS",2014,"Persons",27
+"CAN","Canada","15-24Y","CARS",2014,"Persons",247
+"CAN","Canada","25-64Y","CARS",2014,"Persons",596
+"CAN","Canada","65MORE","CARS",2014,"Persons",240
+"CAN","Canada","0-14Y","CARS",2015,"Persons",37
+"CAN","Canada","15-24Y","CARS",2015,"Persons",266
+"CAN","Canada","25-64Y","CARS",2015,"Persons",593
+"CAN","Canada","65MORE","CARS",2015,"Persons",269
+"CAN","Canada","0-14Y","CARS",2016,"Persons",34
+"CAN","Canada","15-24Y","CARS",2016,"Persons",227
+"CAN","Canada","25-64Y","CARS",2016,"Persons",609
+"CAN","Canada","65MORE","CARS",2016,"Persons",240
+"CAN","Canada","0-14Y","CARS",2017,"Persons",49
+"CAN","Canada","15-24Y","CARS",2017,"Persons",238
+"CAN","Canada","25-64Y","CARS",2017,"Persons",641
+"CAN","Canada","65MORE","CARS",2017,"Persons",211
+"CAN","Canada","0-14Y","CARS",2018,"Persons",36
+"CAN","Canada","15-24Y","CARS",2018,"Persons",227
+"CAN","Canada","25-64Y","CARS",2018,"Persons",635
+"CAN","Canada","65MORE","CARS",2018,"Persons",259
+"CAN","Canada","0-14Y","CARS",2019,"Persons",24
+"CAN","Canada","15-24Y","CARS",2019,"Persons",212
+"CAN","Canada","25-64Y","CARS",2019,"Persons",554
+"CAN","Canada","65MORE","CARS",2019,"Persons",271
+"CAN","Canada","0-14Y","CARS",2020,"Persons",23
+"CAN","Canada","15-24Y","CARS",2020,"Persons",226
+"CAN","Canada","25-64Y","CARS",2020,"Persons",553
+"CAN","Canada","65MORE","CARS",2020,"Persons",204
+"CHE","Switzerland","0-14Y","CARS",1990,"Persons",14
+"CHE","Switzerland","15-24Y","CARS",1990,"Persons",153
+"CHE","Switzerland","25-64Y","CARS",1990,"Persons",243
+"CHE","Switzerland","65MORE","CARS",1990,"Persons",45
+"CHE","Switzerland","0-14Y","CARS",1991,"Persons",11
+"CHE","Switzerland","15-24Y","CARS",1991,"Persons",142
+"CHE","Switzerland","25-64Y","CARS",1991,"Persons",220
+"CHE","Switzerland","65MORE","CARS",1991,"Persons",52
+"CHE","Switzerland","0-14Y","CARS",1992,"Persons",12
+"CHE","Switzerland","15-24Y","CARS",1992,"Persons",127
+"CHE","Switzerland","25-64Y","CARS",1992,"Persons",228
+"CHE","Switzerland","65MORE","CARS",1992,"Persons",63
+"CHE","Switzerland","0-14Y","CARS",1993,"Persons",10
+"CHE","Switzerland","15-24Y","CARS",1993,"Persons",105
+"CHE","Switzerland","25-64Y","CARS",1993,"Persons",181
+"CHE","Switzerland","65MORE","CARS",1993,"Persons",60
+"CHE","Switzerland","0-14Y","CARS",1994,"Persons",10
+"CHE","Switzerland","15-24Y","CARS",1994,"Persons",81
+"CHE","Switzerland","25-64Y","CARS",1994,"Persons",164
+"CHE","Switzerland","65MORE","CARS",1994,"Persons",51
+"CHE","Switzerland","0-14Y","CARS",1995,"Persons",16
+"CHE","Switzerland","15-24Y","CARS",1995,"Persons",88
+"CHE","Switzerland","25-64Y","CARS",1995,"Persons",184
+"CHE","Switzerland","65MORE","CARS",1995,"Persons",47
+"CHE","Switzerland","0-14Y","CARS",1996,"Persons",5
+"CHE","Switzerland","15-24Y","CARS",1996,"Persons",85
+"CHE","Switzerland","25-64Y","CARS",1996,"Persons",162
+"CHE","Switzerland","65MORE","CARS",1996,"Persons",62
+"CHE","Switzerland","0-14Y","CARS",1997,"Persons",4
+"CHE","Switzerland","15-24Y","CARS",1997,"Persons",76
+"CHE","Switzerland","25-64Y","CARS",1997,"Persons",160
+"CHE","Switzerland","65MORE","CARS",1997,"Persons",35
+"CHE","Switzerland","0-14Y","CARS",1998,"Persons",10
+"CHE","Switzerland","15-24Y","CARS",1998,"Persons",77
+"CHE","Switzerland","25-64Y","CARS",1998,"Persons",159
+"CHE","Switzerland","65MORE","CARS",1998,"Persons",59
+"CHE","Switzerland","0-14Y","CARS",1999,"Persons",6
+"CHE","Switzerland","15-24Y","CARS",1999,"Persons",72
+"CHE","Switzerland","25-64Y","CARS",1999,"Persons",173
+"CHE","Switzerland","65MORE","CARS",1999,"Persons",48
+"CHE","Switzerland","0-14Y","CARS",2000,"Persons",4
+"CHE","Switzerland","15-24Y","CARS",2000,"Persons",70
+"CHE","Switzerland","25-64Y","CARS",2000,"Persons",153
+"CHE","Switzerland","65MORE","CARS",2000,"Persons",46
+"CHE","Switzerland","0-14Y","CARS",2001,"Persons",7
+"CHE","Switzerland","15-24Y","CARS",2001,"Persons",69
+"CHE","Switzerland","25-64Y","CARS",2001,"Persons",134
+"CHE","Switzerland","65MORE","CARS",2001,"Persons",35
+"CHE","Switzerland","0-14Y","CARS",2002,"Persons",8
+"CHE","Switzerland","15-24Y","CARS",2002,"Persons",84
+"CHE","Switzerland","25-64Y","CARS",2002,"Persons",157
+"CHE","Switzerland","65MORE","CARS",2002,"Persons",25
+"CHE","Switzerland","0-14Y","CARS",2003,"Persons",7
+"CHE","Switzerland","15-24Y","CARS",2003,"Persons",86
+"CHE","Switzerland","25-64Y","CARS",2003,"Persons",127
+"CHE","Switzerland","65MORE","CARS",2003,"Persons",40
+"CHE","Switzerland","0-14Y","CARS",2004,"Persons",7
+"CHE","Switzerland","15-24Y","CARS",2004,"Persons",80
+"CHE","Switzerland","25-64Y","CARS",2004,"Persons",110
+"CHE","Switzerland","65MORE","CARS",2004,"Persons",35
+"CHE","Switzerland","0-14Y","CARS",2005,"Persons",4
+"CHE","Switzerland","15-24Y","CARS",2005,"Persons",55
+"CHE","Switzerland","25-64Y","CARS",2005,"Persons",81
+"CHE","Switzerland","65MORE","CARS",2005,"Persons",38
+"CHE","Switzerland","0-14Y","CARS",2006,"Persons",5
+"CHE","Switzerland","15-24Y","CARS",2006,"Persons",39
+"CHE","Switzerland","25-64Y","CARS",2006,"Persons",81
+"CHE","Switzerland","65MORE","CARS",2006,"Persons",31
+"CHE","Switzerland","0-14Y","CARS",2007,"Persons",2
+"CHE","Switzerland","15-24Y","CARS",2007,"Persons",46
+"CHE","Switzerland","25-64Y","CARS",2007,"Persons",69
+"CHE","Switzerland","65MORE","CARS",2007,"Persons",45
+"CHE","Switzerland","0-14Y","CARS",2008,"Persons",1
+"CHE","Switzerland","15-24Y","CARS",2008,"Persons",32
+"CHE","Switzerland","25-64Y","CARS",2008,"Persons",89
+"CHE","Switzerland","65MORE","CARS",2008,"Persons",34
+"CHE","Switzerland","0-14Y","CARS",2009,"Persons",5
+"CHE","Switzerland","15-24Y","CARS",2009,"Persons",46
+"CHE","Switzerland","25-64Y","CARS",2009,"Persons",61
+"CHE","Switzerland","65MORE","CARS",2009,"Persons",24
+"CHE","Switzerland","0-14Y","CARS",2010,"Persons",1
+"CHE","Switzerland","15-24Y","CARS",2010,"Persons",17
+"CHE","Switzerland","25-64Y","CARS",2010,"Persons",71
+"CHE","Switzerland","65MORE","CARS",2010,"Persons",40
+"CHE","Switzerland","0-14Y","CARS",2011,"Persons",1
+"CHE","Switzerland","15-24Y","CARS",2011,"Persons",28
+"CHE","Switzerland","25-64Y","CARS",2011,"Persons",52
+"CHE","Switzerland","65MORE","CARS",2011,"Persons",38
+"CHE","Switzerland","0-14Y","CARS",2012,"Persons",0
+"CHE","Switzerland","15-24Y","CARS",2012,"Persons",22
+"CHE","Switzerland","25-64Y","CARS",2012,"Persons",62
+"CHE","Switzerland","65MORE","CARS",2012,"Persons",20
+"CHE","Switzerland","0-14Y","CARS",2013,"Persons",6
+"CHE","Switzerland","15-24Y","CARS",2013,"Persons",17
+"CHE","Switzerland","25-64Y","CARS",2013,"Persons",48
+"CHE","Switzerland","65MORE","CARS",2013,"Persons",32
+"CHE","Switzerland","0-14Y","CARS",2014,"Persons",2
+"CHE","Switzerland","15-24Y","CARS",2014,"Persons",21
+"CHE","Switzerland","25-64Y","CARS",2014,"Persons",40
+"CHE","Switzerland","65MORE","CARS",2014,"Persons",34
+"CHE","Switzerland","0-14Y","CARS",2015,"Persons",3
+"CHE","Switzerland","15-24Y","CARS",2015,"Persons",20
+"CHE","Switzerland","25-64Y","CARS",2015,"Persons",30
+"CHE","Switzerland","65MORE","CARS",2015,"Persons",22
+"CHE","Switzerland","0-14Y","CARS",2016,"Persons",3
+"CHE","Switzerland","15-24Y","CARS",2016,"Persons",13
+"CHE","Switzerland","25-64Y","CARS",2016,"Persons",35
+"CHE","Switzerland","65MORE","CARS",2016,"Persons",24
+"CHE","Switzerland","0-14Y","CARS",2017,"Persons",1
+"CHE","Switzerland","15-24Y","CARS",2017,"Persons",20
+"CHE","Switzerland","25-64Y","CARS",2017,"Persons",36
+"CHE","Switzerland","65MORE","CARS",2017,"Persons",21
+"CHE","Switzerland","0-14Y","CARS",2018,"Persons",2
+"CHE","Switzerland","15-24Y","CARS",2018,"Persons",12
+"CHE","Switzerland","25-64Y","CARS",2018,"Persons",37
+"CHE","Switzerland","65MORE","CARS",2018,"Persons",28
+"CHE","Switzerland","0-14Y","CARS",2019,"Persons",0
+"CHE","Switzerland","15-24Y","CARS",2019,"Persons",5
+"CHE","Switzerland","25-64Y","CARS",2019,"Persons",34
+"CHE","Switzerland","65MORE","CARS",2019,"Persons",26
+"CHE","Switzerland","0-14Y","CARS",2020,"Persons",1
+"CHE","Switzerland","15-24Y","CARS",2020,"Persons",9
+"CHE","Switzerland","25-64Y","CARS",2020,"Persons",32
+"CHE","Switzerland","65MORE","CARS",2020,"Persons",29
+"CHL","Chile","65MORE","CARS",2002,"Persons",44
+"CHL","Chile","65MORE","CARS",2003,"Persons",48
+"CHL","Chile","65MORE","CARS",2004,"Persons",57
+"CHL","Chile","65MORE","CARS",2005,"Persons",53
+"CHL","Chile","65MORE","CARS",2006,"Persons",53
+"CHL","Chile","65MORE","CARS",2007,"Persons",74
+"CHL","Chile","0-14Y","CARS",2008,"Persons",29
+"CHL","Chile","15-24Y","CARS",2008,"Persons",176
+"CHL","Chile","25-64Y","CARS",2008,"Persons",287
+"CHL","Chile","65MORE","CARS",2008,"Persons",48
+"CHL","Chile","0-14Y","CARS",2009,"Persons",43
+"CHL","Chile","15-24Y","CARS",2009,"Persons",125
+"CHL","Chile","25-64Y","CARS",2009,"Persons",332
+"CHL","Chile","65MORE","CARS",2009,"Persons",49
+"CHL","Chile","0-14Y","CARS",2010,"Persons",29
+"CHL","Chile","15-24Y","CARS",2010,"Persons",88
+"CHL","Chile","25-64Y","CARS",2010,"Persons",303
+"CHL","Chile","65MORE","CARS",2010,"Persons",46
+"CHL","Chile","0-14Y","CARS",2011,"Persons",31
+"CHL","Chile","15-24Y","CARS",2011,"Persons",143
+"CHL","Chile","25-64Y","CARS",2011,"Persons",294
+"CHL","Chile","65MORE","CARS",2011,"Persons",35
+"CHL","Chile","0-14Y","CARS",2012,"Persons",34
+"CHL","Chile","15-24Y","CARS",2012,"Persons",113
+"CHL","Chile","25-64Y","CARS",2012,"Persons",321
+"CHL","Chile","65MORE","CARS",2012,"Persons",47
+"CHL","Chile","0-14Y","CARS",2013,"Persons",35
+"CHL","Chile","15-24Y","CARS",2013,"Persons",125
+"CHL","Chile","25-64Y","CARS",2013,"Persons",360
+"CHL","Chile","65MORE","CARS",2013,"Persons",51
+"CHL","Chile","0-14Y","CARS",2014,"Persons",40
+"CHL","Chile","15-24Y","CARS",2014,"Persons",156
+"CHL","Chile","25-64Y","CARS",2014,"Persons",385
+"CHL","Chile","65MORE","CARS",2014,"Persons",55
+"CHL","Chile","0-14Y","CARS",2015,"Persons",53
+"CHL","Chile","15-24Y","CARS",2015,"Persons",121
+"CHL","Chile","25-64Y","CARS",2015,"Persons",404
+"CHL","Chile","65MORE","CARS",2015,"Persons",48
+"CHL","Chile","0-14Y","CARS",2016,"Persons",26
+"CHL","Chile","15-24Y","CARS",2016,"Persons",120
+"CHL","Chile","25-64Y","CARS",2016,"Persons",449
+"CHL","Chile","65MORE","CARS",2016,"Persons",57
+"CHL","Chile","0-14Y","CARS",2017,"Persons",23
+"CHL","Chile","15-24Y","CARS",2017,"Persons",114
+"CHL","Chile","25-64Y","CARS",2017,"Persons",309
+"CHL","Chile","65MORE","CARS",2017,"Persons",52
+"CHL","Chile","0-14Y","CARS",2018,"Persons",26
+"CHL","Chile","15-24Y","CARS",2018,"Persons",129
+"CHL","Chile","25-64Y","CARS",2018,"Persons",384
+"CHL","Chile","65MORE","CARS",2018,"Persons",47
+"CHL","Chile","0-14Y","CARS",2019,"Persons",20
+"CHL","Chile","15-24Y","CARS",2019,"Persons",122
+"CHL","Chile","25-64Y","CARS",2019,"Persons",368
+"CHL","Chile","65MORE","CARS",2019,"Persons",48
+"CHL","Chile","0-14Y","CARS",2020,"Persons",28
+"CHL","Chile","15-24Y","CARS",2020,"Persons",132
+"CHL","Chile","25-64Y","CARS",2020,"Persons",389
+"CHL","Chile","65MORE","CARS",2020,"Persons",47
+"COL","Colombia","0-14Y","CARS",2009,"Persons",36
+"COL","Colombia","15-24Y","CARS",2009,"Persons",105
+"COL","Colombia","25-64Y","CARS",2009,"Persons",370
+"COL","Colombia","65MORE","CARS",2009,"Persons",68
+"COL","Colombia","0-14Y","CARS",2010,"Persons",27
+"COL","Colombia","15-24Y","CARS",2010,"Persons",110
+"COL","Colombia","25-64Y","CARS",2010,"Persons",459
+"COL","Colombia","65MORE","CARS",2010,"Persons",44
+"COL","Colombia","0-14Y","CARS",2011,"Persons",41
+"COL","Colombia","15-24Y","CARS",2011,"Persons",75
+"COL","Colombia","25-64Y","CARS",2011,"Persons",273
+"COL","Colombia","65MORE","CARS",2011,"Persons",53
+"COL","Colombia","0-14Y","CARS",2012,"Persons",26
+"COL","Colombia","15-24Y","CARS",2012,"Persons",106
+"COL","Colombia","25-64Y","CARS",2012,"Persons",324
+"COL","Colombia","65MORE","CARS",2012,"Persons",47
+"COL","Colombia","0-14Y","CARS",2013,"Persons",41
+"COL","Colombia","15-24Y","CARS",2013,"Persons",83
+"COL","Colombia","25-64Y","CARS",2013,"Persons",290
+"COL","Colombia","65MORE","CARS",2013,"Persons",59
+"COL","Colombia","0-14Y","CARS",2014,"Persons",47
+"COL","Colombia","15-24Y","CARS",2014,"Persons",83
+"COL","Colombia","25-64Y","CARS",2014,"Persons",306
+"COL","Colombia","65MORE","CARS",2014,"Persons",77
+"COL","Colombia","0-14Y","CARS",2015,"Persons",42
+"COL","Colombia","15-24Y","CARS",2015,"Persons",91
+"COL","Colombia","25-64Y","CARS",2015,"Persons",374
+"COL","Colombia","65MORE","CARS",2015,"Persons",80
+"COL","Colombia","0-14Y","CARS",2016,"Persons",45
+"COL","Colombia","15-24Y","CARS",2016,"Persons",83
+"COL","Colombia","25-64Y","CARS",2016,"Persons",357
+"COL","Colombia","65MORE","CARS",2016,"Persons",90
+"COL","Colombia","0-14Y","CARS",2017,"Persons",48
+"COL","Colombia","15-24Y","CARS",2017,"Persons",72
+"COL","Colombia","25-64Y","CARS",2017,"Persons",319
+"COL","Colombia","65MORE","CARS",2017,"Persons",81
+"COL","Colombia","0-14Y","CARS",2018,"Persons",51
+"COL","Colombia","15-24Y","CARS",2018,"Persons",110
+"COL","Colombia","25-64Y","CARS",2018,"Persons",339
+"COL","Colombia","65MORE","CARS",2018,"Persons",94
+"COL","Colombia","0-14Y","CARS",2019,"Persons",36
+"COL","Colombia","15-24Y","CARS",2019,"Persons",84
+"COL","Colombia","25-64Y","CARS",2019,"Persons",356
+"COL","Colombia","65MORE","CARS",2019,"Persons",92
+"COL","Colombia","0-14Y","CARS",2020,"Persons",26
+"COL","Colombia","15-24Y","CARS",2020,"Persons",68
+"COL","Colombia","25-64Y","CARS",2020,"Persons",268
+"COL","Colombia","65MORE","CARS",2020,"Persons",52
+"CZE","Czech Republic","0-14Y","CARS",1995,"Persons",23
+"CZE","Czech Republic","15-24Y","CARS",1995,"Persons",225
+"CZE","Czech Republic","25-64Y","CARS",1995,"Persons",513
+"CZE","Czech Republic","65MORE","CARS",1995,"Persons",73
+"CZE","Czech Republic","0-14Y","CARS",1996,"Persons",15
+"CZE","Czech Republic","15-24Y","CARS",1996,"Persons",195
+"CZE","Czech Republic","25-64Y","CARS",1996,"Persons",535
+"CZE","Czech Republic","65MORE","CARS",1996,"Persons",64
+"CZE","Czech Republic","0-14Y","CARS",1997,"Persons",22
+"CZE","Czech Republic","15-24Y","CARS",1997,"Persons",258
+"CZE","Czech Republic","25-64Y","CARS",1997,"Persons",509
+"CZE","Czech Republic","65MORE","CARS",1997,"Persons",67
+"CZE","Czech Republic","0-14Y","CARS",1998,"Persons",12
+"CZE","Czech Republic","15-24Y","CARS",1998,"Persons",205
+"CZE","Czech Republic","25-64Y","CARS",1998,"Persons",454
+"CZE","Czech Republic","65MORE","CARS",1998,"Persons",76
+"CZE","Czech Republic","0-14Y","CARS",1999,"Persons",20
+"CZE","Czech Republic","15-24Y","CARS",1999,"Persons",197
+"CZE","Czech Republic","25-64Y","CARS",1999,"Persons",493
+"CZE","Czech Republic","65MORE","CARS",1999,"Persons",62
+"CZE","Czech Republic","0-14Y","CARS",2000,"Persons",26
+"CZE","Czech Republic","15-24Y","CARS",2000,"Persons",182
+"CZE","Czech Republic","25-64Y","CARS",2000,"Persons",494
+"CZE","Czech Republic","65MORE","CARS",2000,"Persons",82
+"CZE","Czech Republic","0-14Y","CARS",2001,"Persons",21
+"CZE","Czech Republic","15-24Y","CARS",2001,"Persons",172
+"CZE","Czech Republic","25-64Y","CARS",2001,"Persons",443
+"CZE","Czech Republic","65MORE","CARS",2001,"Persons",79
+"CZE","Czech Republic","0-14Y","CARS",2002,"Persons",26
+"CZE","Czech Republic","15-24Y","CARS",2002,"Persons",150
+"CZE","Czech Republic","25-64Y","CARS",2002,"Persons",513
+"CZE","Czech Republic","65MORE","CARS",2002,"Persons",66
+"CZE","Czech Republic","0-14Y","CARS",2003,"Persons",14
+"CZE","Czech Republic","15-24Y","CARS",2003,"Persons",189
+"CZE","Czech Republic","25-64Y","CARS",2003,"Persons",519
+"CZE","Czech Republic","65MORE","CARS",2003,"Persons",73
+"CZE","Czech Republic","0-14Y","CARS",2004,"Persons",17
+"CZE","Czech Republic","15-24Y","CARS",2004,"Persons",176
+"CZE","Czech Republic","25-64Y","CARS",2004,"Persons",488
+"CZE","Czech Republic","65MORE","CARS",2004,"Persons",97
+"CZE","Czech Republic","0-14Y","CARS",2005,"Persons",23
+"CZE","Czech Republic","15-24Y","CARS",2005,"Persons",180
+"CZE","Czech Republic","25-64Y","CARS",2005,"Persons",409
+"CZE","Czech Republic","65MORE","CARS",2005,"Persons",66
+"CZE","Czech Republic","0-14Y","CARS",2006,"Persons",13
+"CZE","Czech Republic","15-24Y","CARS",2006,"Persons",146
+"CZE","Czech Republic","25-64Y","CARS",2006,"Persons",336
+"CZE","Czech Republic","65MORE","CARS",2006,"Persons",68
+"CZE","Czech Republic","0-14Y","CARS",2007,"Persons",12
+"CZE","Czech Republic","15-24Y","CARS",2007,"Persons",151
+"CZE","Czech Republic","25-64Y","CARS",2007,"Persons",414
+"CZE","Czech Republic","65MORE","CARS",2007,"Persons",72
+"CZE","Czech Republic","0-14Y","CARS",2008,"Persons",8
+"CZE","Czech Republic","15-24Y","CARS",2008,"Persons",154
+"CZE","Czech Republic","25-64Y","CARS",2008,"Persons",349
+"CZE","Czech Republic","65MORE","CARS",2008,"Persons",60
+"CZE","Czech Republic","0-14Y","CARS",2009,"Persons",8
+"CZE","Czech Republic","15-24Y","CARS",2009,"Persons",106
+"CZE","Czech Republic","25-64Y","CARS",2009,"Persons",313
+"CZE","Czech Republic","65MORE","CARS",2009,"Persons",69
+"CZE","Czech Republic","0-14Y","CARS",2010,"Persons",10
+"CZE","Czech Republic","15-24Y","CARS",2010,"Persons",100
+"CZE","Czech Republic","25-64Y","CARS",2010,"Persons",231
+"CZE","Czech Republic","65MORE","CARS",2010,"Persons",57
+"CZE","Czech Republic","0-14Y","CARS",2011,"Persons",6
+"CZE","Czech Republic","15-24Y","CARS",2011,"Persons",107
+"CZE","Czech Republic","25-64Y","CARS",2011,"Persons",237
+"CZE","Czech Republic","65MORE","CARS",2011,"Persons",53
+"CZE","Czech Republic","0-14Y","CARS",2012,"Persons",8
+"CZE","Czech Republic","15-24Y","CARS",2012,"Persons",85
+"CZE","Czech Republic","25-64Y","CARS",2012,"Persons",212
+"CZE","Czech Republic","65MORE","CARS",2012,"Persons",62
+"CZE","Czech Republic","0-14Y","CARS",2013,"Persons",3
+"CZE","Czech Republic","15-24Y","CARS",2013,"Persons",62
+"CZE","Czech Republic","25-64Y","CARS",2013,"Persons",190
+"CZE","Czech Republic","65MORE","CARS",2013,"Persons",52
+"CZE","Czech Republic","0-14Y","CARS",2014,"Persons",4
+"CZE","Czech Republic","15-24Y","CARS",2014,"Persons",72
+"CZE","Czech Republic","25-64Y","CARS",2014,"Persons",220
+"CZE","Czech Republic","65MORE","CARS",2014,"Persons",51
+"CZE","Czech Republic","0-14Y","CARS",2015,"Persons",12
+"CZE","Czech Republic","15-24Y","CARS",2015,"Persons",78
+"CZE","Czech Republic","25-64Y","CARS",2015,"Persons",214
+"CZE","Czech Republic","65MORE","CARS",2015,"Persons",62
+"CZE","Czech Republic","0-14Y","CARS",2016,"Persons",10
+"CZE","Czech Republic","15-24Y","CARS",2016,"Persons",62
+"CZE","Czech Republic","25-64Y","CARS",2016,"Persons",183
+"CZE","Czech Republic","65MORE","CARS",2016,"Persons",73
+"CZE","Czech Republic","0-14Y","CARS",2017,"Persons",5
+"CZE","Czech Republic","15-24Y","CARS",2017,"Persons",52
+"CZE","Czech Republic","25-64Y","CARS",2017,"Persons",165
+"CZE","Czech Republic","65MORE","CARS",2017,"Persons",56
+"CZE","Czech Republic","0-14Y","CARS",2018,"Persons",11
+"CZE","Czech Republic","15-24Y","CARS",2018,"Persons",67
+"CZE","Czech Republic","25-64Y","CARS",2018,"Persons",187
+"CZE","Czech Republic","65MORE","CARS",2018,"Persons",69
+"CZE","Czech Republic","0-14Y","CARS",2019,"Persons",14
+"CZE","Czech Republic","15-24Y","CARS",2019,"Persons",60
+"CZE","Czech Republic","25-64Y","CARS",2019,"Persons",178
+"CZE","Czech Republic","65MORE","CARS",2019,"Persons",77
+"CZE","Czech Republic","0-14Y","CARS",2020,"Persons",7
+"CZE","Czech Republic","15-24Y","CARS",2020,"Persons",44
+"CZE","Czech Republic","25-64Y","CARS",2020,"Persons",153
+"CZE","Czech Republic","65MORE","CARS",2020,"Persons",61
+"DEU","Germany","0-14Y","CARS",1991,"Persons",196
+"DEU","Germany","15-24Y","CARS",1991,"Persons",2299
+"DEU","Germany","25-64Y","CARS",1991,"Persons",3724
+"DEU","Germany","65MORE","CARS",1991,"Persons",574
+"DEU","Germany","0-14Y","CARS",1992,"Persons",207
+"DEU","Germany","15-24Y","CARS",1992,"Persons",2116
+"DEU","Germany","25-64Y","CARS",1992,"Persons",3531
+"DEU","Germany","65MORE","CARS",1992,"Persons",566
+"DEU","Germany","0-14Y","CARS",1993,"Persons",177
+"DEU","Germany","15-24Y","CARS",1993,"Persons",2019
+"DEU","Germany","25-64Y","CARS",1993,"Persons",3380
+"DEU","Germany","65MORE","CARS",1993,"Persons",544
+"DEU","Germany","0-14Y","CARS",1994,"Persons",164
+"DEU","Germany","15-24Y","CARS",1994,"Persons",1900
+"DEU","Germany","25-64Y","CARS",1994,"Persons",3341
+"DEU","Germany","65MORE","CARS",1994,"Persons",561
+"DEU","Germany","0-14Y","CARS",1995,"Persons",174
+"DEU","Germany","15-24Y","CARS",1995,"Persons",1982
+"DEU","Germany","25-64Y","CARS",1995,"Persons",3158
+"DEU","Germany","65MORE","CARS",1995,"Persons",613
+"DEU","Germany","0-14Y","CARS",1996,"Persons",149
+"DEU","Germany","15-24Y","CARS",1996,"Persons",1856
+"DEU","Germany","25-64Y","CARS",1996,"Persons",3024
+"DEU","Germany","65MORE","CARS",1996,"Persons",592
+"DEU","Germany","0-14Y","CARS",1997,"Persons",143
+"DEU","Germany","15-24Y","CARS",1997,"Persons",1766
+"DEU","Germany","25-64Y","CARS",1997,"Persons",2789
+"DEU","Germany","65MORE","CARS",1997,"Persons",551
+"DEU","Germany","0-14Y","CARS",1998,"Persons",127
+"DEU","Germany","15-24Y","CARS",1998,"Persons",1604
+"DEU","Germany","25-64Y","CARS",1998,"Persons",2465
+"DEU","Germany","65MORE","CARS",1998,"Persons",544
+"DEU","Germany","0-14Y","CARS",1999,"Persons",139
+"DEU","Germany","15-24Y","CARS",1999,"Persons",1572
+"DEU","Germany","25-64Y","CARS",1999,"Persons",2365
+"DEU","Germany","65MORE","CARS",1999,"Persons",563
+"DEU","Germany","0-14Y","CARS",2000,"Persons",103
+"DEU","Germany","15-24Y","CARS",2000,"Persons",1561
+"DEU","Germany","25-64Y","CARS",2000,"Persons",2215
+"DEU","Germany","65MORE","CARS",2000,"Persons",516
+"DEU","Germany","0-14Y","CARS",2001,"Persons",93
+"DEU","Germany","15-24Y","CARS",2001,"Persons",1450
+"DEU","Germany","25-64Y","CARS",2001,"Persons",1974
+"DEU","Germany","65MORE","CARS",2001,"Persons",506
+"DEU","Germany","0-14Y","CARS",2002,"Persons",104
+"DEU","Germany","15-24Y","CARS",2002,"Persons",1422
+"DEU","Germany","25-64Y","CARS",2002,"Persons",1966
+"DEU","Germany","65MORE","CARS",2002,"Persons",513
+"DEU","Germany","0-14Y","CARS",2003,"Persons",93
+"DEU","Germany","15-24Y","CARS",2003,"Persons",1297
+"DEU","Germany","25-64Y","CARS",2003,"Persons",1820
+"DEU","Germany","65MORE","CARS",2003,"Persons",564
+"DEU","Germany","0-14Y","CARS",2004,"Persons",80
+"DEU","Germany","15-24Y","CARS",2004,"Persons",1118
+"DEU","Germany","25-64Y","CARS",2004,"Persons",1545
+"DEU","Germany","65MORE","CARS",2004,"Persons",494
+"DEU","Germany","0-14Y","CARS",2005,"Persons",67
+"DEU","Germany","15-24Y","CARS",2005,"Persons",920
+"DEU","Germany","25-64Y","CARS",2005,"Persons",1371
+"DEU","Germany","65MORE","CARS",2005,"Persons",471
+"DEU","Germany","0-14Y","CARS",2006,"Persons",52
+"DEU","Germany","15-24Y","CARS",2006,"Persons",822
+"DEU","Germany","25-64Y","CARS",2006,"Persons",1350
+"DEU","Germany","65MORE","CARS",2006,"Persons",458
+"DEU","Germany","0-14Y","CARS",2007,"Persons",41
+"DEU","Germany","15-24Y","CARS",2007,"Persons",832
+"DEU","Germany","25-64Y","CARS",2007,"Persons",1270
+"DEU","Germany","65MORE","CARS",2007,"Persons",481
+"DEU","Germany","0-14Y","CARS",2008,"Persons",51
+"DEU","Germany","15-24Y","CARS",2008,"Persons",726
+"DEU","Germany","25-64Y","CARS",2008,"Persons",1150
+"DEU","Germany","65MORE","CARS",2008,"Persons",437
+"DEU","Germany","0-14Y","CARS",2009,"Persons",37
+"DEU","Germany","15-24Y","CARS",2009,"Persons",649
+"DEU","Germany","25-64Y","CARS",2009,"Persons",980
+"DEU","Germany","65MORE","CARS",2009,"Persons",444
+"DEU","Germany","0-14Y","CARS",2010,"Persons",49
+"DEU","Germany","15-24Y","CARS",2010,"Persons",547
+"DEU","Germany","25-64Y","CARS",2010,"Persons",851
+"DEU","Germany","65MORE","CARS",2010,"Persons",393
+"DEU","Germany","0-14Y","CARS",2011,"Persons",32
+"DEU","Germany","15-24Y","CARS",2011,"Persons",577
+"DEU","Germany","25-64Y","CARS",2011,"Persons",938
+"DEU","Germany","65MORE","CARS",2011,"Persons",439
+"DEU","Germany","0-14Y","CARS",2012,"Persons",34
+"DEU","Germany","15-24Y","CARS",2012,"Persons",484
+"DEU","Germany","25-64Y","CARS",2012,"Persons",875
+"DEU","Germany","65MORE","CARS",2012,"Persons",398
+"DEU","Germany","0-14Y","CARS",2013,"Persons",25
+"DEU","Germany","15-24Y","CARS",2013,"Persons",374
+"DEU","Germany","25-64Y","CARS",2013,"Persons",790
+"DEU","Germany","65MORE","CARS",2013,"Persons",399
+"DEU","Germany","0-14Y","CARS",2014,"Persons",26
+"DEU","Germany","15-24Y","CARS",2014,"Persons",348
+"DEU","Germany","25-64Y","CARS",2014,"Persons",799
+"DEU","Germany","65MORE","CARS",2014,"Persons",402
+"DEU","Germany","0-14Y","CARS",2015,"Persons",34
+"DEU","Germany","15-24Y","CARS",2015,"Persons",307
+"DEU","Germany","25-64Y","CARS",2015,"Persons",849
+"DEU","Germany","65MORE","CARS",2015,"Persons",430
+"DEU","Germany","0-14Y","CARS",2016,"Persons",33
+"DEU","Germany","15-24Y","CARS",2016,"Persons",303
+"DEU","Germany","25-64Y","CARS",2016,"Persons",761
+"DEU","Germany","65MORE","CARS",2016,"Persons",433
+"DEU","Germany","0-14Y","CARS",2017,"Persons",23
+"DEU","Germany","15-24Y","CARS",2017,"Persons",267
+"DEU","Germany","25-64Y","CARS",2017,"Persons",750
+"DEU","Germany","65MORE","CARS",2017,"Persons",394
+"DEU","Germany","0-14Y","CARS",2018,"Persons",29
+"DEU","Germany","15-24Y","CARS",2018,"Persons",242
+"DEU","Germany","25-64Y","CARS",2018,"Persons",743
+"DEU","Germany","65MORE","CARS",2018,"Persons",406
+"DEU","Germany","0-14Y","CARS",2019,"Persons",21
+"DEU","Germany","15-24Y","CARS",2019,"Persons",253
+"DEU","Germany","25-64Y","CARS",2019,"Persons",675
+"DEU","Germany","65MORE","CARS",2019,"Persons",414
+"DEU","Germany","0-14Y","CARS",2020,"Persons",18
+"DEU","Germany","15-24Y","CARS",2020,"Persons",221
+"DEU","Germany","25-64Y","CARS",2020,"Persons",607
+"DEU","Germany","65MORE","CARS",2020,"Persons",323
+"DNK","Denmark","0-14Y","CARS",1990,"Persons",15
+"DNK","Denmark","15-24Y","CARS",1990,"Persons",69
+"DNK","Denmark","25-64Y","CARS",1990,"Persons",129
+"DNK","Denmark","65MORE","CARS",1990,"Persons",71
+"DNK","Denmark","0-14Y","CARS",1991,"Persons",14
+"DNK","Denmark","15-24Y","CARS",1991,"Persons",72
+"DNK","Denmark","25-64Y","CARS",1991,"Persons",142
+"DNK","Denmark","65MORE","CARS",1991,"Persons",56
+"DNK","Denmark","0-14Y","CARS",1992,"Persons",7
+"DNK","Denmark","15-24Y","CARS",1992,"Persons",71
+"DNK","Denmark","25-64Y","CARS",1992,"Persons",125
+"DNK","Denmark","65MORE","CARS",1992,"Persons",58
+"DNK","Denmark","0-14Y","CARS",1993,"Persons",4
+"DNK","Denmark","15-24Y","CARS",1993,"Persons",59
+"DNK","Denmark","25-64Y","CARS",1993,"Persons",129
+"DNK","Denmark","65MORE","CARS",1993,"Persons",62
+"DNK","Denmark","0-14Y","CARS",1994,"Persons",11
+"DNK","Denmark","15-24Y","CARS",1994,"Persons",67
+"DNK","Denmark","25-64Y","CARS",1994,"Persons",127
+"DNK","Denmark","65MORE","CARS",1994,"Persons",62
+"DNK","Denmark","0-14Y","CARS",1995,"Persons",8
+"DNK","Denmark","15-24Y","CARS",1995,"Persons",92
+"DNK","Denmark","25-64Y","CARS",1995,"Persons",138
+"DNK","Denmark","65MORE","CARS",1995,"Persons",59
+"DNK","Denmark","0-14Y","CARS",1996,"Persons",13
+"DNK","Denmark","15-24Y","CARS",1996,"Persons",81
+"DNK","Denmark","25-64Y","CARS",1996,"Persons",124
+"DNK","Denmark","65MORE","CARS",1996,"Persons",58
+"DNK","Denmark","0-14Y","CARS",1997,"Persons",10
+"DNK","Denmark","15-24Y","CARS",1997,"Persons",70
+"DNK","Denmark","25-64Y","CARS",1997,"Persons",120
+"DNK","Denmark","65MORE","CARS",1997,"Persons",70
+"DNK","Denmark","0-14Y","CARS",1998,"Persons",5
+"DNK","Denmark","15-24Y","CARS",1998,"Persons",61
+"DNK","Denmark","25-64Y","CARS",1998,"Persons",150
+"DNK","Denmark","65MORE","CARS",1998,"Persons",61
+"DNK","Denmark","0-14Y","CARS",1999,"Persons",19
+"DNK","Denmark","15-24Y","CARS",1999,"Persons",85
+"DNK","Denmark","25-64Y","CARS",1999,"Persons",135
+"DNK","Denmark","65MORE","CARS",1999,"Persons",47
+"DNK","Denmark","0-14Y","CARS",2000,"Persons",9
+"DNK","Denmark","15-24Y","CARS",2000,"Persons",74
+"DNK","Denmark","25-64Y","CARS",2000,"Persons",105
+"DNK","Denmark","65MORE","CARS",2000,"Persons",51
+"DNK","Denmark","0-14Y","CARS",2001,"Persons",11
+"DNK","Denmark","15-24Y","CARS",2001,"Persons",61
+"DNK","Denmark","25-64Y","CARS",2001,"Persons",122
+"DNK","Denmark","65MORE","CARS",2001,"Persons",53
+"DNK","Denmark","0-14Y","CARS",2002,"Persons",6
+"DNK","Denmark","15-24Y","CARS",2002,"Persons",68
+"DNK","Denmark","25-64Y","CARS",2002,"Persons",134
+"DNK","Denmark","65MORE","CARS",2002,"Persons",46
+"DNK","Denmark","0-14Y","CARS",2003,"Persons",14
+"DNK","Denmark","15-24Y","CARS",2003,"Persons",50
+"DNK","Denmark","25-64Y","CARS",2003,"Persons",134
+"DNK","Denmark","65MORE","CARS",2003,"Persons",46
+"DNK","Denmark","0-14Y","CARS",2004,"Persons",7
+"DNK","Denmark","15-24Y","CARS",2004,"Persons",53
+"DNK","Denmark","25-64Y","CARS",2004,"Persons",96
+"DNK","Denmark","65MORE","CARS",2004,"Persons",35
+"DNK","Denmark","0-14Y","CARS",2005,"Persons",6
+"DNK","Denmark","15-24Y","CARS",2005,"Persons",42
+"DNK","Denmark","25-64Y","CARS",2005,"Persons",93
+"DNK","Denmark","65MORE","CARS",2005,"Persons",34
+"DNK","Denmark","0-14Y","CARS",2006,"Persons",2
+"DNK","Denmark","15-24Y","CARS",2006,"Persons",50
+"DNK","Denmark","25-64Y","CARS",2006,"Persons",68
+"DNK","Denmark","65MORE","CARS",2006,"Persons",26
+"DNK","Denmark","0-14Y","CARS",2007,"Persons",6
+"DNK","Denmark","15-24Y","CARS",2007,"Persons",40
+"DNK","Denmark","25-64Y","CARS",2007,"Persons",101
+"DNK","Denmark","65MORE","CARS",2007,"Persons",30
+"DNK","Denmark","0-14Y","CARS",2008,"Persons",8
+"DNK","Denmark","15-24Y","CARS",2008,"Persons",52
+"DNK","Denmark","25-64Y","CARS",2008,"Persons",94
+"DNK","Denmark","65MORE","CARS",2008,"Persons",47
+"DNK","Denmark","0-14Y","CARS",2009,"Persons",5
+"DNK","Denmark","15-24Y","CARS",2009,"Persons",55
+"DNK","Denmark","25-64Y","CARS",2009,"Persons",79
+"DNK","Denmark","65MORE","CARS",2009,"Persons",30
+"DNK","Denmark","0-14Y","CARS",2010,"Persons",5
+"DNK","Denmark","15-24Y","CARS",2010,"Persons",32
+"DNK","Denmark","25-64Y","CARS",2010,"Persons",69
+"DNK","Denmark","65MORE","CARS",2010,"Persons",31
+"DNK","Denmark","0-14Y","CARS",2011,"Persons",3
+"DNK","Denmark","15-24Y","CARS",2011,"Persons",27
+"DNK","Denmark","25-64Y","CARS",2011,"Persons",52
+"DNK","Denmark","65MORE","CARS",2011,"Persons",28
+"DNK","Denmark","0-14Y","CARS",2012,"Persons",2
+"DNK","Denmark","15-24Y","CARS",2012,"Persons",21
+"DNK","Denmark","25-64Y","CARS",2012,"Persons",39
+"DNK","Denmark","65MORE","CARS",2012,"Persons",19
+"DNK","Denmark","0-14Y","CARS",2013,"Persons",7
+"DNK","Denmark","15-24Y","CARS",2013,"Persons",20
+"DNK","Denmark","25-64Y","CARS",2013,"Persons",33
+"DNK","Denmark","65MORE","CARS",2013,"Persons",19
+"DNK","Denmark","0-14Y","CARS",2014,"Persons",4
+"DNK","Denmark","15-24Y","CARS",2014,"Persons",19
+"DNK","Denmark","25-64Y","CARS",2014,"Persons",43
+"DNK","Denmark","65MORE","CARS",2014,"Persons",23
+"DNK","Denmark","0-14Y","CARS",2015,"Persons",1
+"DNK","Denmark","15-24Y","CARS",2015,"Persons",18
+"DNK","Denmark","25-64Y","CARS",2015,"Persons",39
+"DNK","Denmark","65MORE","CARS",2015,"Persons",16
+"DNK","Denmark","0-14Y","CARS",2016,"Persons",2
+"DNK","Denmark","15-24Y","CARS",2016,"Persons",23
+"DNK","Denmark","25-64Y","CARS",2016,"Persons",42
+"DNK","Denmark","65MORE","CARS",2016,"Persons",29
+"DNK","Denmark","0-14Y","CARS",2017,"Persons",0
+"DNK","Denmark","15-24Y","CARS",2017,"Persons",23
+"DNK","Denmark","25-64Y","CARS",2017,"Persons",52
+"DNK","Denmark","65MORE","CARS",2017,"Persons",24
+"DNK","Denmark","0-14Y","CARS",2018,"Persons",4
+"DNK","Denmark","15-24Y","CARS",2018,"Persons",9
+"DNK","Denmark","25-64Y","CARS",2018,"Persons",33
+"DNK","Denmark","65MORE","CARS",2018,"Persons",18
+"DNK","Denmark","0-14Y","CARS",2019,"Persons",3
+"DNK","Denmark","15-24Y","CARS",2019,"Persons",16
+"DNK","Denmark","25-64Y","CARS",2019,"Persons",43
+"DNK","Denmark","65MORE","CARS",2019,"Persons",25
+"DNK","Denmark","0-14Y","CARS",2020,"Persons",3
+"DNK","Denmark","15-24Y","CARS",2020,"Persons",15
+"DNK","Denmark","25-64Y","CARS",2020,"Persons",42
+"DNK","Denmark","65MORE","CARS",2020,"Persons",20
+"ESP","Spain","0-14Y","CARS",1990,"Persons",215
+"ESP","Spain","15-24Y","CARS",1990,"Persons",1513
+"ESP","Spain","25-64Y","CARS",1990,"Persons",2886
+"ESP","Spain","65MORE","CARS",1990,"Persons",361
+"ESP","Spain","0-14Y","CARS",1991,"Persons",168
+"ESP","Spain","15-24Y","CARS",1991,"Persons",1456
+"ESP","Spain","25-64Y","CARS",1991,"Persons",2874
+"ESP","Spain","65MORE","CARS",1991,"Persons",408
+"ESP","Spain","0-14Y","CARS",1992,"Persons",186
+"ESP","Spain","15-24Y","CARS",1992,"Persons",1333
+"ESP","Spain","25-64Y","CARS",1992,"Persons",2500
+"ESP","Spain","65MORE","CARS",1992,"Persons",343
+"ESP","Spain","0-14Y","CARS",1993,"Persons",132
+"ESP","Spain","15-24Y","CARS",1993,"Persons",963
+"ESP","Spain","25-64Y","CARS",1993,"Persons",2137
+"ESP","Spain","65MORE","CARS",1993,"Persons",324
+"ESP","Spain","0-14Y","CARS",1994,"Persons",117
+"ESP","Spain","15-24Y","CARS",1994,"Persons",800
+"ESP","Spain","25-64Y","CARS",1994,"Persons",1791
+"ESP","Spain","65MORE","CARS",1994,"Persons",288
+"ESP","Spain","0-14Y","CARS",1995,"Persons",114
+"ESP","Spain","15-24Y","CARS",1995,"Persons",772
+"ESP","Spain","25-64Y","CARS",1995,"Persons",1915
+"ESP","Spain","65MORE","CARS",1995,"Persons",342
+"ESP","Spain","0-14Y","CARS",1996,"Persons",83
+"ESP","Spain","15-24Y","CARS",1996,"Persons",707
+"ESP","Spain","25-64Y","CARS",1996,"Persons",1818
+"ESP","Spain","65MORE","CARS",1996,"Persons",357
+"ESP","Spain","0-14Y","CARS",1997,"Persons",96
+"ESP","Spain","15-24Y","CARS",1997,"Persons",714
+"ESP","Spain","25-64Y","CARS",1997,"Persons",1778
+"ESP","Spain","65MORE","CARS",1997,"Persons",355
+"ESP","Spain","0-14Y","CARS",1998,"Persons",95
+"ESP","Spain","15-24Y","CARS",1998,"Persons",810
+"ESP","Spain","25-64Y","CARS",1998,"Persons",1993
+"ESP","Spain","65MORE","CARS",1998,"Persons",348
+"ESP","Spain","0-14Y","CARS",1999,"Persons",104
+"ESP","Spain","15-24Y","CARS",1999,"Persons",746
+"ESP","Spain","25-64Y","CARS",1999,"Persons",1921
+"ESP","Spain","65MORE","CARS",1999,"Persons",367
+"ESP","Spain","0-14Y","CARS",2000,"Persons",74
+"ESP","Spain","15-24Y","CARS",2000,"Persons",808
+"ESP","Spain","25-64Y","CARS",2000,"Persons",1947
+"ESP","Spain","65MORE","CARS",2000,"Persons",385
+"ESP","Spain","0-14Y","CARS",2001,"Persons",96
+"ESP","Spain","15-24Y","CARS",2001,"Persons",717
+"ESP","Spain","25-64Y","CARS",2001,"Persons",1893
+"ESP","Spain","65MORE","CARS",2001,"Persons",371
+"ESP","Spain","0-14Y","CARS",2002,"Persons",76
+"ESP","Spain","15-24Y","CARS",2002,"Persons",715
+"ESP","Spain","25-64Y","CARS",2002,"Persons",1846
+"ESP","Spain","65MORE","CARS",2002,"Persons",407
+"ESP","Spain","0-14Y","CARS",2003,"Persons",93
+"ESP","Spain","15-24Y","CARS",2003,"Persons",771
+"ESP","Spain","25-64Y","CARS",2003,"Persons",1896
+"ESP","Spain","65MORE","CARS",2003,"Persons",390
+"ESP","Spain","0-14Y","CARS",2004,"Persons",72
+"ESP","Spain","15-24Y","CARS",2004,"Persons",616
+"ESP","Spain","25-64Y","CARS",2004,"Persons",1614
+"ESP","Spain","65MORE","CARS",2004,"Persons",338
+"ESP","Spain","0-14Y","CARS",2005,"Persons",65
+"ESP","Spain","15-24Y","CARS",2005,"Persons",545
+"ESP","Spain","25-64Y","CARS",2005,"Persons",1441
+"ESP","Spain","65MORE","CARS",2005,"Persons",302
+"ESP","Spain","0-14Y","CARS",2006,"Persons",63
+"ESP","Spain","15-24Y","CARS",2006,"Persons",431
+"ESP","Spain","25-64Y","CARS",2006,"Persons",1288
+"ESP","Spain","65MORE","CARS",2006,"Persons",301
+"ESP","Spain","0-14Y","CARS",2007,"Persons",52
+"ESP","Spain","15-24Y","CARS",2007,"Persons",382
+"ESP","Spain","25-64Y","CARS",2007,"Persons",1138
+"ESP","Spain","65MORE","CARS",2007,"Persons",235
+"ESP","Spain","0-14Y","CARS",2008,"Persons",41
+"ESP","Spain","15-24Y","CARS",2008,"Persons",345
+"ESP","Spain","25-64Y","CARS",2008,"Persons",863
+"ESP","Spain","65MORE","CARS",2008,"Persons",235
+"ESP","Spain","0-14Y","CARS",2009,"Persons",30
+"ESP","Spain","15-24Y","CARS",2009,"Persons",266
+"ESP","Spain","25-64Y","CARS",2009,"Persons",742
+"ESP","Spain","65MORE","CARS",2009,"Persons",213
+"ESP","Spain","0-14Y","CARS",2010,"Persons",44
+"ESP","Spain","15-24Y","CARS",2010,"Persons",243
+"ESP","Spain","25-64Y","CARS",2010,"Persons",670
+"ESP","Spain","65MORE","CARS",2010,"Persons",234
+"ESP","Spain","0-14Y","CARS",2011,"Persons",18
+"ESP","Spain","15-24Y","CARS",2011,"Persons",168
+"ESP","Spain","25-64Y","CARS",2011,"Persons",580
+"ESP","Spain","65MORE","CARS",2011,"Persons",203
+"ESP","Spain","0-14Y","CARS",2012,"Persons",37
+"ESP","Spain","15-24Y","CARS",2012,"Persons",132
+"ESP","Spain","25-64Y","CARS",2012,"Persons",499
+"ESP","Spain","65MORE","CARS",2012,"Persons",200
+"ESP","Spain","0-14Y","CARS",2013,"Persons",23
+"ESP","Spain","15-24Y","CARS",2013,"Persons",98
+"ESP","Spain","25-64Y","CARS",2013,"Persons",411
+"ESP","Spain","65MORE","CARS",2013,"Persons",176
+"ESP","Spain","0-14Y","CARS",2014,"Persons",13
+"ESP","Spain","15-24Y","CARS",2014,"Persons",92
+"ESP","Spain","25-64Y","CARS",2014,"Persons",407
+"ESP","Spain","65MORE","CARS",2014,"Persons",206
+"ESP","Spain","0-14Y","CARS",2015,"Persons",16
+"ESP","Spain","15-24Y","CARS",2015,"Persons",87
+"ESP","Spain","25-64Y","CARS",2015,"Persons",384
+"ESP","Spain","65MORE","CARS",2015,"Persons",206
+"ESP","Spain","0-14Y","CARS",2016,"Persons",18
+"ESP","Spain","15-24Y","CARS",2016,"Persons",96
+"ESP","Spain","25-64Y","CARS",2016,"Persons",415
+"ESP","Spain","65MORE","CARS",2016,"Persons",212
+"ESP","Spain","0-14Y","CARS",2017,"Persons",17
+"ESP","Spain","15-24Y","CARS",2017,"Persons",125
+"ESP","Spain","25-64Y","CARS",2017,"Persons",496
+"ESP","Spain","65MORE","CARS",2017,"Persons",158
+"ESP","Spain","0-14Y","CARS",2018,"Persons",11
+"ESP","Spain","15-24Y","CARS",2018,"Persons",114
+"ESP","Spain","25-64Y","CARS",2018,"Persons",403
+"ESP","Spain","65MORE","CARS",2018,"Persons",200
+"ESP","Spain","0-14Y","CARS",2019,"Persons",17
+"ESP","Spain","15-24Y","CARS",2019,"Persons",90
+"ESP","Spain","25-64Y","CARS",2019,"Persons",364
+"ESP","Spain","65MORE","CARS",2019,"Persons",168
+"ESP","Spain","0-14Y","CARS",2020,"Persons",5
+"ESP","Spain","15-24Y","CARS",2020,"Persons",74
+"ESP","Spain","25-64Y","CARS",2020,"Persons",304
+"ESP","Spain","65MORE","CARS",2020,"Persons",154
+"FIN","Finland","0-14Y","CARS",1990,"Persons",13
+"FIN","Finland","15-24Y","CARS",1990,"Persons",117
+"FIN","Finland","25-64Y","CARS",1990,"Persons",168
+"FIN","Finland","65MORE","CARS",1990,"Persons",45
+"FIN","Finland","0-14Y","CARS",1991,"Persons",21
+"FIN","Finland","15-24Y","CARS",1991,"Persons",99
+"FIN","Finland","25-64Y","CARS",1991,"Persons",168
+"FIN","Finland","65MORE","CARS",1991,"Persons",45
+"FIN","Finland","0-14Y","CARS",1992,"Persons",10
+"FIN","Finland","15-24Y","CARS",1992,"Persons",99
+"FIN","Finland","25-64Y","CARS",1992,"Persons",152
+"FIN","Finland","65MORE","CARS",1992,"Persons",59
+"FIN","Finland","0-14Y","CARS",1993,"Persons",12
+"FIN","Finland","15-24Y","CARS",1993,"Persons",70
+"FIN","Finland","25-64Y","CARS",1993,"Persons",150
+"FIN","Finland","65MORE","CARS",1993,"Persons",42
+"FIN","Finland","0-14Y","CARS",1994,"Persons",16
+"FIN","Finland","15-24Y","CARS",1994,"Persons",64
+"FIN","Finland","25-64Y","CARS",1994,"Persons",135
+"FIN","Finland","65MORE","CARS",1994,"Persons",47
+"FIN","Finland","0-14Y","CARS",1995,"Persons",7
+"FIN","Finland","15-24Y","CARS",1995,"Persons",54
+"FIN","Finland","25-64Y","CARS",1995,"Persons",124
+"FIN","Finland","65MORE","CARS",1995,"Persons",46
+"FIN","Finland","0-14Y","CARS",1996,"Persons",8
+"FIN","Finland","15-24Y","CARS",1996,"Persons",66
+"FIN","Finland","25-64Y","CARS",1996,"Persons",119
+"FIN","Finland","65MORE","CARS",1996,"Persons",34
+"FIN","Finland","0-14Y","CARS",1997,"Persons",16
+"FIN","Finland","15-24Y","CARS",1997,"Persons",53
+"FIN","Finland","25-64Y","CARS",1997,"Persons",122
+"FIN","Finland","65MORE","CARS",1997,"Persons",56
+"FIN","Finland","0-14Y","CARS",1998,"Persons",0
+"FIN","Finland","15-24Y","CARS",1998,"Persons",59
+"FIN","Finland","25-64Y","CARS",1998,"Persons",121
+"FIN","Finland","65MORE","CARS",1998,"Persons",52
+"FIN","Finland","0-14Y","CARS",1999,"Persons",12
+"FIN","Finland","15-24Y","CARS",1999,"Persons",60
+"FIN","Finland","25-64Y","CARS",1999,"Persons",145
+"FIN","Finland","65MORE","CARS",1999,"Persons",34
+"FIN","Finland","0-14Y","CARS",2000,"Persons",9
+"FIN","Finland","15-24Y","CARS",2000,"Persons",49
+"FIN","Finland","25-64Y","CARS",2000,"Persons",126
+"FIN","Finland","65MORE","CARS",2000,"Persons",40
+"FIN","Finland","0-14Y","CARS",2001,"Persons",8
+"FIN","Finland","15-24Y","CARS",2001,"Persons",74
+"FIN","Finland","25-64Y","CARS",2001,"Persons",141
+"FIN","Finland","65MORE","CARS",2001,"Persons",39
+"FIN","Finland","0-14Y","CARS",2002,"Persons",6
+"FIN","Finland","15-24Y","CARS",2002,"Persons",70
+"FIN","Finland","25-64Y","CARS",2002,"Persons",143
+"FIN","Finland","65MORE","CARS",2002,"Persons",48
+"FIN","Finland","0-14Y","CARS",2003,"Persons",9
+"FIN","Finland","15-24Y","CARS",2003,"Persons",51
+"FIN","Finland","25-64Y","CARS",2003,"Persons",112
+"FIN","Finland","65MORE","CARS",2003,"Persons",45
+"FIN","Finland","0-14Y","CARS",2004,"Persons",8
+"FIN","Finland","15-24Y","CARS",2004,"Persons",70
+"FIN","Finland","25-64Y","CARS",2004,"Persons",95
+"FIN","Finland","65MORE","CARS",2004,"Persons",48
+"FIN","Finland","0-14Y","CARS",2005,"Persons",7
+"FIN","Finland","15-24Y","CARS",2005,"Persons",53
+"FIN","Finland","25-64Y","CARS",2005,"Persons",132
+"FIN","Finland","65MORE","CARS",2005,"Persons",39
+"FIN","Finland","0-14Y","CARS",2006,"Persons",3
+"FIN","Finland","15-24Y","CARS",2006,"Persons",61
+"FIN","Finland","25-64Y","CARS",2006,"Persons",106
+"FIN","Finland","65MORE","CARS",2006,"Persons",33
+"FIN","Finland","0-14Y","CARS",2007,"Persons",5
+"FIN","Finland","15-24Y","CARS",2007,"Persons",68
+"FIN","Finland","25-64Y","CARS",2007,"Persons",126
+"FIN","Finland","65MORE","CARS",2007,"Persons",42
+"FIN","Finland","0-14Y","CARS",2008,"Persons",4
+"FIN","Finland","15-24Y","CARS",2008,"Persons",54
+"FIN","Finland","25-64Y","CARS",2008,"Persons",94
+"FIN","Finland","65MORE","CARS",2008,"Persons",50
+"FIN","Finland","0-14Y","CARS",2009,"Persons",3
+"FIN","Finland","15-24Y","CARS",2009,"Persons",55
+"FIN","Finland","25-64Y","CARS",2009,"Persons",71
+"FIN","Finland","65MORE","CARS",2009,"Persons",36
+"FIN","Finland","0-14Y","CARS",2010,"Persons",3
+"FIN","Finland","15-24Y","CARS",2010,"Persons",42
+"FIN","Finland","25-64Y","CARS",2010,"Persons",81
+"FIN","Finland","65MORE","CARS",2010,"Persons",33
+"FIN","Finland","0-14Y","CARS",2011,"Persons",3
+"FIN","Finland","15-24Y","CARS",2011,"Persons",48
+"FIN","Finland","25-64Y","CARS",2011,"Persons",85
+"FIN","Finland","65MORE","CARS",2011,"Persons",36
+"FIN","Finland","0-14Y","CARS",2012,"Persons",1
+"FIN","Finland","15-24Y","CARS",2012,"Persons",32
+"FIN","Finland","25-64Y","CARS",2012,"Persons",78
+"FIN","Finland","65MORE","CARS",2012,"Persons",36
+"FIN","Finland","0-14Y","CARS",2013,"Persons",1
+"FIN","Finland","15-24Y","CARS",2013,"Persons",34
+"FIN","Finland","25-64Y","CARS",2013,"Persons",79
+"FIN","Finland","65MORE","CARS",2013,"Persons",38
+"FIN","Finland","0-14Y","CARS",2014,"Persons",7
+"FIN","Finland","15-24Y","CARS",2014,"Persons",31
+"FIN","Finland","25-64Y","CARS",2014,"Persons",60
+"FIN","Finland","65MORE","CARS",2014,"Persons",23
+"FIN","Finland","0-14Y","CARS",2015,"Persons",7
+"FIN","Finland","15-24Y","CARS",2015,"Persons",45
+"FIN","Finland","25-64Y","CARS",2015,"Persons",75
+"FIN","Finland","65MORE","CARS",2015,"Persons",32
+"FIN","Finland","0-14Y","CARS",2016,"Persons",2
+"FIN","Finland","15-24Y","CARS",2016,"Persons",37
+"FIN","Finland","25-64Y","CARS",2016,"Persons",77
+"FIN","Finland","65MORE","CARS",2016,"Persons",34
+"FIN","Finland","0-14Y","CARS",2017,"Persons",6
+"FIN","Finland","15-24Y","CARS",2017,"Persons",24
+"FIN","Finland","25-64Y","CARS",2017,"Persons",68
+"FIN","Finland","65MORE","CARS",2017,"Persons",35
+"FIN","Finland","0-14Y","CARS",2018,"Persons",3
+"FIN","Finland","15-24Y","CARS",2018,"Persons",28
+"FIN","Finland","25-64Y","CARS",2018,"Persons",69
+"FIN","Finland","65MORE","CARS",2018,"Persons",46
+"FIN","Finland","0-14Y","CARS",2019,"Persons",4
+"FIN","Finland","15-24Y","CARS",2019,"Persons",27
+"FIN","Finland","25-64Y","CARS",2019,"Persons",63
+"FIN","Finland","65MORE","CARS",2019,"Persons",29
+"FIN","Finland","0-14Y","CARS",2020,"Persons",1
+"FIN","Finland","15-24Y","CARS",2020,"Persons",28
+"FIN","Finland","25-64Y","CARS",2020,"Persons",65
+"FIN","Finland","65MORE","CARS",2020,"Persons",33
+"FRA","France","0-14Y","CARS",1990,"Persons",246
+"FRA","France","15-24Y","CARS",1990,"Persons",2025
+"FRA","France","25-64Y","CARS",1990,"Persons",3716
+"FRA","France","65MORE","CARS",1990,"Persons",840
+"FRA","France","0-14Y","CARS",1991,"Persons",233
+"FRA","France","15-24Y","CARS",1991,"Persons",1958
+"FRA","France","25-64Y","CARS",1991,"Persons",3529
+"FRA","France","65MORE","CARS",1991,"Persons",779
+"FRA","France","0-14Y","CARS",1992,"Persons",232
+"FRA","France","15-24Y","CARS",1992,"Persons",1820
+"FRA","France","25-64Y","CARS",1992,"Persons",3326
+"FRA","France","65MORE","CARS",1992,"Persons",851
+"FRA","France","0-14Y","CARS",1993,"Persons",241
+"FRA","France","15-24Y","CARS",1993,"Persons",1788
+"FRA","France","25-64Y","CARS",1993,"Persons",3314
+"FRA","France","65MORE","CARS",1993,"Persons",822
+"FRA","France","0-14Y","CARS",1994,"Persons",218
+"FRA","France","15-24Y","CARS",1994,"Persons",1592
+"FRA","France","25-64Y","CARS",1994,"Persons",2998
+"FRA","France","65MORE","CARS",1994,"Persons",921
+"FRA","France","0-14Y","CARS",1995,"Persons",227
+"FRA","France","15-24Y","CARS",1995,"Persons",1578
+"FRA","France","25-64Y","CARS",1995,"Persons",3024
+"FRA","France","65MORE","CARS",1995,"Persons",866
+"FRA","France","0-14Y","CARS",1996,"Persons",217
+"FRA","France","15-24Y","CARS",1996,"Persons",1441
+"FRA","France","25-64Y","CARS",1996,"Persons",2974
+"FRA","France","65MORE","CARS",1996,"Persons",904
+"FRA","France","0-14Y","CARS",1997,"Persons",190
+"FRA","France","15-24Y","CARS",1997,"Persons",1496
+"FRA","France","25-64Y","CARS",1997,"Persons",2814
+"FRA","France","65MORE","CARS",1997,"Persons",855
+"FRA","France","0-14Y","CARS",1998,"Persons",212
+"FRA","France","15-24Y","CARS",1998,"Persons",1611
+"FRA","France","25-64Y","CARS",1998,"Persons",3012
+"FRA","France","65MORE","CARS",1998,"Persons",963
+"FRA","France","0-14Y","CARS",1999,"Persons",181
+"FRA","France","15-24Y","CARS",1999,"Persons",1574
+"FRA","France","25-64Y","CARS",1999,"Persons",2789
+"FRA","France","65MORE","CARS",1999,"Persons",870
+"FRA","France","0-14Y","CARS",2000,"Persons",190
+"FRA","France","15-24Y","CARS",2000,"Persons",1469
+"FRA","France","25-64Y","CARS",2000,"Persons",2678
+"FRA","France","65MORE","CARS",2000,"Persons",848
+"FRA","France","0-14Y","CARS",2001,"Persons",180
+"FRA","France","15-24Y","CARS",2001,"Persons",1545
+"FRA","France","25-64Y","CARS",2001,"Persons",2632
+"FRA","France","65MORE","CARS",2001,"Persons",863
+"FRA","France","0-14Y","CARS",2002,"Persons",140
+"FRA","France","15-24Y","CARS",2002,"Persons",1386
+"FRA","France","25-64Y","CARS",2002,"Persons",2467
+"FRA","France","65MORE","CARS",2002,"Persons",823
+"FRA","France","0-14Y","CARS",2003,"Persons",117
+"FRA","France","15-24Y","CARS",2003,"Persons",1015
+"FRA","France","25-64Y","CARS",2003,"Persons",1860
+"FRA","France","65MORE","CARS",2003,"Persons",662
+"FRA","France","0-14Y","CARS",2004,"Persons",103
+"FRA","France","15-24Y","CARS",2004,"Persons",1018
+"FRA","France","25-64Y","CARS",2004,"Persons",1716
+"FRA","France","65MORE","CARS",2004,"Persons",562
+"FRA","France","0-14Y","CARS",2005,"Persons",70
+"FRA","France","15-24Y","CARS",2005,"Persons",897
+"FRA","France","25-64Y","CARS",2005,"Persons",1528
+"FRA","France","65MORE","CARS",2005,"Persons",553
+"FRA","France","0-14Y","CARS",2006,"Persons",72
+"FRA","France","15-24Y","CARS",2006,"Persons",734
+"FRA","France","25-64Y","CARS",2006,"Persons",1268
+"FRA","France","65MORE","CARS",2006,"Persons",503
+"FRA","France","0-14Y","CARS",2007,"Persons",78
+"FRA","France","15-24Y","CARS",2007,"Persons",669
+"FRA","France","25-64Y","CARS",2007,"Persons",1215
+"FRA","France","65MORE","CARS",2007,"Persons",489
+"FRA","France","0-14Y","CARS",2008,"Persons",51
+"FRA","France","15-24Y","CARS",2008,"Persons",672
+"FRA","France","25-64Y","CARS",2008,"Persons",1042
+"FRA","France","65MORE","CARS",2008,"Persons",440
+"FRA","France","0-14Y","CARS",2009,"Persons",70
+"FRA","France","15-24Y","CARS",2009,"Persons",609
+"FRA","France","25-64Y","CARS",2009,"Persons",1059
+"FRA","France","65MORE","CARS",2009,"Persons",421
+"FRA","France","0-14Y","CARS",2010,"Persons",76
+"FRA","France","15-24Y","CARS",2010,"Persons",587
+"FRA","France","25-64Y","CARS",2010,"Persons",1053
+"FRA","France","65MORE","CARS",2010,"Persons",400
+"FRA","France","0-14Y","CARS",2011,"Persons",69
+"FRA","France","15-24Y","CARS",2011,"Persons",550
+"FRA","France","25-64Y","CARS",2011,"Persons",1043
+"FRA","France","65MORE","CARS",2011,"Persons",399
+"FRA","France","0-14Y","CARS",2012,"Persons",51
+"FRA","France","15-24Y","CARS",2012,"Persons",532
+"FRA","France","25-64Y","CARS",2012,"Persons",925
+"FRA","France","65MORE","CARS",2012,"Persons",374
+"FRA","France","0-14Y","CARS",2013,"Persons",54
+"FRA","France","15-24Y","CARS",2013,"Persons",413
+"FRA","France","25-64Y","CARS",2013,"Persons",805
+"FRA","France","65MORE","CARS",2013,"Persons",340
+"FRA","France","0-14Y","CARS",2014,"Persons",63
+"FRA","France","15-24Y","CARS",2014,"Persons",419
+"FRA","France","25-64Y","CARS",2014,"Persons",808
+"FRA","France","65MORE","CARS",2014,"Persons",373
+"FRA","France","0-14Y","CARS",2015,"Persons",63
+"FRA","France","15-24Y","CARS",2015,"Persons",450
+"FRA","France","25-64Y","CARS",2015,"Persons",833
+"FRA","France","65MORE","CARS",2015,"Persons",450
+"FRA","France","0-14Y","CARS",2016,"Persons",60
+"FRA","France","15-24Y","CARS",2016,"Persons",418
+"FRA","France","25-64Y","CARS",2016,"Persons",834
+"FRA","France","65MORE","CARS",2016,"Persons",448
+"FRA","France","0-14Y","CARS",2017,"Persons",59
+"FRA","France","15-24Y","CARS",2017,"Persons",381
+"FRA","France","25-64Y","CARS",2017,"Persons",842
+"FRA","France","65MORE","CARS",2017,"Persons",485
+"FRA","France","0-14Y","CARS",2018,"Persons",50
+"FRA","France","15-24Y","CARS",2018,"Persons",345
+"FRA","France","25-64Y","CARS",2018,"Persons",784
+"FRA","France","65MORE","CARS",2018,"Persons",458
+"FRA","France","0-14Y","CARS",2019,"Persons",40
+"FRA","France","15-24Y","CARS",2019,"Persons",364
+"FRA","France","25-64Y","CARS",2019,"Persons",762
+"FRA","France","65MORE","CARS",2019,"Persons",456
+"FRA","France","0-14Y","CARS",2020,"Persons",44
+"FRA","France","15-24Y","CARS",2020,"Persons",327
+"FRA","France","25-64Y","CARS",2020,"Persons",557
+"FRA","France","65MORE","CARS",2020,"Persons",315
+"GBR","United Kingdom","0-14Y","CARS",1990,"Persons",84
+"GBR","United Kingdom","15-24Y","CARS",1990,"Persons",865
+"GBR","United Kingdom","25-64Y","CARS",1990,"Persons",1098
+"GBR","United Kingdom","65MORE","CARS",1990,"Persons",403
+"GBR","United Kingdom","0-14Y","CARS",1991,"Persons",69
+"GBR","United Kingdom","15-24Y","CARS",1991,"Persons",756
+"GBR","United Kingdom","25-64Y","CARS",1991,"Persons",989
+"GBR","United Kingdom","65MORE","CARS",1991,"Persons",339
+"GBR","United Kingdom","0-14Y","CARS",1992,"Persons",51
+"GBR","United Kingdom","15-24Y","CARS",1992,"Persons",706
+"GBR","United Kingdom","25-64Y","CARS",1992,"Persons",951
+"GBR","United Kingdom","65MORE","CARS",1992,"Persons",338
+"GBR","United Kingdom","0-14Y","CARS",1993,"Persons",77
+"GBR","United Kingdom","15-24Y","CARS",1993,"Persons",550
+"GBR","United Kingdom","25-64Y","CARS",1993,"Persons",878
+"GBR","United Kingdom","65MORE","CARS",1993,"Persons",320
+"GBR","United Kingdom","0-14Y","CARS",1994,"Persons",78
+"GBR","United Kingdom","15-24Y","CARS",1994,"Persons",578
+"GBR","United Kingdom","25-64Y","CARS",1994,"Persons",850
+"GBR","United Kingdom","65MORE","CARS",1994,"Persons",332
+"GBR","United Kingdom","0-14Y","CARS",1995,"Persons",77
+"GBR","United Kingdom","15-24Y","CARS",1995,"Persons",602
+"GBR","United Kingdom","25-64Y","CARS",1995,"Persons",817
+"GBR","United Kingdom","65MORE","CARS",1995,"Persons",325
+"GBR","United Kingdom","0-14Y","CARS",1996,"Persons",54
+"GBR","United Kingdom","15-24Y","CARS",1996,"Persons",626
+"GBR","United Kingdom","25-64Y","CARS",1996,"Persons",873
+"GBR","United Kingdom","65MORE","CARS",1996,"Persons",321
+"GBR","United Kingdom","0-14Y","CARS",1997,"Persons",61
+"GBR","United Kingdom","15-24Y","CARS",1997,"Persons",639
+"GBR","United Kingdom","25-64Y","CARS",1997,"Persons",845
+"GBR","United Kingdom","65MORE","CARS",1997,"Persons",329
+"GBR","United Kingdom","0-14Y","CARS",1998,"Persons",55
+"GBR","United Kingdom","15-24Y","CARS",1998,"Persons",539
+"GBR","United Kingdom","25-64Y","CARS",1998,"Persons",870
+"GBR","United Kingdom","65MORE","CARS",1998,"Persons",323
+"GBR","United Kingdom","0-14Y","CARS",1999,"Persons",67
+"GBR","United Kingdom","15-24Y","CARS",1999,"Persons",519
+"GBR","United Kingdom","25-64Y","CARS",1999,"Persons",825
+"GBR","United Kingdom","65MORE","CARS",1999,"Persons",355
+"GBR","United Kingdom","0-14Y","CARS",2000,"Persons",38
+"GBR","United Kingdom","15-24Y","CARS",2000,"Persons",555
+"GBR","United Kingdom","25-64Y","CARS",2000,"Persons",885
+"GBR","United Kingdom","65MORE","CARS",2000,"Persons",303
+"GBR","United Kingdom","0-14Y","CARS",2001,"Persons",62
+"GBR","United Kingdom","15-24Y","CARS",2001,"Persons",609
+"GBR","United Kingdom","25-64Y","CARS",2001,"Persons",860
+"GBR","United Kingdom","65MORE","CARS",2001,"Persons",306
+"GBR","United Kingdom","0-14Y","CARS",2002,"Persons",60
+"GBR","United Kingdom","15-24Y","CARS",2002,"Persons",624
+"GBR","United Kingdom","25-64Y","CARS",2002,"Persons",838
+"GBR","United Kingdom","65MORE","CARS",2002,"Persons",309
+"GBR","United Kingdom","0-14Y","CARS",2003,"Persons",51
+"GBR","United Kingdom","15-24Y","CARS",2003,"Persons",641
+"GBR","United Kingdom","25-64Y","CARS",2003,"Persons",848
+"GBR","United Kingdom","65MORE","CARS",2003,"Persons",315
+"GBR","United Kingdom","0-14Y","CARS",2004,"Persons",43
+"GBR","United Kingdom","15-24Y","CARS",2004,"Persons",651
+"GBR","United Kingdom","25-64Y","CARS",2004,"Persons",766
+"GBR","United Kingdom","65MORE","CARS",2004,"Persons",304
+"GBR","United Kingdom","0-14Y","CARS",2005,"Persons",41
+"GBR","United Kingdom","15-24Y","CARS",2005,"Persons",634
+"GBR","United Kingdom","25-64Y","CARS",2005,"Persons",786
+"GBR","United Kingdom","65MORE","CARS",2005,"Persons",296
+"GBR","United Kingdom","0-14Y","CARS",2006,"Persons",46
+"GBR","United Kingdom","15-24Y","CARS",2006,"Persons",646
+"GBR","United Kingdom","25-64Y","CARS",2006,"Persons",746
+"GBR","United Kingdom","65MORE","CARS",2006,"Persons",256
+"GBR","United Kingdom","0-14Y","CARS",2007,"Persons",38
+"GBR","United Kingdom","15-24Y","CARS",2007,"Persons",556
+"GBR","United Kingdom","25-64Y","CARS",2007,"Persons",649
+"GBR","United Kingdom","65MORE","CARS",2007,"Persons",251
+"GBR","United Kingdom","0-14Y","CARS",2008,"Persons",41
+"GBR","United Kingdom","15-24Y","CARS",2008,"Persons",460
+"GBR","United Kingdom","25-64Y","CARS",2008,"Persons",591
+"GBR","United Kingdom","65MORE","CARS",2008,"Persons",230
+"GBR","United Kingdom","0-14Y","CARS",2009,"Persons",23
+"GBR","United Kingdom","15-24Y","CARS",2009,"Persons",392
+"GBR","United Kingdom","25-64Y","CARS",2009,"Persons",522
+"GBR","United Kingdom","65MORE","CARS",2009,"Persons",193
+"GBR","United Kingdom","0-14Y","CARS",2010,"Persons",16
+"GBR","United Kingdom","15-24Y","CARS",2010,"Persons",279
+"GBR","United Kingdom","25-64Y","CARS",2010,"Persons",381
+"GBR","United Kingdom","65MORE","CARS",2010,"Persons",191
+"GBR","United Kingdom","0-14Y","CARS",2011,"Persons",17
+"GBR","United Kingdom","15-24Y","CARS",2011,"Persons",266
+"GBR","United Kingdom","25-64Y","CARS",2011,"Persons",423
+"GBR","United Kingdom","65MORE","CARS",2011,"Persons",211
+"GBR","United Kingdom","0-14Y","CARS",2012,"Persons",25
+"GBR","United Kingdom","15-24Y","CARS",2012,"Persons",236
+"GBR","United Kingdom","25-64Y","CARS",2012,"Persons",369
+"GBR","United Kingdom","65MORE","CARS",2012,"Persons",201
+"GBR","United Kingdom","0-14Y","CARS",2013,"Persons",12
+"GBR","United Kingdom","15-24Y","CARS",2013,"Persons",221
+"GBR","United Kingdom","25-64Y","CARS",2013,"Persons",367
+"GBR","United Kingdom","65MORE","CARS",2013,"Persons",219
+"GBR","United Kingdom","0-14Y","CARS",2014,"Persons",15
+"GBR","United Kingdom","15-24Y","CARS",2014,"Persons",227
+"GBR","United Kingdom","25-64Y","CARS",2014,"Persons",362
+"GBR","United Kingdom","65MORE","CARS",2014,"Persons",235
+"GBR","United Kingdom","0-14Y","CARS",2015,"Persons",21
+"GBR","United Kingdom","15-24Y","CARS",2015,"Persons",202
+"GBR","United Kingdom","25-64Y","CARS",2015,"Persons",360
+"GBR","United Kingdom","65MORE","CARS",2015,"Persons",219
+"GBR","United Kingdom","0-14Y","CARS",2016,"Persons",25
+"GBR","United Kingdom","15-24Y","CARS",2016,"Persons",198
+"GBR","United Kingdom","25-64Y","CARS",2016,"Persons",412
+"GBR","United Kingdom","65MORE","CARS",2016,"Persons",224
+"GBR","United Kingdom","0-14Y","CARS",2017,"Persons",18
+"GBR","United Kingdom","15-24Y","CARS",2017,"Persons",183
+"GBR","United Kingdom","25-64Y","CARS",2017,"Persons",407
+"GBR","United Kingdom","65MORE","CARS",2017,"Persons",215
+"GBR","United Kingdom","0-14Y","CARS",2018,"Persons",14
+"GBR","United Kingdom","15-24Y","CARS",2018,"Persons",179
+"GBR","United Kingdom","25-64Y","CARS",2018,"Persons",382
+"GBR","United Kingdom","65MORE","CARS",2018,"Persons",232
+"GBR","United Kingdom","0-14Y","CARS",2019,"Persons",9
+"GBR","United Kingdom","15-24Y","CARS",2019,"Persons",159
+"GBR","United Kingdom","25-64Y","CARS",2019,"Persons",328
+"GBR","United Kingdom","65MORE","CARS",2019,"Persons",272
+"GBR","United Kingdom","0-14Y","CARS",2020,"Persons",8
+"GBR","United Kingdom","15-24Y","CARS",2020,"Persons",131
+"GBR","United Kingdom","25-64Y","CARS",2020,"Persons",355
+"GBR","United Kingdom","65MORE","CARS",2020,"Persons",157
+"GRC","Greece","0-14Y","CARS",1990,"Persons",30
+"GRC","Greece","15-24Y","CARS",1990,"Persons",155
+"GRC","Greece","25-64Y","CARS",1990,"Persons",477
+"GRC","Greece","65MORE","CARS",1990,"Persons",51
+"GRC","Greece","0-14Y","CARS",1991,"Persons",25
+"GRC","Greece","15-24Y","CARS",1991,"Persons",160
+"GRC","Greece","25-64Y","CARS",1991,"Persons",492
+"GRC","Greece","65MORE","CARS",1991,"Persons",64
+"GRC","Greece","0-14Y","CARS",1992,"Persons",24
+"GRC","Greece","15-24Y","CARS",1992,"Persons",175
+"GRC","Greece","25-64Y","CARS",1992,"Persons",608
+"GRC","Greece","65MORE","CARS",1992,"Persons",54
+"GRC","Greece","0-14Y","CARS",1993,"Persons",30
+"GRC","Greece","15-24Y","CARS",1993,"Persons",157
+"GRC","Greece","25-64Y","CARS",1993,"Persons",533
+"GRC","Greece","65MORE","CARS",1993,"Persons",77
+"GRC","Greece","0-14Y","CARS",1994,"Persons",25
+"GRC","Greece","15-24Y","CARS",1994,"Persons",177
+"GRC","Greece","25-64Y","CARS",1994,"Persons",581
+"GRC","Greece","65MORE","CARS",1994,"Persons",80
+"GRC","Greece","0-14Y","CARS",1995,"Persons",24
+"GRC","Greece","15-24Y","CARS",1995,"Persons",171
+"GRC","Greece","25-64Y","CARS",1995,"Persons",609
+"GRC","Greece","65MORE","CARS",1995,"Persons",109
+"GRC","Greece","0-14Y","CARS",1996,"Persons",36
+"GRC","Greece","15-24Y","CARS",1996,"Persons",186
+"GRC","Greece","25-64Y","CARS",1996,"Persons",562
+"GRC","Greece","65MORE","CARS",1996,"Persons",106
+"GRC","Greece","0-14Y","CARS",1997,"Persons",31
+"GRC","Greece","15-24Y","CARS",1997,"Persons",162
+"GRC","Greece","25-64Y","CARS",1997,"Persons",553
+"GRC","Greece","65MORE","CARS",1997,"Persons",110
+"GRC","Greece","0-14Y","CARS",1998,"Persons",21
+"GRC","Greece","15-24Y","CARS",1998,"Persons",175
+"GRC","Greece","25-64Y","CARS",1998,"Persons",562
+"GRC","Greece","65MORE","CARS",1998,"Persons",101
+"GRC","Greece","0-14Y","CARS",1999,"Persons",23
+"GRC","Greece","15-24Y","CARS",1999,"Persons",185
+"GRC","Greece","25-64Y","CARS",1999,"Persons",546
+"GRC","Greece","65MORE","CARS",1999,"Persons",98
+"GRC","Greece","0-14Y","CARS",2000,"Persons",16
+"GRC","Greece","15-24Y","CARS",2000,"Persons",203
+"GRC","Greece","25-64Y","CARS",2000,"Persons",569
+"GRC","Greece","65MORE","CARS",2000,"Persons",92
+"GRC","Greece","0-14Y","CARS",2001,"Persons",19
+"GRC","Greece","15-24Y","CARS",2001,"Persons",172
+"GRC","Greece","25-64Y","CARS",2001,"Persons",484
+"GRC","Greece","65MORE","CARS",2001,"Persons",101
+"GRC","Greece","0-14Y","CARS",2002,"Persons",28
+"GRC","Greece","15-24Y","CARS",2002,"Persons",160
+"GRC","Greece","25-64Y","CARS",2002,"Persons",494
+"GRC","Greece","65MORE","CARS",2002,"Persons",103
+"GRC","Greece","0-14Y","CARS",2003,"Persons",25
+"GRC","Greece","15-24Y","CARS",2003,"Persons",185
+"GRC","Greece","25-64Y","CARS",2003,"Persons",455
+"GRC","Greece","65MORE","CARS",2003,"Persons",92
+"GRC","Greece","0-14Y","CARS",2004,"Persons",17
+"GRC","Greece","15-24Y","CARS",2004,"Persons",182
+"GRC","Greece","25-64Y","CARS",2004,"Persons",484
+"GRC","Greece","65MORE","CARS",2004,"Persons",93
+"GRC","Greece","0-14Y","CARS",2005,"Persons",20
+"GRC","Greece","15-24Y","CARS",2005,"Persons",179
+"GRC","Greece","25-64Y","CARS",2005,"Persons",498
+"GRC","Greece","65MORE","CARS",2005,"Persons",117
+"GRC","Greece","0-14Y","CARS",2006,"Persons",15
+"GRC","Greece","15-24Y","CARS",2006,"Persons",152
+"GRC","Greece","25-64Y","CARS",2006,"Persons",434
+"GRC","Greece","65MORE","CARS",2006,"Persons",109
+"GRC","Greece","0-14Y","CARS",2007,"Persons",23
+"GRC","Greece","15-24Y","CARS",2007,"Persons",167
+"GRC","Greece","25-64Y","CARS",2007,"Persons",455
+"GRC","Greece","65MORE","CARS",2007,"Persons",116
+"GRC","Greece","0-14Y","CARS",2008,"Persons",19
+"GRC","Greece","15-24Y","CARS",2008,"Persons",143
+"GRC","Greece","25-64Y","CARS",2008,"Persons",426
+"GRC","Greece","65MORE","CARS",2008,"Persons",115
+"GRC","Greece","0-14Y","CARS",2009,"Persons",23
+"GRC","Greece","15-24Y","CARS",2009,"Persons",125
+"GRC","Greece","25-64Y","CARS",2009,"Persons",425
+"GRC","Greece","65MORE","CARS",2009,"Persons",101
+"GRC","Greece","0-14Y","CARS",2010,"Persons",22
+"GRC","Greece","15-24Y","CARS",2010,"Persons",104
+"GRC","Greece","25-64Y","CARS",2010,"Persons",327
+"GRC","Greece","65MORE","CARS",2010,"Persons",88
+"GRC","Greece","0-14Y","CARS",2011,"Persons",8
+"GRC","Greece","15-24Y","CARS",2011,"Persons",86
+"GRC","Greece","25-64Y","CARS",2011,"Persons",291
+"GRC","Greece","65MORE","CARS",2011,"Persons",87
+"GRC","Greece","0-14Y","CARS",2012,"Persons",10
+"GRC","Greece","15-24Y","CARS",2012,"Persons",66
+"GRC","Greece","25-64Y","CARS",2012,"Persons",220
+"GRC","Greece","65MORE","CARS",2012,"Persons",82
+"GRC","Greece","0-14Y","CARS",2013,"Persons",3
+"GRC","Greece","15-24Y","CARS",2013,"Persons",60
+"GRC","Greece","25-64Y","CARS",2013,"Persons",182
+"GRC","Greece","65MORE","CARS",2013,"Persons",101
+"GRC","Greece","0-14Y","CARS",2014,"Persons",4
+"GRC","Greece","15-24Y","CARS",2014,"Persons",44
+"GRC","Greece","25-64Y","CARS",2014,"Persons",177
+"GRC","Greece","65MORE","CARS",2014,"Persons",64
+"GRC","Greece","0-14Y","CARS",2015,"Persons",2
+"GRC","Greece","15-24Y","CARS",2015,"Persons",57
+"GRC","Greece","25-64Y","CARS",2015,"Persons",167
+"GRC","Greece","65MORE","CARS",2015,"Persons",87
+"GRC","Greece","0-14Y","CARS",2016,"Persons",5
+"GRC","Greece","15-24Y","CARS",2016,"Persons",50
+"GRC","Greece","25-64Y","CARS",2016,"Persons",199
+"GRC","Greece","65MORE","CARS",2016,"Persons",86
+"GRC","Greece","0-14Y","CARS",2017,"Persons",5
+"GRC","Greece","15-24Y","CARS",2017,"Persons",45
+"GRC","Greece","25-64Y","CARS",2017,"Persons",164
+"GRC","Greece","65MORE","CARS",2017,"Persons",71
+"GRC","Greece","0-14Y","CARS",2018,"Persons",3
+"GRC","Greece","15-24Y","CARS",2018,"Persons",42
+"GRC","Greece","25-64Y","CARS",2018,"Persons",133
+"GRC","Greece","65MORE","CARS",2018,"Persons",78
+"GRC","Greece","0-14Y","CARS",2019,"Persons",2
+"GRC","Greece","15-24Y","CARS",2019,"Persons",31
+"GRC","Greece","25-64Y","CARS",2019,"Persons",110
+"GRC","Greece","65MORE","CARS",2019,"Persons",55
+"GRC","Greece","0-14Y","CARS",2020,"Persons",2
+"GRC","Greece","15-24Y","CARS",2020,"Persons",32
+"GRC","Greece","25-64Y","CARS",2020,"Persons",120
+"GRC","Greece","65MORE","CARS",2020,"Persons",43
+"HUN","Hungary","0-14Y","CARS",1990,"Persons",40
+"HUN","Hungary","15-24Y","CARS",1990,"Persons",255
+"HUN","Hungary","25-64Y","CARS",1990,"Persons",610
+"HUN","Hungary","65MORE","CARS",1990,"Persons",67
+"HUN","Hungary","0-14Y","CARS",1991,"Persons",56
+"HUN","Hungary","15-24Y","CARS",1991,"Persons",238
+"HUN","Hungary","25-64Y","CARS",1991,"Persons",626
+"HUN","Hungary","65MORE","CARS",1991,"Persons",57
+"HUN","Hungary","0-14Y","CARS",1992,"Persons",26
+"HUN","Hungary","15-24Y","CARS",1992,"Persons",248
+"HUN","Hungary","25-64Y","CARS",1992,"Persons",589
+"HUN","Hungary","65MORE","CARS",1992,"Persons",54
+"HUN","Hungary","0-14Y","CARS",1993,"Persons",24
+"HUN","Hungary","15-24Y","CARS",1993,"Persons",200
+"HUN","Hungary","25-64Y","CARS",1993,"Persons",452
+"HUN","Hungary","65MORE","CARS",1993,"Persons",52
+"HUN","Hungary","0-14Y","CARS",1994,"Persons",30
+"HUN","Hungary","15-24Y","CARS",1994,"Persons",164
+"HUN","Hungary","25-64Y","CARS",1994,"Persons",432
+"HUN","Hungary","65MORE","CARS",1994,"Persons",40
+"HUN","Hungary","0-14Y","CARS",1995,"Persons",30
+"HUN","Hungary","15-24Y","CARS",1995,"Persons",177
+"HUN","Hungary","25-64Y","CARS",1995,"Persons",443
+"HUN","Hungary","65MORE","CARS",1995,"Persons",35
+"HUN","Hungary","0-14Y","CARS",1996,"Persons",16
+"HUN","Hungary","15-24Y","CARS",1996,"Persons",129
+"HUN","Hungary","25-64Y","CARS",1996,"Persons",345
+"HUN","Hungary","65MORE","CARS",1996,"Persons",38
+"HUN","Hungary","0-14Y","CARS",1997,"Persons",18
+"HUN","Hungary","15-24Y","CARS",1997,"Persons",121
+"HUN","Hungary","25-64Y","CARS",1997,"Persons",369
+"HUN","Hungary","65MORE","CARS",1997,"Persons",42
+"HUN","Hungary","0-14Y","CARS",1998,"Persons",10
+"HUN","Hungary","15-24Y","CARS",1998,"Persons",127
+"HUN","Hungary","25-64Y","CARS",1998,"Persons",356
+"HUN","Hungary","65MORE","CARS",1998,"Persons",53
+"HUN","Hungary","0-14Y","CARS",1999,"Persons",22
+"HUN","Hungary","15-24Y","CARS",1999,"Persons",121
+"HUN","Hungary","25-64Y","CARS",1999,"Persons",326
+"HUN","Hungary","65MORE","CARS",1999,"Persons",41
+"HUN","Hungary","0-14Y","CARS",2000,"Persons",13
+"HUN","Hungary","15-24Y","CARS",2000,"Persons",122
+"HUN","Hungary","25-64Y","CARS",2000,"Persons",315
+"HUN","Hungary","65MORE","CARS",2000,"Persons",45
+"HUN","Hungary","0-14Y","CARS",2001,"Persons",15
+"HUN","Hungary","15-24Y","CARS",2001,"Persons",117
+"HUN","Hungary","25-64Y","CARS",2001,"Persons",320
+"HUN","Hungary","65MORE","CARS",2001,"Persons",45
+"HUN","Hungary","0-14Y","CARS",2002,"Persons",19
+"HUN","Hungary","15-24Y","CARS",2002,"Persons",121
+"HUN","Hungary","25-64Y","CARS",2002,"Persons",436
+"HUN","Hungary","65MORE","CARS",2002,"Persons",42
+"HUN","Hungary","0-14Y","CARS",2003,"Persons",16
+"HUN","Hungary","15-24Y","CARS",2003,"Persons",109
+"HUN","Hungary","25-64Y","CARS",2003,"Persons",440
+"HUN","Hungary","65MORE","CARS",2003,"Persons",69
+"HUN","Hungary","65MORE","CARS",2004,"Persons",46
+"HUN","Hungary","65MORE","CARS",2005,"Persons",51
+"HUN","Hungary","65MORE","CARS",2006,"Persons",60
+"HUN","Hungary","0-14Y","CARS",2007,"Persons",18
+"HUN","Hungary","15-24Y","CARS",2007,"Persons",110
+"HUN","Hungary","25-64Y","CARS",2007,"Persons",369
+"HUN","Hungary","65MORE","CARS",2007,"Persons",54
+"HUN","Hungary","0-14Y","CARS",2008,"Persons",13
+"HUN","Hungary","15-24Y","CARS",2008,"Persons",83
+"HUN","Hungary","25-64Y","CARS",2008,"Persons",311
+"HUN","Hungary","65MORE","CARS",2008,"Persons",40
+"HUN","Hungary","0-14Y","CARS",2009,"Persons",12
+"HUN","Hungary","15-24Y","CARS",2009,"Persons",62
+"HUN","Hungary","25-64Y","CARS",2009,"Persons",266
+"HUN","Hungary","65MORE","CARS",2009,"Persons",46
+"HUN","Hungary","0-14Y","CARS",2010,"Persons",8
+"HUN","Hungary","15-24Y","CARS",2010,"Persons",55
+"HUN","Hungary","25-64Y","CARS",2010,"Persons",228
+"HUN","Hungary","65MORE","CARS",2010,"Persons",39
+"HUN","Hungary","0-14Y","CARS",2011,"Persons",6
+"HUN","Hungary","15-24Y","CARS",2011,"Persons",41
+"HUN","Hungary","25-64Y","CARS",2011,"Persons",170
+"HUN","Hungary","65MORE","CARS",2011,"Persons",51
+"HUN","Hungary","0-14Y","CARS",2012,"Persons",13
+"HUN","Hungary","15-24Y","CARS",2012,"Persons",27
+"HUN","Hungary","25-64Y","CARS",2012,"Persons",181
+"HUN","Hungary","65MORE","CARS",2012,"Persons",32
+"HUN","Hungary","0-14Y","CARS",2013,"Persons",5
+"HUN","Hungary","15-24Y","CARS",2013,"Persons",39
+"HUN","Hungary","25-64Y","CARS",2013,"Persons",169
+"HUN","Hungary","65MORE","CARS",2013,"Persons",40
+"HUN","Hungary","0-14Y","CARS",2014,"Persons",9
+"HUN","Hungary","15-24Y","CARS",2014,"Persons",29
+"HUN","Hungary","25-64Y","CARS",2014,"Persons",164
+"HUN","Hungary","65MORE","CARS",2014,"Persons",54
+"HUN","Hungary","0-14Y","CARS",2015,"Persons",8
+"HUN","Hungary","15-24Y","CARS",2015,"Persons",48
+"HUN","Hungary","25-64Y","CARS",2015,"Persons",193
+"HUN","Hungary","65MORE","CARS",2015,"Persons",57
+"HUN","Hungary","0-14Y","CARS",2016,"Persons",8
+"HUN","Hungary","15-24Y","CARS",2016,"Persons",28
+"HUN","Hungary","25-64Y","CARS",2016,"Persons",178
+"HUN","Hungary","65MORE","CARS",2016,"Persons",58
+"HUN","Hungary","0-14Y","CARS",2017,"Persons",6
+"HUN","Hungary","15-24Y","CARS",2017,"Persons",34
+"HUN","Hungary","25-64Y","CARS",2017,"Persons",180
+"HUN","Hungary","65MORE","CARS",2017,"Persons",60
+"HUN","Hungary","0-14Y","CARS",2018,"Persons",3
+"HUN","Hungary","15-24Y","CARS",2018,"Persons",37
+"HUN","Hungary","25-64Y","CARS",2018,"Persons",186
+"HUN","Hungary","65MORE","CARS",2018,"Persons",65
+"HUN","Hungary","0-14Y","CARS",2019,"Persons",9
+"HUN","Hungary","15-24Y","CARS",2019,"Persons",37
+"HUN","Hungary","25-64Y","CARS",2019,"Persons",170
+"HUN","Hungary","65MORE","CARS",2019,"Persons",55
+"HUN","Hungary","0-14Y","CARS",2020,"Persons",7
+"HUN","Hungary","15-24Y","CARS",2020,"Persons",27
+"HUN","Hungary","25-64Y","CARS",2020,"Persons",143
+"HUN","Hungary","65MORE","CARS",2020,"Persons",44
+"IRL","Ireland","0-14Y","CARS",1990,"Persons",10
+"IRL","Ireland","15-24Y","CARS",1990,"Persons",68
+"IRL","Ireland","25-64Y","CARS",1990,"Persons",103
+"IRL","Ireland","65MORE","CARS",1990,"Persons",25
+"IRL","Ireland","0-14Y","CARS",1991,"Persons",8
+"IRL","Ireland","15-24Y","CARS",1991,"Persons",58
+"IRL","Ireland","25-64Y","CARS",1991,"Persons",88
+"IRL","Ireland","65MORE","CARS",1991,"Persons",40
+"IRL","Ireland","0-14Y","CARS",1992,"Persons",7
+"IRL","Ireland","15-24Y","CARS",1992,"Persons",49
+"IRL","Ireland","25-64Y","CARS",1992,"Persons",87
+"IRL","Ireland","65MORE","CARS",1992,"Persons",26
+"IRL","Ireland","0-14Y","CARS",1993,"Persons",12
+"IRL","Ireland","15-24Y","CARS",1993,"Persons",54
+"IRL","Ireland","25-64Y","CARS",1993,"Persons",87
+"IRL","Ireland","65MORE","CARS",1993,"Persons",31
+"IRL","Ireland","0-14Y","CARS",1994,"Persons",4
+"IRL","Ireland","15-24Y","CARS",1994,"Persons",48
+"IRL","Ireland","25-64Y","CARS",1994,"Persons",96
+"IRL","Ireland","65MORE","CARS",1994,"Persons",29
+"IRL","Ireland","0-14Y","CARS",1995,"Persons",7
+"IRL","Ireland","15-24Y","CARS",1995,"Persons",47
+"IRL","Ireland","25-64Y","CARS",1995,"Persons",101
+"IRL","Ireland","65MORE","CARS",1995,"Persons",31
+"IRL","Ireland","0-14Y","CARS",1996,"Persons",9
+"IRL","Ireland","15-24Y","CARS",1996,"Persons",65
+"IRL","Ireland","25-64Y","CARS",1996,"Persons",108
+"IRL","Ireland","65MORE","CARS",1996,"Persons",29
+"IRL","Ireland","0-14Y","CARS",1997,"Persons",11
+"IRL","Ireland","15-24Y","CARS",1997,"Persons",66
+"IRL","Ireland","25-64Y","CARS",1997,"Persons",106
+"IRL","Ireland","65MORE","CARS",1997,"Persons",29
+"IRL","Ireland","0-14Y","CARS",1998,"Persons",9
+"IRL","Ireland","15-24Y","CARS",1998,"Persons",92
+"IRL","Ireland","25-64Y","CARS",1998,"Persons",110
+"IRL","Ireland","65MORE","CARS",1998,"Persons",39
+"IRL","Ireland","0-14Y","CARS",1999,"Persons",6
+"IRL","Ireland","15-24Y","CARS",1999,"Persons",85
+"IRL","Ireland","25-64Y","CARS",1999,"Persons",107
+"IRL","Ireland","65MORE","CARS",1999,"Persons",35
+"IRL","Ireland","0-14Y","CARS",2000,"Persons",9
+"IRL","Ireland","15-24Y","CARS",2000,"Persons",97
+"IRL","Ireland","25-64Y","CARS",2000,"Persons",128
+"IRL","Ireland","65MORE","CARS",2000,"Persons",20
+"IRL","Ireland","0-14Y","CARS",2001,"Persons",11
+"IRL","Ireland","15-24Y","CARS",2001,"Persons",79
+"IRL","Ireland","25-64Y","CARS",2001,"Persons",117
+"IRL","Ireland","65MORE","CARS",2001,"Persons",22
+"IRL","Ireland","0-14Y","CARS",2002,"Persons",5
+"IRL","Ireland","15-24Y","CARS",2002,"Persons",56
+"IRL","Ireland","25-64Y","CARS",2002,"Persons",100
+"IRL","Ireland","65MORE","CARS",2002,"Persons",31
+"IRL","Ireland","0-14Y","CARS",2003,"Persons",6
+"IRL","Ireland","15-24Y","CARS",2003,"Persons",59
+"IRL","Ireland","25-64Y","CARS",2003,"Persons",82
+"IRL","Ireland","65MORE","CARS",2003,"Persons",21
+"IRL","Ireland","0-14Y","CARS",2004,"Persons",4
+"IRL","Ireland","15-24Y","CARS",2004,"Persons",69
+"IRL","Ireland","25-64Y","CARS",2004,"Persons",99
+"IRL","Ireland","65MORE","CARS",2004,"Persons",25
+"IRL","Ireland","0-14Y","CARS",2005,"Persons",1
+"IRL","Ireland","15-24Y","CARS",2005,"Persons",87
+"IRL","Ireland","25-64Y","CARS",2005,"Persons",98
+"IRL","Ireland","65MORE","CARS",2005,"Persons",32
+"IRL","Ireland","0-14Y","CARS",2006,"Persons",9
+"IRL","Ireland","15-24Y","CARS",2006,"Persons",87
+"IRL","Ireland","25-64Y","CARS",2006,"Persons",100
+"IRL","Ireland","65MORE","CARS",2006,"Persons",30
+"IRL","Ireland","0-14Y","CARS",2007,"Persons",9
+"IRL","Ireland","15-24Y","CARS",2007,"Persons",58
+"IRL","Ireland","25-64Y","CARS",2007,"Persons",79
+"IRL","Ireland","65MORE","CARS",2007,"Persons",22
+"IRL","Ireland","65MORE","CARS",2008,"Persons",27
+"IRL","Ireland","65MORE","CARS",2009,"Persons",13
+"IRL","Ireland","0-14Y","CARS",2010,"Persons",2
+"IRL","Ireland","15-24Y","CARS",2010,"Persons",49
+"IRL","Ireland","25-64Y","CARS",2010,"Persons",58
+"IRL","Ireland","65MORE","CARS",2010,"Persons",17
+"IRL","Ireland","0-14Y","CARS",2011,"Persons",2
+"IRL","Ireland","15-24Y","CARS",2011,"Persons",32
+"IRL","Ireland","25-64Y","CARS",2011,"Persons",42
+"IRL","Ireland","65MORE","CARS",2011,"Persons",19
+"IRL","Ireland","0-14Y","CARS",2012,"Persons",0
+"IRL","Ireland","15-24Y","CARS",2012,"Persons",35
+"IRL","Ireland","25-64Y","CARS",2012,"Persons",35
+"IRL","Ireland","65MORE","CARS",2012,"Persons",19
+"IRL","Ireland","0-14Y","CARS",2013,"Persons",3
+"IRL","Ireland","15-24Y","CARS",2013,"Persons",34
+"IRL","Ireland","25-64Y","CARS",2013,"Persons",51
+"IRL","Ireland","65MORE","CARS",2013,"Persons",30
+"IRL","Ireland","0-14Y","CARS",2014,"Persons",6
+"IRL","Ireland","15-24Y","CARS",2014,"Persons",27
+"IRL","Ireland","25-64Y","CARS",2014,"Persons",51
+"IRL","Ireland","65MORE","CARS",2014,"Persons",22
+"IRL","Ireland","0-14Y","CARS",2015,"Persons",1
+"IRL","Ireland","15-24Y","CARS",2015,"Persons",27
+"IRL","Ireland","25-64Y","CARS",2015,"Persons",35
+"IRL","Ireland","65MORE","CARS",2015,"Persons",20
+"IRL","Ireland","0-14Y","CARS",2016,"Persons",3
+"IRL","Ireland","15-24Y","CARS",2016,"Persons",26
+"IRL","Ireland","25-64Y","CARS",2016,"Persons",52
+"IRL","Ireland","65MORE","CARS",2016,"Persons",24
+"IRL","Ireland","0-14Y","CARS",2017,"Persons",3
+"IRL","Ireland","15-24Y","CARS",2017,"Persons",20
+"IRL","Ireland","25-64Y","CARS",2017,"Persons",35
+"IRL","Ireland","65MORE","CARS",2017,"Persons",20
+"IRL","Ireland","0-14Y","CARS",2018,"Persons",3
+"IRL","Ireland","15-24Y","CARS",2018,"Persons",16
+"IRL","Ireland","25-64Y","CARS",2018,"Persons",30
+"IRL","Ireland","65MORE","CARS",2018,"Persons",12
+"IRL","Ireland","0-14Y","CARS",2019,"Persons",2
+"IRL","Ireland","15-24Y","CARS",2019,"Persons",18
+"IRL","Ireland","25-64Y","CARS",2019,"Persons",35
+"IRL","Ireland","65MORE","CARS",2019,"Persons",26
+"IRL","Ireland","0-14Y","CARS",2020,"Persons",4
+"IRL","Ireland","15-24Y","CARS",2020,"Persons",14
+"IRL","Ireland","25-64Y","CARS",2020,"Persons",33
+"IRL","Ireland","65MORE","CARS",2020,"Persons",19
+"ISL","Iceland","0-14Y","CARS",1990,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1990,"Persons",6
+"ISL","Iceland","25-64Y","CARS",1990,"Persons",7
+"ISL","Iceland","65MORE","CARS",1990,"Persons",2
+"ISL","Iceland","0-14Y","CARS",1991,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1991,"Persons",6
+"ISL","Iceland","25-64Y","CARS",1991,"Persons",10
+"ISL","Iceland","65MORE","CARS",1991,"Persons",1
+"ISL","Iceland","0-14Y","CARS",1992,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1992,"Persons",4
+"ISL","Iceland","25-64Y","CARS",1992,"Persons",6
+"ISL","Iceland","65MORE","CARS",1992,"Persons",3
+"ISL","Iceland","0-14Y","CARS",1993,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1993,"Persons",4
+"ISL","Iceland","25-64Y","CARS",1993,"Persons",5
+"ISL","Iceland","65MORE","CARS",1993,"Persons",0
+"ISL","Iceland","0-14Y","CARS",1994,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1994,"Persons",4
+"ISL","Iceland","25-64Y","CARS",1994,"Persons",5
+"ISL","Iceland","65MORE","CARS",1994,"Persons",1
+"ISL","Iceland","0-14Y","CARS",1995,"Persons",1
+"ISL","Iceland","15-24Y","CARS",1995,"Persons",3
+"ISL","Iceland","25-64Y","CARS",1995,"Persons",5
+"ISL","Iceland","65MORE","CARS",1995,"Persons",3
+"ISL","Iceland","0-14Y","CARS",1996,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1996,"Persons",6
+"ISL","Iceland","25-64Y","CARS",1996,"Persons",1
+"ISL","Iceland","65MORE","CARS",1996,"Persons",0
+"ISL","Iceland","0-14Y","CARS",1997,"Persons",3
+"ISL","Iceland","15-24Y","CARS",1997,"Persons",0
+"ISL","Iceland","25-64Y","CARS",1997,"Persons",2
+"ISL","Iceland","65MORE","CARS",1997,"Persons",3
+"ISL","Iceland","0-14Y","CARS",1998,"Persons",2
+"ISL","Iceland","15-24Y","CARS",1998,"Persons",7
+"ISL","Iceland","25-64Y","CARS",1998,"Persons",9
+"ISL","Iceland","65MORE","CARS",1998,"Persons",1
+"ISL","Iceland","0-14Y","CARS",1999,"Persons",0
+"ISL","Iceland","15-24Y","CARS",1999,"Persons",5
+"ISL","Iceland","25-64Y","CARS",1999,"Persons",5
+"ISL","Iceland","65MORE","CARS",1999,"Persons",0
+"ISL","Iceland","0-14Y","CARS",2000,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2000,"Persons",9
+"ISL","Iceland","25-64Y","CARS",2000,"Persons",11
+"ISL","Iceland","65MORE","CARS",2000,"Persons",5
+"ISL","Iceland","0-14Y","CARS",2001,"Persons",2
+"ISL","Iceland","15-24Y","CARS",2001,"Persons",8
+"ISL","Iceland","25-64Y","CARS",2001,"Persons",9
+"ISL","Iceland","65MORE","CARS",2001,"Persons",2
+"ISL","Iceland","0-14Y","CARS",2002,"Persons",4
+"ISL","Iceland","15-24Y","CARS",2002,"Persons",4
+"ISL","Iceland","25-64Y","CARS",2002,"Persons",12
+"ISL","Iceland","65MORE","CARS",2002,"Persons",8
+"ISL","Iceland","0-14Y","CARS",2003,"Persons",2
+"ISL","Iceland","15-24Y","CARS",2003,"Persons",4
+"ISL","Iceland","25-64Y","CARS",2003,"Persons",6
+"ISL","Iceland","65MORE","CARS",2003,"Persons",5
+"ISL","Iceland","0-14Y","CARS",2004,"Persons",2
+"ISL","Iceland","15-24Y","CARS",2004,"Persons",3
+"ISL","Iceland","25-64Y","CARS",2004,"Persons",8
+"ISL","Iceland","65MORE","CARS",2004,"Persons",3
+"ISL","Iceland","0-14Y","CARS",2005,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2005,"Persons",7
+"ISL","Iceland","25-64Y","CARS",2005,"Persons",8
+"ISL","Iceland","65MORE","CARS",2005,"Persons",0
+"ISL","Iceland","0-14Y","CARS",2006,"Persons",1
+"ISL","Iceland","15-24Y","CARS",2006,"Persons",8
+"ISL","Iceland","25-64Y","CARS",2006,"Persons",9
+"ISL","Iceland","65MORE","CARS",2006,"Persons",2
+"ISL","Iceland","0-14Y","CARS",2007,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2007,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2007,"Persons",6
+"ISL","Iceland","65MORE","CARS",2007,"Persons",3
+"ISL","Iceland","0-14Y","CARS",2008,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2008,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2008,"Persons",5
+"ISL","Iceland","65MORE","CARS",2008,"Persons",3
+"ISL","Iceland","0-14Y","CARS",2009,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2009,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2009,"Persons",4
+"ISL","Iceland","65MORE","CARS",2009,"Persons",3
+"ISL","Iceland","0-14Y","CARS",2010,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2010,"Persons",3
+"ISL","Iceland","25-64Y","CARS",2010,"Persons",0
+"ISL","Iceland","65MORE","CARS",2010,"Persons",1
+"ISL","Iceland","0-14Y","CARS",2011,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2011,"Persons",4
+"ISL","Iceland","25-64Y","CARS",2011,"Persons",2
+"ISL","Iceland","65MORE","CARS",2011,"Persons",1
+"ISL","Iceland","0-14Y","CARS",2012,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2012,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2012,"Persons",2
+"ISL","Iceland","65MORE","CARS",2012,"Persons",2
+"ISL","Iceland","0-14Y","CARS",2013,"Persons",1
+"ISL","Iceland","15-24Y","CARS",2013,"Persons",5
+"ISL","Iceland","25-64Y","CARS",2013,"Persons",3
+"ISL","Iceland","65MORE","CARS",2013,"Persons",2
+"ISL","Iceland","0-14Y","CARS",2014,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2014,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2014,"Persons",1
+"ISL","Iceland","65MORE","CARS",2014,"Persons",0
+"ISL","Iceland","0-14Y","CARS",2015,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2015,"Persons",5
+"ISL","Iceland","25-64Y","CARS",2015,"Persons",2
+"ISL","Iceland","65MORE","CARS",2015,"Persons",5
+"ISL","Iceland","0-14Y","CARS",2016,"Persons",1
+"ISL","Iceland","15-24Y","CARS",2016,"Persons",2
+"ISL","Iceland","25-64Y","CARS",2016,"Persons",5
+"ISL","Iceland","65MORE","CARS",2016,"Persons",5
+"ISL","Iceland","0-14Y","CARS",2017,"Persons",1
+"ISL","Iceland","15-24Y","CARS",2017,"Persons",1
+"ISL","Iceland","25-64Y","CARS",2017,"Persons",5
+"ISL","Iceland","65MORE","CARS",2017,"Persons",2
+"ISL","Iceland","0-14Y","CARS",2018,"Persons",1
+"ISL","Iceland","15-24Y","CARS",2018,"Persons",3
+"ISL","Iceland","25-64Y","CARS",2018,"Persons",7
+"ISL","Iceland","65MORE","CARS",2018,"Persons",1
+"ISL","Iceland","0-14Y","CARS",2019,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2019,"Persons",1
+"ISL","Iceland","25-64Y","CARS",2019,"Persons",2
+"ISL","Iceland","65MORE","CARS",2019,"Persons",0
+"ISL","Iceland","0-14Y","CARS",2020,"Persons",0
+"ISL","Iceland","15-24Y","CARS",2020,"Persons",0
+"ISL","Iceland","25-64Y","CARS",2020,"Persons",4
+"ISL","Iceland","65MORE","CARS",2020,"Persons",1
+"ISR","Israel","0-14Y","CARS",1999,"Persons",16
+"ISR","Israel","15-24Y","CARS",1999,"Persons",65
+"ISR","Israel","25-64Y","CARS",1999,"Persons",99
+"ISR","Israel","65MORE","CARS",1999,"Persons",21
+"ISR","Israel","0-14Y","CARS",2000,"Persons",16
+"ISR","Israel","15-24Y","CARS",2000,"Persons",71
+"ISR","Israel","25-64Y","CARS",2000,"Persons",91
+"ISR","Israel","65MORE","CARS",2000,"Persons",10
+"ISR","Israel","0-14Y","CARS",2001,"Persons",14
+"ISR","Israel","15-24Y","CARS",2001,"Persons",86
+"ISR","Israel","25-64Y","CARS",2001,"Persons",103
+"ISR","Israel","65MORE","CARS",2001,"Persons",31
+"ISR","Israel","0-14Y","CARS",2002,"Persons",8
+"ISR","Israel","15-24Y","CARS",2002,"Persons",77
+"ISR","Israel","25-64Y","CARS",2002,"Persons",104
+"ISR","Israel","65MORE","CARS",2002,"Persons",23
+"ISR","Israel","0-14Y","CARS",2003,"Persons",8
+"ISR","Israel","15-24Y","CARS",2003,"Persons",50
+"ISR","Israel","25-64Y","CARS",2003,"Persons",89
+"ISR","Israel","65MORE","CARS",2003,"Persons",15
+"ISR","Israel","0-14Y","CARS",2004,"Persons",11
+"ISR","Israel","15-24Y","CARS",2004,"Persons",76
+"ISR","Israel","25-64Y","CARS",2004,"Persons",108
+"ISR","Israel","65MORE","CARS",2004,"Persons",20
+"ISR","Israel","0-14Y","CARS",2005,"Persons",9
+"ISR","Israel","15-24Y","CARS",2005,"Persons",58
+"ISR","Israel","25-64Y","CARS",2005,"Persons",109
+"ISR","Israel","65MORE","CARS",2005,"Persons",19
+"ISR","Israel","0-14Y","CARS",2006,"Persons",14
+"ISR","Israel","15-24Y","CARS",2006,"Persons",67
+"ISR","Israel","25-64Y","CARS",2006,"Persons",80
+"ISR","Israel","65MORE","CARS",2006,"Persons",15
+"ISR","Israel","0-14Y","CARS",2007,"Persons",7
+"ISR","Israel","15-24Y","CARS",2007,"Persons",68
+"ISR","Israel","25-64Y","CARS",2007,"Persons",93
+"ISR","Israel","65MORE","CARS",2007,"Persons",24
+"ISR","Israel","0-14Y","CARS",2008,"Persons",7
+"ISR","Israel","15-24Y","CARS",2008,"Persons",58
+"ISR","Israel","25-64Y","CARS",2008,"Persons",67
+"ISR","Israel","65MORE","CARS",2008,"Persons",10
+"ISR","Israel","0-14Y","CARS",2009,"Persons",5
+"ISR","Israel","15-24Y","CARS",2009,"Persons",39
+"ISR","Israel","25-64Y","CARS",2009,"Persons",77
+"ISR","Israel","65MORE","CARS",2009,"Persons",19
+"ISR","Israel","0-14Y","CARS",2010,"Persons",7
+"ISR","Israel","15-24Y","CARS",2010,"Persons",40
+"ISR","Israel","25-64Y","CARS",2010,"Persons",63
+"ISR","Israel","65MORE","CARS",2010,"Persons",21
+"ISR","Israel","0-14Y","CARS",2011,"Persons",5
+"ISR","Israel","15-24Y","CARS",2011,"Persons",42
+"ISR","Israel","25-64Y","CARS",2011,"Persons",72
+"ISR","Israel","65MORE","CARS",2011,"Persons",18
+"ISR","Israel","0-14Y","CARS",2012,"Persons",6
+"ISR","Israel","15-24Y","CARS",2012,"Persons",28
+"ISR","Israel","25-64Y","CARS",2012,"Persons",52
+"ISR","Israel","65MORE","CARS",2012,"Persons",15
+"ISR","Israel","0-14Y","CARS",2013,"Persons",7
+"ISR","Israel","15-24Y","CARS",2013,"Persons",38
+"ISR","Israel","25-64Y","CARS",2013,"Persons",63
+"ISR","Israel","65MORE","CARS",2013,"Persons",11
+"ISR","Israel","0-14Y","CARS",2014,"Persons",8
+"ISR","Israel","15-24Y","CARS",2014,"Persons",35
+"ISR","Israel","25-64Y","CARS",2014,"Persons",44
+"ISR","Israel","65MORE","CARS",2014,"Persons",18
+"ISR","Israel","0-14Y","CARS",2015,"Persons",8
+"ISR","Israel","15-24Y","CARS",2015,"Persons",30
+"ISR","Israel","25-64Y","CARS",2015,"Persons",54
+"ISR","Israel","65MORE","CARS",2015,"Persons",26
+"ISR","Israel","0-14Y","CARS",2016,"Persons",11
+"ISR","Israel","15-24Y","CARS",2016,"Persons",43
+"ISR","Israel","25-64Y","CARS",2016,"Persons",73
+"ISR","Israel","65MORE","CARS",2016,"Persons",26
+"ISR","Israel","0-14Y","CARS",2017,"Persons",5
+"ISR","Israel","15-24Y","CARS",2017,"Persons",30
+"ISR","Israel","25-64Y","CARS",2017,"Persons",48
+"ISR","Israel","65MORE","CARS",2017,"Persons",24
+"ISR","Israel","0-14Y","CARS",2018,"Persons",4
+"ISR","Israel","15-24Y","CARS",2018,"Persons",31
+"ISR","Israel","25-64Y","CARS",2018,"Persons",47
+"ISR","Israel","65MORE","CARS",2018,"Persons",12
+"ISR","Israel","0-14Y","CARS",2019,"Persons",12
+"ISR","Israel","15-24Y","CARS",2019,"Persons",31
+"ISR","Israel","25-64Y","CARS",2019,"Persons",61
+"ISR","Israel","65MORE","CARS",2019,"Persons",23
+"ISR","Israel","0-14Y","CARS",2020,"Persons",5
+"ISR","Israel","15-24Y","CARS",2020,"Persons",29
+"ISR","Israel","25-64Y","CARS",2020,"Persons",51
+"ISR","Israel","65MORE","CARS",2020,"Persons",18
+"ITA","Italy","0-14Y","CARS",1990,"Persons",96
+"ITA","Italy","15-24Y","CARS",1990,"Persons",1103
+"ITA","Italy","25-64Y","CARS",1990,"Persons",2017
+"ITA","Italy","65MORE","CARS",1990,"Persons",414
+"ITA","Italy","0-14Y","CARS",1992,"Persons",96
+"ITA","Italy","15-24Y","CARS",1992,"Persons",1282
+"ITA","Italy","25-64Y","CARS",1992,"Persons",2380
+"ITA","Italy","65MORE","CARS",1992,"Persons",510
+"ITA","Italy","0-14Y","CARS",1993,"Persons",89
+"ITA","Italy","15-24Y","CARS",1993,"Persons",1065
+"ITA","Italy","25-64Y","CARS",1993,"Persons",2149
+"ITA","Italy","65MORE","CARS",1993,"Persons",434
+"ITA","Italy","0-14Y","CARS",1994,"Persons",96
+"ITA","Italy","15-24Y","CARS",1994,"Persons",961
+"ITA","Italy","25-64Y","CARS",1994,"Persons",2137
+"ITA","Italy","65MORE","CARS",1994,"Persons",558
+"ITA","Italy","0-14Y","CARS",1996,"Persons",73
+"ITA","Italy","15-24Y","CARS",1996,"Persons",916
+"ITA","Italy","25-64Y","CARS",1996,"Persons",2035
+"ITA","Italy","65MORE","CARS",1996,"Persons",504
+"ITA","Italy","0-14Y","CARS",1997,"Persons",84
+"ITA","Italy","15-24Y","CARS",1997,"Persons",840
+"ITA","Italy","25-64Y","CARS",1997,"Persons",2092
+"ITA","Italy","65MORE","CARS",1997,"Persons",595
+"ITA","Italy","0-14Y","CARS",1998,"Persons",71
+"ITA","Italy","15-24Y","CARS",1998,"Persons",820
+"ITA","Italy","25-64Y","CARS",1998,"Persons",2147
+"ITA","Italy","65MORE","CARS",1998,"Persons",540
+"ITA","Italy","0-14Y","CARS",1999,"Persons",69
+"ITA","Italy","15-24Y","CARS",1999,"Persons",878
+"ITA","Italy","25-64Y","CARS",1999,"Persons",2127
+"ITA","Italy","65MORE","CARS",1999,"Persons",517
+"ITA","Italy","65MORE","CARS",2000,"Persons",510
+"ITA","Italy","0-14Y","CARS",2001,"Persons",82
+"ITA","Italy","15-24Y","CARS",2001,"Persons",832
+"ITA","Italy","25-64Y","CARS",2001,"Persons",2072
+"ITA","Italy","65MORE","CARS",2001,"Persons",540
+"ITA","Italy","0-14Y","CARS",2002,"Persons",76
+"ITA","Italy","15-24Y","CARS",2002,"Persons",848
+"ITA","Italy","25-64Y","CARS",2002,"Persons",1954
+"ITA","Italy","65MORE","CARS",2002,"Persons",584
+"ITA","Italy","0-14Y","CARS",2003,"Persons",54
+"ITA","Italy","15-24Y","CARS",2003,"Persons",751
+"ITA","Italy","25-64Y","CARS",2003,"Persons",1839
+"ITA","Italy","65MORE","CARS",2003,"Persons",548
+"ITA","Italy","0-14Y","CARS",2004,"Persons",61
+"ITA","Italy","15-24Y","CARS",2004,"Persons",679
+"ITA","Italy","25-64Y","CARS",2004,"Persons",1583
+"ITA","Italy","65MORE","CARS",2004,"Persons",530
+"ITA","Italy","0-14Y","CARS",2005,"Persons",63
+"ITA","Italy","15-24Y","CARS",2005,"Persons",648
+"ITA","Italy","25-64Y","CARS",2005,"Persons",1484
+"ITA","Italy","65MORE","CARS",2005,"Persons",468
+"ITA","Italy","0-14Y","CARS",2006,"Persons",49
+"ITA","Italy","15-24Y","CARS",2006,"Persons",619
+"ITA","Italy","25-64Y","CARS",2006,"Persons",1454
+"ITA","Italy","65MORE","CARS",2006,"Persons",530
+"ITA","Italy","0-14Y","CARS",2007,"Persons",42
+"ITA","Italy","15-24Y","CARS",2007,"Persons",485
+"ITA","Italy","25-64Y","CARS",2007,"Persons",1262
+"ITA","Italy","65MORE","CARS",2007,"Persons",448
+"ITA","Italy","0-14Y","CARS",2008,"Persons",37
+"ITA","Italy","15-24Y","CARS",2008,"Persons",422
+"ITA","Italy","25-64Y","CARS",2008,"Persons",1118
+"ITA","Italy","65MORE","CARS",2008,"Persons",450
+"ITA","Italy","0-14Y","CARS",2009,"Persons",31
+"ITA","Italy","15-24Y","CARS",2009,"Persons",363
+"ITA","Italy","25-64Y","CARS",2009,"Persons",921
+"ITA","Italy","65MORE","CARS",2009,"Persons",429
+"ITA","Italy","0-14Y","CARS",2010,"Persons",37
+"ITA","Italy","15-24Y","CARS",2010,"Persons",352
+"ITA","Italy","25-64Y","CARS",2010,"Persons",950
+"ITA","Italy","65MORE","CARS",2010,"Persons",428
+"ITA","Italy","0-14Y","CARS",2011,"Persons",34
+"ITA","Italy","15-24Y","CARS",2011,"Persons",333
+"ITA","Italy","25-64Y","CARS",2011,"Persons",864
+"ITA","Italy","65MORE","CARS",2011,"Persons",397
+"ITA","Italy","0-14Y","CARS",2012,"Persons",29
+"ITA","Italy","15-24Y","CARS",2012,"Persons",273
+"ITA","Italy","25-64Y","CARS",2012,"Persons",906
+"ITA","Italy","65MORE","CARS",2012,"Persons",446
+"ITA","Italy","0-14Y","CARS",2013,"Persons",29
+"ITA","Italy","15-24Y","CARS",2013,"Persons",241
+"ITA","Italy","25-64Y","CARS",2013,"Persons",773
+"ITA","Italy","65MORE","CARS",2013,"Persons",430
+"ITA","Italy","0-14Y","CARS",2014,"Persons",32
+"ITA","Italy","15-24Y","CARS",2014,"Persons",232
+"ITA","Italy","25-64Y","CARS",2014,"Persons",760
+"ITA","Italy","65MORE","CARS",2014,"Persons",447
+"ITA","Italy","0-14Y","CARS",2015,"Persons",20
+"ITA","Italy","15-24Y","CARS",2015,"Persons",225
+"ITA","Italy","25-64Y","CARS",2015,"Persons",757
+"ITA","Italy","65MORE","CARS",2015,"Persons",451
+"ITA","Italy","0-14Y","CARS",2016,"Persons",29
+"ITA","Italy","15-24Y","CARS",2016,"Persons",238
+"ITA","Italy","25-64Y","CARS",2016,"Persons",747
+"ITA","Italy","65MORE","CARS",2016,"Persons",442
+"ITA","Italy","0-14Y","CARS",2017,"Persons",21
+"ITA","Italy","15-24Y","CARS",2017,"Persons",197
+"ITA","Italy","25-64Y","CARS",2017,"Persons",771
+"ITA","Italy","65MORE","CARS",2017,"Persons",464
+"ITA","Italy","0-14Y","CARS",2018,"Persons",16
+"ITA","Italy","15-24Y","CARS",2018,"Persons",220
+"ITA","Italy","25-64Y","CARS",2018,"Persons",720
+"ITA","Italy","65MORE","CARS",2018,"Persons",448
+"ITA","Italy","0-14Y","CARS",2019,"Persons",21
+"ITA","Italy","15-24Y","CARS",2019,"Persons",237
+"ITA","Italy","25-64Y","CARS",2019,"Persons",695
+"ITA","Italy","65MORE","CARS",2019,"Persons",442
+"ITA","Italy","0-14Y","CARS",2020,"Persons",22
+"ITA","Italy","15-24Y","CARS",2020,"Persons",136
+"ITA","Italy","25-64Y","CARS",2020,"Persons",524
+"ITA","Italy","65MORE","CARS",2020,"Persons",317
+"JPN","Japan","0-14Y","CARS",1990,"Persons",98
+"JPN","Japan","15-24Y","CARS",1990,"Persons",1721
+"JPN","Japan","25-64Y","CARS",1990,"Persons",1855
+"JPN","Japan","65MORE","CARS",1990,"Persons",213
+"JPN","Japan","0-14Y","CARS",1991,"Persons",90
+"JPN","Japan","15-24Y","CARS",1991,"Persons",1816
+"JPN","Japan","25-64Y","CARS",1991,"Persons",1980
+"JPN","Japan","65MORE","CARS",1991,"Persons",261
+"JPN","Japan","0-14Y","CARS",1992,"Persons",82
+"JPN","Japan","15-24Y","CARS",1992,"Persons",1819
+"JPN","Japan","25-64Y","CARS",1992,"Persons",1990
+"JPN","Japan","65MORE","CARS",1992,"Persons",285
+"JPN","Japan","0-14Y","CARS",1993,"Persons",82
+"JPN","Japan","15-24Y","CARS",1993,"Persons",1503
+"JPN","Japan","25-64Y","CARS",1993,"Persons",1803
+"JPN","Japan","65MORE","CARS",1993,"Persons",290
+"JPN","Japan","0-14Y","CARS",1994,"Persons",92
+"JPN","Japan","15-24Y","CARS",1994,"Persons",1272
+"JPN","Japan","25-64Y","CARS",1994,"Persons",1700
+"JPN","Japan","65MORE","CARS",1994,"Persons",263
+"JPN","Japan","0-14Y","CARS",1995,"Persons",66
+"JPN","Japan","15-24Y","CARS",1995,"Persons",1310
+"JPN","Japan","25-64Y","CARS",1995,"Persons",1601
+"JPN","Japan","65MORE","CARS",1995,"Persons",312
+"JPN","Japan","0-14Y","CARS",1996,"Persons",75
+"JPN","Japan","15-24Y","CARS",1996,"Persons",1120
+"JPN","Japan","25-64Y","CARS",1996,"Persons",1590
+"JPN","Japan","65MORE","CARS",1996,"Persons",326
+"JPN","Japan","0-14Y","CARS",1997,"Persons",65
+"JPN","Japan","15-24Y","CARS",1997,"Persons",1096
+"JPN","Japan","25-64Y","CARS",1997,"Persons",1620
+"JPN","Japan","65MORE","CARS",1997,"Persons",353
+"JPN","Japan","0-14Y","CARS",1998,"Persons",80
+"JPN","Japan","15-24Y","CARS",1998,"Persons",992
+"JPN","Japan","25-64Y","CARS",1998,"Persons",1534
+"JPN","Japan","65MORE","CARS",1998,"Persons",379
+"JPN","Japan","0-14Y","CARS",1999,"Persons",74
+"JPN","Japan","15-24Y","CARS",1999,"Persons",856
+"JPN","Japan","25-64Y","CARS",1999,"Persons",1543
+"JPN","Japan","65MORE","CARS",1999,"Persons",332
+"JPN","Japan","0-14Y","CARS",2000,"Persons",57
+"JPN","Japan","15-24Y","CARS",2000,"Persons",854
+"JPN","Japan","25-64Y","CARS",2000,"Persons",1578
+"JPN","Japan","65MORE","CARS",2000,"Persons",414
+"JPN","Japan","0-14Y","CARS",2001,"Persons",72
+"JPN","Japan","15-24Y","CARS",2001,"Persons",736
+"JPN","Japan","25-64Y","CARS",2001,"Persons",1540
+"JPN","Japan","65MORE","CARS",2001,"Persons",429
+"JPN","Japan","0-14Y","CARS",2002,"Persons",60
+"JPN","Japan","15-24Y","CARS",2002,"Persons",708
+"JPN","Japan","25-64Y","CARS",2002,"Persons",1401
+"JPN","Japan","65MORE","CARS",2002,"Persons",411
+"JPN","Japan","0-14Y","CARS",2003,"Persons",57
+"JPN","Japan","15-24Y","CARS",2003,"Persons",521
+"JPN","Japan","25-64Y","CARS",2003,"Persons",1220
+"JPN","Japan","65MORE","CARS",2003,"Persons",453
+"JPN","Japan","0-14Y","CARS",2004,"Persons",65
+"JPN","Japan","15-24Y","CARS",2004,"Persons",500
+"JPN","Japan","25-64Y","CARS",2004,"Persons",1170
+"JPN","Japan","65MORE","CARS",2004,"Persons",427
+"JPN","Japan","0-14Y","CARS",2005,"Persons",50
+"JPN","Japan","15-24Y","CARS",2005,"Persons",455
+"JPN","Japan","25-64Y","CARS",2005,"Persons",1055
+"JPN","Japan","65MORE","CARS",2005,"Persons",441
+"JPN","Japan","0-14Y","CARS",2006,"Persons",32
+"JPN","Japan","15-24Y","CARS",2006,"Persons",369
+"JPN","Japan","25-64Y","CARS",2006,"Persons",926
+"JPN","Japan","65MORE","CARS",2006,"Persons",427
+"JPN","Japan","0-14Y","CARS",2007,"Persons",36
+"JPN","Japan","15-24Y","CARS",2007,"Persons",311
+"JPN","Japan","25-64Y","CARS",2007,"Persons",720
+"JPN","Japan","65MORE","CARS",2007,"Persons",396
+"JPN","Japan","0-14Y","CARS",2008,"Persons",40
+"JPN","Japan","15-24Y","CARS",2008,"Persons",213
+"JPN","Japan","25-64Y","CARS",2008,"Persons",625
+"JPN","Japan","65MORE","CARS",2008,"Persons",404
+"JPN","Japan","0-14Y","CARS",2009,"Persons",26
+"JPN","Japan","15-24Y","CARS",2009,"Persons",215
+"JPN","Japan","25-64Y","CARS",2009,"Persons",564
+"JPN","Japan","65MORE","CARS",2009,"Persons",406
+"JPN","Japan","0-14Y","CARS",2010,"Persons",32
+"JPN","Japan","15-24Y","CARS",2010,"Persons",206
+"JPN","Japan","25-64Y","CARS",2010,"Persons",542
+"JPN","Japan","65MORE","CARS",2010,"Persons",421
+"JPN","Japan","0-14Y","CARS",2011,"Persons",27
+"JPN","Japan","15-24Y","CARS",2011,"Persons",183
+"JPN","Japan","25-64Y","CARS",2011,"Persons",465
+"JPN","Japan","65MORE","CARS",2011,"Persons",403
+"JPN","Japan","0-14Y","CARS",2012,"Persons",29
+"JPN","Japan","15-24Y","CARS",2012,"Persons",152
+"JPN","Japan","25-64Y","CARS",2012,"Persons",467
+"JPN","Japan","65MORE","CARS",2012,"Persons",446
+"JPN","Japan","0-14Y","CARS",2013,"Persons",26
+"JPN","Japan","15-24Y","CARS",2013,"Persons",173
+"JPN","Japan","25-64Y","CARS",2013,"Persons",440
+"JPN","Japan","65MORE","CARS",2013,"Persons",447
+"JPN","Japan","0-14Y","CARS",2014,"Persons",26
+"JPN","Japan","15-24Y","CARS",2014,"Persons",141
+"JPN","Japan","25-64Y","CARS",2014,"Persons",424
+"JPN","Japan","65MORE","CARS",2014,"Persons",462
+"JPN","Japan","0-14Y","CARS",2015,"Persons",23
+"JPN","Japan","15-24Y","CARS",2015,"Persons",133
+"JPN","Japan","25-64Y","CARS",2015,"Persons",385
+"JPN","Japan","65MORE","CARS",2015,"Persons",500
+"JPN","Japan","0-14Y","CARS",2016,"Persons",24
+"JPN","Japan","15-24Y","CARS",2016,"Persons",141
+"JPN","Japan","25-64Y","CARS",2016,"Persons",388
+"JPN","Japan","65MORE","CARS",2016,"Persons",493
+"JPN","Japan","0-14Y","CARS",2017,"Persons",22
+"JPN","Japan","15-24Y","CARS",2017,"Persons",109
+"JPN","Japan","25-64Y","CARS",2017,"Persons",356
+"JPN","Japan","65MORE","CARS",2017,"Persons",441
+"JPN","Japan","0-14Y","CARS",2018,"Persons",14
+"JPN","Japan","15-24Y","CARS",2018,"Persons",88
+"JPN","Japan","25-64Y","CARS",2018,"Persons",323
+"JPN","Japan","65MORE","CARS",2018,"Persons",469
+"JPN","Japan","0-14Y","CARS",2019,"Persons",25
+"JPN","Japan","15-24Y","CARS",2019,"Persons",105
+"JPN","Japan","25-64Y","CARS",2019,"Persons",308
+"JPN","Japan","65MORE","CARS",2019,"Persons",450
+"JPN","Japan","0-14Y","CARS",2020,"Persons",9
+"JPN","Japan","15-24Y","CARS",2020,"Persons",81
+"JPN","Japan","25-64Y","CARS",2020,"Persons",236
+"JPN","Japan","65MORE","CARS",2020,"Persons",363
+"KOR","Korea","0-14Y","CARS",1993,"Persons",136
+"KOR","Korea","15-24Y","CARS",1993,"Persons",412
+"KOR","Korea","25-64Y","CARS",1993,"Persons",1987
+"KOR","Korea","65MORE","CARS",1993,"Persons",68
+"KOR","Korea","0-14Y","CARS",1994,"Persons",145
+"KOR","Korea","15-24Y","CARS",1994,"Persons",450
+"KOR","Korea","25-64Y","CARS",1994,"Persons",2346
+"KOR","Korea","65MORE","CARS",1994,"Persons",57
+"KOR","Korea","0-14Y","CARS",1995,"Persons",126
+"KOR","Korea","15-24Y","CARS",1995,"Persons",580
+"KOR","Korea","25-64Y","CARS",1995,"Persons",2567
+"KOR","Korea","65MORE","CARS",1995,"Persons",70
+"KOR","Korea","0-14Y","CARS",1996,"Persons",174
+"KOR","Korea","15-24Y","CARS",1996,"Persons",852
+"KOR","Korea","25-64Y","CARS",1996,"Persons",3573
+"KOR","Korea","65MORE","CARS",1996,"Persons",100
+"KOR","Korea","0-14Y","CARS",1997,"Persons",137
+"KOR","Korea","15-24Y","CARS",1997,"Persons",784
+"KOR","Korea","25-64Y","CARS",1997,"Persons",3187
+"KOR","Korea","65MORE","CARS",1997,"Persons",90
+"KOR","Korea","0-14Y","CARS",1998,"Persons",72
+"KOR","Korea","15-24Y","CARS",1998,"Persons",551
+"KOR","Korea","25-64Y","CARS",1998,"Persons",2291
+"KOR","Korea","65MORE","CARS",1998,"Persons",76
+"KOR","Korea","0-14Y","CARS",1999,"Persons",108
+"KOR","Korea","15-24Y","CARS",1999,"Persons",536
+"KOR","Korea","25-64Y","CARS",1999,"Persons",2293
+"KOR","Korea","65MORE","CARS",1999,"Persons",105
+"KOR","Korea","0-14Y","CARS",2000,"Persons",75
+"KOR","Korea","15-24Y","CARS",2000,"Persons",518
+"KOR","Korea","25-64Y","CARS",2000,"Persons",2104
+"KOR","Korea","65MORE","CARS",2000,"Persons",94
+"KOR","Korea","0-14Y","CARS",2001,"Persons",66
+"KOR","Korea","15-24Y","CARS",2001,"Persons",418
+"KOR","Korea","25-64Y","CARS",2001,"Persons",1441
+"KOR","Korea","65MORE","CARS",2001,"Persons",81
+"KOR","Korea","0-14Y","CARS",2002,"Persons",65
+"KOR","Korea","15-24Y","CARS",2002,"Persons",321
+"KOR","Korea","25-64Y","CARS",2002,"Persons",1165
+"KOR","Korea","65MORE","CARS",2002,"Persons",71
+"KOR","Korea","0-14Y","CARS",2003,"Persons",53
+"KOR","Korea","15-24Y","CARS",2003,"Persons",333
+"KOR","Korea","25-64Y","CARS",2003,"Persons",1230
+"KOR","Korea","65MORE","CARS",2003,"Persons",101
+"KOR","Korea","0-14Y","CARS",2004,"Persons",29
+"KOR","Korea","15-24Y","CARS",2004,"Persons",247
+"KOR","Korea","25-64Y","CARS",2004,"Persons",1040
+"KOR","Korea","65MORE","CARS",2004,"Persons",110
+"KOR","Korea","0-14Y","CARS",2005,"Persons",49
+"KOR","Korea","15-24Y","CARS",2005,"Persons",189
+"KOR","Korea","25-64Y","CARS",2005,"Persons",1066
+"KOR","Korea","65MORE","CARS",2005,"Persons",78
+"KOR","Korea","0-14Y","CARS",2006,"Persons",38
+"KOR","Korea","15-24Y","CARS",2006,"Persons",193
+"KOR","Korea","25-64Y","CARS",2006,"Persons",1107
+"KOR","Korea","65MORE","CARS",2006,"Persons",114
+"KOR","Korea","0-14Y","CARS",2007,"Persons",42
+"KOR","Korea","15-24Y","CARS",2007,"Persons",209
+"KOR","Korea","25-64Y","CARS",2007,"Persons",1110
+"KOR","Korea","65MORE","CARS",2007,"Persons",109
+"KOR","Korea","0-14Y","CARS",2008,"Persons",37
+"KOR","Korea","15-24Y","CARS",2008,"Persons",186
+"KOR","Korea","25-64Y","CARS",2008,"Persons",1014
+"KOR","Korea","65MORE","CARS",2008,"Persons",105
+"KOR","Korea","0-14Y","CARS",2009,"Persons",33
+"KOR","Korea","15-24Y","CARS",2009,"Persons",188
+"KOR","Korea","25-64Y","CARS",2009,"Persons",983
+"KOR","Korea","65MORE","CARS",2009,"Persons",126
+"KOR","Korea","0-14Y","CARS",2010,"Persons",35
+"KOR","Korea","15-24Y","CARS",2010,"Persons",181
+"KOR","Korea","25-64Y","CARS",2010,"Persons",891
+"KOR","Korea","65MORE","CARS",2010,"Persons",121
+"KOR","Korea","0-14Y","CARS",2011,"Persons",28
+"KOR","Korea","15-24Y","CARS",2011,"Persons",162
+"KOR","Korea","25-64Y","CARS",2011,"Persons",854
+"KOR","Korea","65MORE","CARS",2011,"Persons",132
+"KOR","Korea","0-14Y","CARS",2012,"Persons",23
+"KOR","Korea","15-24Y","CARS",2012,"Persons",153
+"KOR","Korea","25-64Y","CARS",2012,"Persons",949
+"KOR","Korea","65MORE","CARS",2012,"Persons",158
+"KOR","Korea","0-14Y","CARS",2013,"Persons",24
+"KOR","Korea","15-24Y","CARS",2013,"Persons",135
+"KOR","Korea","25-64Y","CARS",2013,"Persons",873
+"KOR","Korea","65MORE","CARS",2013,"Persons",163
+"KOR","Korea","0-14Y","CARS",2014,"Persons",18
+"KOR","Korea","15-24Y","CARS",2014,"Persons",105
+"KOR","Korea","25-64Y","CARS",2014,"Persons",709
+"KOR","Korea","65MORE","CARS",2014,"Persons",166
+"KOR","Korea","0-14Y","CARS",2015,"Persons",13
+"KOR","Korea","15-24Y","CARS",2015,"Persons",122
+"KOR","Korea","25-64Y","CARS",2015,"Persons",674
+"KOR","Korea","65MORE","CARS",2015,"Persons",180
+"KOR","Korea","0-14Y","CARS",2016,"Persons",24
+"KOR","Korea","15-24Y","CARS",2016,"Persons",91
+"KOR","Korea","25-64Y","CARS",2016,"Persons",557
+"KOR","Korea","65MORE","CARS",2016,"Persons",150
+"KOR","Korea","0-14Y","CARS",2017,"Persons",12
+"KOR","Korea","15-24Y","CARS",2017,"Persons",71
+"KOR","Korea","25-64Y","CARS",2017,"Persons",554
+"KOR","Korea","65MORE","CARS",2017,"Persons",156
+"KOR","Korea","0-14Y","CARS",2018,"Persons",9
+"KOR","Korea","15-24Y","CARS",2018,"Persons",69
+"KOR","Korea","25-64Y","CARS",2018,"Persons",493
+"KOR","Korea","65MORE","CARS",2018,"Persons",154
+"KOR","Korea","0-14Y","CARS",2019,"Persons",6
+"KOR","Korea","15-24Y","CARS",2019,"Persons",51
+"KOR","Korea","25-64Y","CARS",2019,"Persons",400
+"KOR","Korea","65MORE","CARS",2019,"Persons",144
+"KOR","Korea","0-14Y","CARS",2020,"Persons",7
+"KOR","Korea","15-24Y","CARS",2020,"Persons",54
+"KOR","Korea","25-64Y","CARS",2020,"Persons",397
+"KOR","Korea","65MORE","CARS",2020,"Persons",131
+"LTU","Lithuania","0-14Y","CARS",2010,"Persons",3
+"LTU","Lithuania","15-24Y","CARS",2010,"Persons",38
+"LTU","Lithuania","25-64Y","CARS",2010,"Persons",71
+"LTU","Lithuania","65MORE","CARS",2010,"Persons",17
+"LTU","Lithuania","0-14Y","CARS",2011,"Persons",4
+"LTU","Lithuania","15-24Y","CARS",2011,"Persons",31
+"LTU","Lithuania","25-64Y","CARS",2011,"Persons",72
+"LTU","Lithuania","65MORE","CARS",2011,"Persons",26
+"LTU","Lithuania","0-14Y","CARS",2012,"Persons",3
+"LTU","Lithuania","15-24Y","CARS",2012,"Persons",31
+"LTU","Lithuania","25-64Y","CARS",2012,"Persons",82
+"LTU","Lithuania","65MORE","CARS",2012,"Persons",9
+"LTU","Lithuania","0-14Y","CARS",2013,"Persons",1
+"LTU","Lithuania","15-24Y","CARS",2013,"Persons",28
+"LTU","Lithuania","25-64Y","CARS",2013,"Persons",63
+"LTU","Lithuania","65MORE","CARS",2013,"Persons",14
+"LTU","Lithuania","0-14Y","CARS",2014,"Persons",8
+"LTU","Lithuania","15-24Y","CARS",2014,"Persons",21
+"LTU","Lithuania","25-64Y","CARS",2014,"Persons",73
+"LTU","Lithuania","65MORE","CARS",2014,"Persons",7
+"LTU","Lithuania","0-14Y","CARS",2015,"Persons",2
+"LTU","Lithuania","15-24Y","CARS",2015,"Persons",16
+"LTU","Lithuania","25-64Y","CARS",2015,"Persons",71
+"LTU","Lithuania","65MORE","CARS",2015,"Persons",24
+"LTU","Lithuania","0-14Y","CARS",2016,"Persons",1
+"LTU","Lithuania","15-24Y","CARS",2016,"Persons",13
+"LTU","Lithuania","25-64Y","CARS",2016,"Persons",55
+"LTU","Lithuania","65MORE","CARS",2016,"Persons",13
+"LTU","Lithuania","0-14Y","CARS",2017,"Persons",2
+"LTU","Lithuania","15-24Y","CARS",2017,"Persons",10
+"LTU","Lithuania","25-64Y","CARS",2017,"Persons",55
+"LTU","Lithuania","65MORE","CARS",2017,"Persons",18
+"LTU","Lithuania","0-14Y","CARS",2018,"Persons",3
+"LTU","Lithuania","15-24Y","CARS",2018,"Persons",21
+"LTU","Lithuania","25-64Y","CARS",2018,"Persons",40
+"LTU","Lithuania","65MORE","CARS",2018,"Persons",9
+"LTU","Lithuania","0-14Y","CARS",2019,"Persons",4
+"LTU","Lithuania","15-24Y","CARS",2019,"Persons",19
+"LTU","Lithuania","25-64Y","CARS",2019,"Persons",44
+"LTU","Lithuania","65MORE","CARS",2019,"Persons",18
+"LTU","Lithuania","0-14Y","CARS",2020,"Persons",1
+"LTU","Lithuania","15-24Y","CARS",2020,"Persons",15
+"LTU","Lithuania","25-64Y","CARS",2020,"Persons",50
+"LTU","Lithuania","65MORE","CARS",2020,"Persons",14
+"LUX","Luxembourg","0-14Y","CARS",1999,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",1999,"Persons",11
+"LUX","Luxembourg","25-64Y","CARS",1999,"Persons",31
+"LUX","Luxembourg","65MORE","CARS",1999,"Persons",6
+"LUX","Luxembourg","0-14Y","CARS",2000,"Persons",2
+"LUX","Luxembourg","15-24Y","CARS",2000,"Persons",16
+"LUX","Luxembourg","25-64Y","CARS",2000,"Persons",31
+"LUX","Luxembourg","65MORE","CARS",2000,"Persons",3
+"LUX","Luxembourg","65MORE","CARS",2001,"Persons",3
+"LUX","Luxembourg","65MORE","CARS",2002,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2003,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",2003,"Persons",8
+"LUX","Luxembourg","25-64Y","CARS",2003,"Persons",22
+"LUX","Luxembourg","65MORE","CARS",2003,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2004,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2004,"Persons",7
+"LUX","Luxembourg","25-64Y","CARS",2004,"Persons",14
+"LUX","Luxembourg","65MORE","CARS",2004,"Persons",6
+"LUX","Luxembourg","65MORE","CARS",2005,"Persons",6
+"LUX","Luxembourg","65MORE","CARS",2006,"Persons",2
+"LUX","Luxembourg","65MORE","CARS",2007,"Persons",3
+"LUX","Luxembourg","65MORE","CARS",2008,"Persons",1
+"LUX","Luxembourg","0-14Y","CARS",2009,"Persons",2
+"LUX","Luxembourg","15-24Y","CARS",2009,"Persons",8
+"LUX","Luxembourg","25-64Y","CARS",2009,"Persons",12
+"LUX","Luxembourg","65MORE","CARS",2009,"Persons",4
+"LUX","Luxembourg","0-14Y","CARS",2010,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2010,"Persons",9
+"LUX","Luxembourg","25-64Y","CARS",2010,"Persons",16
+"LUX","Luxembourg","65MORE","CARS",2010,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2011,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2011,"Persons",10
+"LUX","Luxembourg","25-64Y","CARS",2011,"Persons",10
+"LUX","Luxembourg","65MORE","CARS",2011,"Persons",1
+"LUX","Luxembourg","0-14Y","CARS",2012,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",2012,"Persons",6
+"LUX","Luxembourg","25-64Y","CARS",2012,"Persons",12
+"LUX","Luxembourg","65MORE","CARS",2012,"Persons",3
+"LUX","Luxembourg","0-14Y","CARS",2013,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",2013,"Persons",4
+"LUX","Luxembourg","25-64Y","CARS",2013,"Persons",17
+"LUX","Luxembourg","65MORE","CARS",2013,"Persons",8
+"LUX","Luxembourg","0-14Y","CARS",2014,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",2014,"Persons",4
+"LUX","Luxembourg","25-64Y","CARS",2014,"Persons",17
+"LUX","Luxembourg","65MORE","CARS",2014,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2015,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2015,"Persons",4
+"LUX","Luxembourg","25-64Y","CARS",2015,"Persons",7
+"LUX","Luxembourg","65MORE","CARS",2015,"Persons",5
+"LUX","Luxembourg","0-14Y","CARS",2016,"Persons",1
+"LUX","Luxembourg","15-24Y","CARS",2016,"Persons",2
+"LUX","Luxembourg","25-64Y","CARS",2016,"Persons",10
+"LUX","Luxembourg","65MORE","CARS",2016,"Persons",6
+"LUX","Luxembourg","0-14Y","CARS",2017,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2017,"Persons",5
+"LUX","Luxembourg","25-64Y","CARS",2017,"Persons",7
+"LUX","Luxembourg","65MORE","CARS",2017,"Persons",1
+"LUX","Luxembourg","0-14Y","CARS",2018,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2018,"Persons",8
+"LUX","Luxembourg","25-64Y","CARS",2018,"Persons",9
+"LUX","Luxembourg","65MORE","CARS",2018,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2019,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2019,"Persons",3
+"LUX","Luxembourg","25-64Y","CARS",2019,"Persons",11
+"LUX","Luxembourg","65MORE","CARS",2019,"Persons",2
+"LUX","Luxembourg","0-14Y","CARS",2020,"Persons",0
+"LUX","Luxembourg","15-24Y","CARS",2020,"Persons",1
+"LUX","Luxembourg","25-64Y","CARS",2020,"Persons",6
+"LUX","Luxembourg","65MORE","CARS",2020,"Persons",2
+"NLD","Netherlands","0-14Y","CARS",1990,"Persons",22
+"NLD","Netherlands","15-24Y","CARS",1990,"Persons",194
+"NLD","Netherlands","25-64Y","CARS",1990,"Persons",368
+"NLD","Netherlands","65MORE","CARS",1990,"Persons",118
+"NLD","Netherlands","0-14Y","CARS",1991,"Persons",25
+"NLD","Netherlands","15-24Y","CARS",1991,"Persons",173
+"NLD","Netherlands","25-64Y","CARS",1991,"Persons",341
+"NLD","Netherlands","65MORE","CARS",1991,"Persons",91
+"NLD","Netherlands","0-14Y","CARS",1992,"Persons",28
+"NLD","Netherlands","15-24Y","CARS",1992,"Persons",153
+"NLD","Netherlands","25-64Y","CARS",1992,"Persons",340
+"NLD","Netherlands","65MORE","CARS",1992,"Persons",105
+"NLD","Netherlands","0-14Y","CARS",1993,"Persons",26
+"NLD","Netherlands","15-24Y","CARS",1993,"Persons",160
+"NLD","Netherlands","25-64Y","CARS",1993,"Persons",307
+"NLD","Netherlands","65MORE","CARS",1993,"Persons",122
+"NLD","Netherlands","0-14Y","CARS",1994,"Persons",18
+"NLD","Netherlands","15-24Y","CARS",1994,"Persons",152
+"NLD","Netherlands","25-64Y","CARS",1994,"Persons",350
+"NLD","Netherlands","65MORE","CARS",1994,"Persons",94
+"NLD","Netherlands","0-14Y","CARS",1995,"Persons",11
+"NLD","Netherlands","15-24Y","CARS",1995,"Persons",159
+"NLD","Netherlands","25-64Y","CARS",1995,"Persons",376
+"NLD","Netherlands","65MORE","CARS",1995,"Persons",111
+"NLD","Netherlands","0-14Y","CARS",1996,"Persons",16
+"NLD","Netherlands","15-24Y","CARS",1996,"Persons",144
+"NLD","Netherlands","25-64Y","CARS",1996,"Persons",321
+"NLD","Netherlands","65MORE","CARS",1996,"Persons",94
+"NLD","Netherlands","0-14Y","CARS",1997,"Persons",13
+"NLD","Netherlands","15-24Y","CARS",1997,"Persons",129
+"NLD","Netherlands","25-64Y","CARS",1997,"Persons",309
+"NLD","Netherlands","65MORE","CARS",1997,"Persons",96
+"NLD","Netherlands","0-14Y","CARS",1998,"Persons",13
+"NLD","Netherlands","15-24Y","CARS",1998,"Persons",137
+"NLD","Netherlands","25-64Y","CARS",1998,"Persons",306
+"NLD","Netherlands","65MORE","CARS",1998,"Persons",92
+"NLD","Netherlands","0-14Y","CARS",1999,"Persons",21
+"NLD","Netherlands","15-24Y","CARS",1999,"Persons",139
+"NLD","Netherlands","25-64Y","CARS",1999,"Persons",285
+"NLD","Netherlands","65MORE","CARS",1999,"Persons",90
+"NLD","Netherlands","0-14Y","CARS",2000,"Persons",10
+"NLD","Netherlands","15-24Y","CARS",2000,"Persons",152
+"NLD","Netherlands","25-64Y","CARS",2000,"Persons",267
+"NLD","Netherlands","65MORE","CARS",2000,"Persons",84
+"NLD","Netherlands","0-14Y","CARS",2001,"Persons",15
+"NLD","Netherlands","15-24Y","CARS",2001,"Persons",129
+"NLD","Netherlands","25-64Y","CARS",2001,"Persons",259
+"NLD","Netherlands","65MORE","CARS",2001,"Persons",74
+"NLD","Netherlands","0-14Y","CARS",2002,"Persons",4
+"NLD","Netherlands","15-24Y","CARS",2002,"Persons",158
+"NLD","Netherlands","25-64Y","CARS",2002,"Persons",237
+"NLD","Netherlands","65MORE","CARS",2002,"Persons",80
+"NLD","Netherlands","0-14Y","CARS",2003,"Persons",18
+"NLD","Netherlands","15-24Y","CARS",2003,"Persons",149
+"NLD","Netherlands","25-64Y","CARS",2003,"Persons",248
+"NLD","Netherlands","65MORE","CARS",2003,"Persons",68
+"NLD","Netherlands","0-14Y","CARS",2004,"Persons",7
+"NLD","Netherlands","15-24Y","CARS",2004,"Persons",116
+"NLD","Netherlands","25-64Y","CARS",2004,"Persons",193
+"NLD","Netherlands","65MORE","CARS",2004,"Persons",79
+"NLD","Netherlands","0-14Y","CARS",2005,"Persons",8
+"NLD","Netherlands","15-24Y","CARS",2005,"Persons",92
+"NLD","Netherlands","25-64Y","CARS",2005,"Persons",178
+"NLD","Netherlands","65MORE","CARS",2005,"Persons",59
+"NLD","Netherlands","0-14Y","CARS",2006,"Persons",13
+"NLD","Netherlands","15-24Y","CARS",2006,"Persons",87
+"NLD","Netherlands","25-64Y","CARS",2006,"Persons",181
+"NLD","Netherlands","65MORE","CARS",2006,"Persons",63
+"NLD","Netherlands","0-14Y","CARS",2007,"Persons",7
+"NLD","Netherlands","15-24Y","CARS",2007,"Persons",87
+"NLD","Netherlands","25-64Y","CARS",2007,"Persons",179
+"NLD","Netherlands","65MORE","CARS",2007,"Persons",61
+"NLD","Netherlands","0-14Y","CARS",2008,"Persons",6
+"NLD","Netherlands","15-24Y","CARS",2008,"Persons",82
+"NLD","Netherlands","25-64Y","CARS",2008,"Persons",159
+"NLD","Netherlands","65MORE","CARS",2008,"Persons",55
+"NLD","Netherlands","0-14Y","CARS",2009,"Persons",1
+"NLD","Netherlands","15-24Y","CARS",2009,"Persons",83
+"NLD","Netherlands","25-64Y","CARS",2009,"Persons",140
+"NLD","Netherlands","65MORE","CARS",2009,"Persons",64
+"NLD","Netherlands","0-14Y","CARS",2010,"Persons",4
+"NLD","Netherlands","15-24Y","CARS",2010,"Persons",57
+"NLD","Netherlands","25-64Y","CARS",2010,"Persons",115
+"NLD","Netherlands","65MORE","CARS",2010,"Persons",43
+"NLD","Netherlands","0-14Y","CARS",2011,"Persons",3
+"NLD","Netherlands","15-24Y","CARS",2011,"Persons",52
+"NLD","Netherlands","25-64Y","CARS",2011,"Persons",103
+"NLD","Netherlands","65MORE","CARS",2011,"Persons",51
+"NLD","Netherlands","0-14Y","CARS",2012,"Persons",6
+"NLD","Netherlands","15-24Y","CARS",2012,"Persons",54
+"NLD","Netherlands","25-64Y","CARS",2012,"Persons",114
+"NLD","Netherlands","65MORE","CARS",2012,"Persons",44
+"NLD","Netherlands","0-14Y","CARS",2013,"Persons",0
+"NLD","Netherlands","15-24Y","CARS",2013,"Persons",55
+"NLD","Netherlands","25-64Y","CARS",2013,"Persons",93
+"NLD","Netherlands","65MORE","CARS",2013,"Persons",34
+"NLD","Netherlands","0-14Y","CARS",2014,"Persons",3
+"NLD","Netherlands","15-24Y","CARS",2014,"Persons",46
+"NLD","Netherlands","25-64Y","CARS",2014,"Persons",73
+"NLD","Netherlands","65MORE","CARS",2014,"Persons",55
+"NLD","Netherlands","0-14Y","CARS",2015,"Persons",3
+"NLD","Netherlands","15-24Y","CARS",2015,"Persons",46
+"NLD","Netherlands","25-64Y","CARS",2015,"Persons",108
+"NLD","Netherlands","65MORE","CARS",2015,"Persons",59
+"NLD","Netherlands","0-14Y","CARS",2016,"Persons",4
+"NLD","Netherlands","15-24Y","CARS",2016,"Persons",49
+"NLD","Netherlands","25-64Y","CARS",2016,"Persons",115
+"NLD","Netherlands","65MORE","CARS",2016,"Persons",57
+"NLD","Netherlands","0-14Y","CARS",2017,"Persons",4
+"NLD","Netherlands","15-24Y","CARS",2017,"Persons",33
+"NLD","Netherlands","25-64Y","CARS",2017,"Persons",119
+"NLD","Netherlands","65MORE","CARS",2017,"Persons",38
+"NOR","Norway","0-14Y","CARS",1990,"Persons",9
+"NOR","Norway","15-24Y","CARS",1990,"Persons",78
+"NOR","Norway","25-64Y","CARS",1990,"Persons",104
+"NOR","Norway","65MORE","CARS",1990,"Persons",23
+"NOR","Norway","0-14Y","CARS",1991,"Persons",10
+"NOR","Norway","15-24Y","CARS",1991,"Persons",69
+"NOR","Norway","25-64Y","CARS",1991,"Persons",87
+"NOR","Norway","65MORE","CARS",1991,"Persons",29
+"NOR","Norway","0-14Y","CARS",1992,"Persons",12
+"NOR","Norway","15-24Y","CARS",1992,"Persons",56
+"NOR","Norway","25-64Y","CARS",1992,"Persons",103
+"NOR","Norway","65MORE","CARS",1992,"Persons",38
+"NOR","Norway","0-14Y","CARS",1993,"Persons",7
+"NOR","Norway","15-24Y","CARS",1993,"Persons",51
+"NOR","Norway","25-64Y","CARS",1993,"Persons",81
+"NOR","Norway","65MORE","CARS",1993,"Persons",34
+"NOR","Norway","0-14Y","CARS",1994,"Persons",3
+"NOR","Norway","15-24Y","CARS",1994,"Persons",66
+"NOR","Norway","25-64Y","CARS",1994,"Persons",82
+"NOR","Norway","65MORE","CARS",1994,"Persons",46
+"NOR","Norway","0-14Y","CARS",1995,"Persons",9
+"NOR","Norway","15-24Y","CARS",1995,"Persons",66
+"NOR","Norway","25-64Y","CARS",1995,"Persons",91
+"NOR","Norway","65MORE","CARS",1995,"Persons",41
+"NOR","Norway","0-14Y","CARS",1996,"Persons",5
+"NOR","Norway","15-24Y","CARS",1996,"Persons",47
+"NOR","Norway","25-64Y","CARS",1996,"Persons",81
+"NOR","Norway","65MORE","CARS",1996,"Persons",42
+"NOR","Norway","0-14Y","CARS",1997,"Persons",8
+"NOR","Norway","15-24Y","CARS",1997,"Persons",54
+"NOR","Norway","25-64Y","CARS",1997,"Persons",105
+"NOR","Norway","65MORE","CARS",1997,"Persons",41
+"NOR","Norway","0-14Y","CARS",1998,"Persons",3
+"NOR","Norway","15-24Y","CARS",1998,"Persons",67
+"NOR","Norway","25-64Y","CARS",1998,"Persons",114
+"NOR","Norway","65MORE","CARS",1998,"Persons",42
+"NOR","Norway","0-14Y","CARS",1999,"Persons",11
+"NOR","Norway","15-24Y","CARS",1999,"Persons",59
+"NOR","Norway","25-64Y","CARS",1999,"Persons",97
+"NOR","Norway","65MORE","CARS",1999,"Persons",47
+"NOR","Norway","0-14Y","CARS",2000,"Persons",9
+"NOR","Norway","15-24Y","CARS",2000,"Persons",67
+"NOR","Norway","25-64Y","CARS",2000,"Persons",113
+"NOR","Norway","65MORE","CARS",2000,"Persons",32
+"NOR","Norway","0-14Y","CARS",2001,"Persons",2
+"NOR","Norway","15-24Y","CARS",2001,"Persons",54
+"NOR","Norway","25-64Y","CARS",2001,"Persons",95
+"NOR","Norway","65MORE","CARS",2001,"Persons",38
+"NOR","Norway","0-14Y","CARS",2002,"Persons",9
+"NOR","Norway","15-24Y","CARS",2002,"Persons",53
+"NOR","Norway","25-64Y","CARS",2002,"Persons",119
+"NOR","Norway","65MORE","CARS",2002,"Persons",31
+"NOR","Norway","0-14Y","CARS",2003,"Persons",9
+"NOR","Norway","15-24Y","CARS",2003,"Persons",42
+"NOR","Norway","25-64Y","CARS",2003,"Persons",102
+"NOR","Norway","65MORE","CARS",2003,"Persons",31
+"NOR","Norway","0-14Y","CARS",2004,"Persons",5
+"NOR","Norway","15-24Y","CARS",2004,"Persons",50
+"NOR","Norway","25-64Y","CARS",2004,"Persons",67
+"NOR","Norway","65MORE","CARS",2004,"Persons",34
+"NOR","Norway","0-14Y","CARS",2005,"Persons",1
+"NOR","Norway","15-24Y","CARS",2005,"Persons",40
+"NOR","Norway","25-64Y","CARS",2005,"Persons",81
+"NOR","Norway","65MORE","CARS",2005,"Persons",22
+"NOR","Norway","0-14Y","CARS",2006,"Persons",3
+"NOR","Norway","15-24Y","CARS",2006,"Persons",39
+"NOR","Norway","25-64Y","CARS",2006,"Persons",78
+"NOR","Norway","65MORE","CARS",2006,"Persons",35
+"NOR","Norway","0-14Y","CARS",2007,"Persons",6
+"NOR","Norway","15-24Y","CARS",2007,"Persons",30
+"NOR","Norway","25-64Y","CARS",2007,"Persons",75
+"NOR","Norway","65MORE","CARS",2007,"Persons",25
+"NOR","Norway","0-14Y","CARS",2008,"Persons",5
+"NOR","Norway","15-24Y","CARS",2008,"Persons",51
+"NOR","Norway","25-64Y","CARS",2008,"Persons",64
+"NOR","Norway","65MORE","CARS",2008,"Persons",29
+"NOR","Norway","0-14Y","CARS",2009,"Persons",3
+"NOR","Norway","15-24Y","CARS",2009,"Persons",43
+"NOR","Norway","25-64Y","CARS",2009,"Persons",61
+"NOR","Norway","65MORE","CARS",2009,"Persons",21
+"NOR","Norway","0-14Y","CARS",2010,"Persons",1
+"NOR","Norway","15-24Y","CARS",2010,"Persons",34
+"NOR","Norway","25-64Y","CARS",2010,"Persons",66
+"NOR","Norway","65MORE","CARS",2010,"Persons",26
+"NOR","Norway","0-14Y","CARS",2011,"Persons",4
+"NOR","Norway","15-24Y","CARS",2011,"Persons",26
+"NOR","Norway","25-64Y","CARS",2011,"Persons",50
+"NOR","Norway","65MORE","CARS",2011,"Persons",22
+"NOR","Norway","0-14Y","CARS",2012,"Persons",2
+"NOR","Norway","15-24Y","CARS",2012,"Persons",18
+"NOR","Norway","25-64Y","CARS",2012,"Persons",44
+"NOR","Norway","65MORE","CARS",2012,"Persons",9
+"NOR","Norway","0-14Y","CARS",2013,"Persons",0
+"NOR","Norway","15-24Y","CARS",2013,"Persons",21
+"NOR","Norway","25-64Y","CARS",2013,"Persons",52
+"NOR","Norway","65MORE","CARS",2013,"Persons",28
+"NOR","Norway","0-14Y","CARS",2014,"Persons",1
+"NOR","Norway","15-24Y","CARS",2014,"Persons",14
+"NOR","Norway","25-64Y","CARS",2014,"Persons",32
+"NOR","Norway","65MORE","CARS",2014,"Persons",26
+"NOR","Norway","0-14Y","CARS",2015,"Persons",0
+"NOR","Norway","15-24Y","CARS",2015,"Persons",24
+"NOR","Norway","25-64Y","CARS",2015,"Persons",28
+"NOR","Norway","65MORE","CARS",2015,"Persons",13
+"NOR","Norway","0-14Y","CARS",2016,"Persons",0
+"NOR","Norway","15-24Y","CARS",2016,"Persons",16
+"NOR","Norway","25-64Y","CARS",2016,"Persons",30
+"NOR","Norway","65MORE","CARS",2016,"Persons",20
+"NOR","Norway","0-14Y","CARS",2017,"Persons",2
+"NOR","Norway","15-24Y","CARS",2017,"Persons",8
+"NOR","Norway","25-64Y","CARS",2017,"Persons",26
+"NOR","Norway","65MORE","CARS",2017,"Persons",21
+"NOR","Norway","0-14Y","CARS",2018,"Persons",0
+"NOR","Norway","15-24Y","CARS",2018,"Persons",10
+"NOR","Norway","25-64Y","CARS",2018,"Persons",26
+"NOR","Norway","65MORE","CARS",2018,"Persons",23
+"NOR","Norway","0-14Y","CARS",2019,"Persons",0
+"NOR","Norway","15-24Y","CARS",2019,"Persons",14
+"NOR","Norway","25-64Y","CARS",2019,"Persons",30
+"NOR","Norway","65MORE","CARS",2019,"Persons",14
+"NOR","Norway","0-14Y","CARS",2020,"Persons",0
+"NOR","Norway","15-24Y","CARS",2020,"Persons",13
+"NOR","Norway","25-64Y","CARS",2020,"Persons",17
+"NOR","Norway","65MORE","CARS",2020,"Persons",11
+"NZL","New Zealand","0-14Y","CARS",1990,"Persons",26
+"NZL","New Zealand","15-24Y","CARS",1990,"Persons",205
+"NZL","New Zealand","25-64Y","CARS",1990,"Persons",184
+"NZL","New Zealand","65MORE","CARS",1990,"Persons",34
+"NZL","New Zealand","0-14Y","CARS",1991,"Persons",23
+"NZL","New Zealand","15-24Y","CARS",1991,"Persons",160
+"NZL","New Zealand","25-64Y","CARS",1991,"Persons",203
+"NZL","New Zealand","65MORE","CARS",1991,"Persons",42
+"NZL","New Zealand","0-14Y","CARS",1992,"Persons",25
+"NZL","New Zealand","15-24Y","CARS",1992,"Persons",165
+"NZL","New Zealand","25-64Y","CARS",1992,"Persons",179
+"NZL","New Zealand","65MORE","CARS",1992,"Persons",57
+"NZL","New Zealand","0-14Y","CARS",1993,"Persons",19
+"NZL","New Zealand","15-24Y","CARS",1993,"Persons",143
+"NZL","New Zealand","25-64Y","CARS",1993,"Persons",175
+"NZL","New Zealand","65MORE","CARS",1993,"Persons",51
+"NZL","New Zealand","0-14Y","CARS",1994,"Persons",27
+"NZL","New Zealand","15-24Y","CARS",1994,"Persons",124
+"NZL","New Zealand","25-64Y","CARS",1994,"Persons",201
+"NZL","New Zealand","65MORE","CARS",1994,"Persons",47
+"NZL","New Zealand","0-14Y","CARS",1995,"Persons",22
+"NZL","New Zealand","15-24Y","CARS",1995,"Persons",130
+"NZL","New Zealand","25-64Y","CARS",1995,"Persons",181
+"NZL","New Zealand","65MORE","CARS",1995,"Persons",42
+"NZL","New Zealand","0-14Y","CARS",1996,"Persons",26
+"NZL","New Zealand","15-24Y","CARS",1996,"Persons",120
+"NZL","New Zealand","25-64Y","CARS",1996,"Persons",160
+"NZL","New Zealand","65MORE","CARS",1996,"Persons",38
+"NZL","New Zealand","0-14Y","CARS",1997,"Persons",28
+"NZL","New Zealand","15-24Y","CARS",1997,"Persons",115
+"NZL","New Zealand","25-64Y","CARS",1997,"Persons",177
+"NZL","New Zealand","65MORE","CARS",1997,"Persons",66
+"NZL","New Zealand","0-14Y","CARS",1998,"Persons",19
+"NZL","New Zealand","15-24Y","CARS",1998,"Persons",110
+"NZL","New Zealand","25-64Y","CARS",1998,"Persons",158
+"NZL","New Zealand","65MORE","CARS",1998,"Persons",49
+"NZL","New Zealand","0-14Y","CARS",1999,"Persons",21
+"NZL","New Zealand","15-24Y","CARS",1999,"Persons",111
+"NZL","New Zealand","25-64Y","CARS",1999,"Persons",160
+"NZL","New Zealand","65MORE","CARS",1999,"Persons",73
+"NZL","New Zealand","0-14Y","CARS",2000,"Persons",25
+"NZL","New Zealand","15-24Y","CARS",2000,"Persons",90
+"NZL","New Zealand","25-64Y","CARS",2000,"Persons",182
+"NZL","New Zealand","65MORE","CARS",2000,"Persons",60
+"NZL","New Zealand","0-14Y","CARS",2001,"Persons",13
+"NZL","New Zealand","15-24Y","CARS",2001,"Persons",98
+"NZL","New Zealand","25-64Y","CARS",2001,"Persons",161
+"NZL","New Zealand","65MORE","CARS",2001,"Persons",54
+"NZL","New Zealand","0-14Y","CARS",2002,"Persons",12
+"NZL","New Zealand","15-24Y","CARS",2002,"Persons",82
+"NZL","New Zealand","25-64Y","CARS",2002,"Persons",149
+"NZL","New Zealand","65MORE","CARS",2002,"Persons",49
+"NZL","New Zealand","0-14Y","CARS",2003,"Persons",13
+"NZL","New Zealand","15-24Y","CARS",2003,"Persons",117
+"NZL","New Zealand","25-64Y","CARS",2003,"Persons",164
+"NZL","New Zealand","65MORE","CARS",2003,"Persons",49
+"NZL","New Zealand","0-14Y","CARS",2004,"Persons",18
+"NZL","New Zealand","15-24Y","CARS",2004,"Persons",112
+"NZL","New Zealand","25-64Y","CARS",2004,"Persons",142
+"NZL","New Zealand","65MORE","CARS",2004,"Persons",53
+"NZL","New Zealand","0-14Y","CARS",2005,"Persons",21
+"NZL","New Zealand","15-24Y","CARS",2005,"Persons",109
+"NZL","New Zealand","25-64Y","CARS",2005,"Persons",125
+"NZL","New Zealand","65MORE","CARS",2005,"Persons",40
+"NZL","New Zealand","0-14Y","CARS",2006,"Persons",16
+"NZL","New Zealand","15-24Y","CARS",2006,"Persons",83
+"NZL","New Zealand","25-64Y","CARS",2006,"Persons",119
+"NZL","New Zealand","65MORE","CARS",2006,"Persons",59
+"NZL","New Zealand","0-14Y","CARS",2007,"Persons",16
+"NZL","New Zealand","15-24Y","CARS",2007,"Persons",105
+"NZL","New Zealand","25-64Y","CARS",2007,"Persons",143
+"NZL","New Zealand","65MORE","CARS",2007,"Persons",43
+"NZL","New Zealand","0-14Y","CARS",2008,"Persons",16
+"NZL","New Zealand","15-24Y","CARS",2008,"Persons",96
+"NZL","New Zealand","25-64Y","CARS",2008,"Persons",115
+"NZL","New Zealand","65MORE","CARS",2008,"Persons",31
+"NZL","New Zealand","0-14Y","CARS",2009,"Persons",17
+"NZL","New Zealand","15-24Y","CARS",2009,"Persons",91
+"NZL","New Zealand","25-64Y","CARS",2009,"Persons",133
+"NZL","New Zealand","65MORE","CARS",2009,"Persons",46
+"NZL","New Zealand","0-14Y","CARS",2010,"Persons",15
+"NZL","New Zealand","15-24Y","CARS",2010,"Persons",92
+"NZL","New Zealand","25-64Y","CARS",2010,"Persons",103
+"NZL","New Zealand","65MORE","CARS",2010,"Persons",49
+"NZL","New Zealand","0-14Y","CARS",2011,"Persons",9
+"NZL","New Zealand","15-24Y","CARS",2011,"Persons",67
+"NZL","New Zealand","25-64Y","CARS",2011,"Persons",82
+"NZL","New Zealand","65MORE","CARS",2011,"Persons",40
+"NZL","New Zealand","0-14Y","CARS",2012,"Persons",7
+"NZL","New Zealand","15-24Y","CARS",2012,"Persons",50
+"NZL","New Zealand","25-64Y","CARS",2012,"Persons",99
+"NZL","New Zealand","65MORE","CARS",2012,"Persons",47
+"NZL","New Zealand","0-14Y","CARS",2013,"Persons",4
+"NZL","New Zealand","15-24Y","CARS",2013,"Persons",54
+"NZL","New Zealand","25-64Y","CARS",2013,"Persons",70
+"NZL","New Zealand","65MORE","CARS",2013,"Persons",35
+"NZL","New Zealand","0-14Y","CARS",2014,"Persons",10
+"NZL","New Zealand","15-24Y","CARS",2014,"Persons",44
+"NZL","New Zealand","25-64Y","CARS",2014,"Persons",91
+"NZL","New Zealand","65MORE","CARS",2014,"Persons",32
+"NZL","New Zealand","0-14Y","CARS",2015,"Persons",4
+"NZL","New Zealand","15-24Y","CARS",2015,"Persons",65
+"NZL","New Zealand","25-64Y","CARS",2015,"Persons",107
+"NZL","New Zealand","65MORE","CARS",2015,"Persons",43
+"NZL","New Zealand","0-14Y","CARS",2016,"Persons",10
+"NZL","New Zealand","15-24Y","CARS",2016,"Persons",70
+"NZL","New Zealand","25-64Y","CARS",2016,"Persons",113
+"NZL","New Zealand","65MORE","CARS",2016,"Persons",31
+"NZL","New Zealand","0-14Y","CARS",2017,"Persons",7
+"NZL","New Zealand","15-24Y","CARS",2017,"Persons",69
+"NZL","New Zealand","25-64Y","CARS",2017,"Persons",130
+"NZL","New Zealand","65MORE","CARS",2017,"Persons",46
+"NZL","New Zealand","0-14Y","CARS",2018,"Persons",12
+"NZL","New Zealand","15-24Y","CARS",2018,"Persons",70
+"NZL","New Zealand","25-64Y","CARS",2018,"Persons",126
+"NZL","New Zealand","65MORE","CARS",2018,"Persons",59
+"NZL","New Zealand","0-14Y","CARS",2019,"Persons",20
+"NZL","New Zealand","15-24Y","CARS",2019,"Persons",48
+"NZL","New Zealand","25-64Y","CARS",2019,"Persons",128
+"NZL","New Zealand","65MORE","CARS",2019,"Persons",36
+"NZL","New Zealand","0-14Y","CARS",2020,"Persons",7
+"NZL","New Zealand","15-24Y","CARS",2020,"Persons",49
+"NZL","New Zealand","25-64Y","CARS",2020,"Persons",118
+"NZL","New Zealand","65MORE","CARS",2020,"Persons",37
+"POL","Poland","0-14Y","CARS",1990,"Persons",95
+"POL","Poland","15-24Y","CARS",1990,"Persons",471
+"POL","Poland","25-64Y","CARS",1990,"Persons",1561
+"POL","Poland","65MORE","CARS",1990,"Persons",110
+"POL","Poland","0-14Y","CARS",1991,"Persons",122
+"POL","Poland","15-24Y","CARS",1991,"Persons",758
+"POL","Poland","25-64Y","CARS",1991,"Persons",1977
+"POL","Poland","65MORE","CARS",1991,"Persons",108
+"POL","Poland","0-14Y","CARS",1992,"Persons",115
+"POL","Poland","15-24Y","CARS",1992,"Persons",635
+"POL","Poland","25-64Y","CARS",1992,"Persons",1721
+"POL","Poland","65MORE","CARS",1992,"Persons",140
+"POL","Poland","0-14Y","CARS",1993,"Persons",124
+"POL","Poland","15-24Y","CARS",1993,"Persons",608
+"POL","Poland","25-64Y","CARS",1993,"Persons",1581
+"POL","Poland","65MORE","CARS",1993,"Persons",113
+"POL","Poland","0-14Y","CARS",1994,"Persons",99
+"POL","Poland","15-24Y","CARS",1994,"Persons",675
+"POL","Poland","25-64Y","CARS",1994,"Persons",1601
+"POL","Poland","65MORE","CARS",1994,"Persons",130
+"POL","Poland","0-14Y","CARS",1995,"Persons",130
+"POL","Poland","15-24Y","CARS",1995,"Persons",673
+"POL","Poland","25-64Y","CARS",1995,"Persons",1813
+"POL","Poland","65MORE","CARS",1995,"Persons",144
+"POL","Poland","0-14Y","CARS",1996,"Persons",101
+"POL","Poland","15-24Y","CARS",1996,"Persons",707
+"POL","Poland","25-64Y","CARS",1996,"Persons",1652
+"POL","Poland","65MORE","CARS",1996,"Persons",147
+"POL","Poland","0-14Y","CARS",1997,"Persons",127
+"POL","Poland","15-24Y","CARS",1997,"Persons",939
+"POL","Poland","25-64Y","CARS",1997,"Persons",1870
+"POL","Poland","65MORE","CARS",1997,"Persons",167
+"POL","Poland","0-14Y","CARS",1998,"Persons",116
+"POL","Poland","15-24Y","CARS",1998,"Persons",911
+"POL","Poland","25-64Y","CARS",1998,"Persons",1881
+"POL","Poland","65MORE","CARS",1998,"Persons",178
+"POL","Poland","0-14Y","CARS",1999,"Persons",89
+"POL","Poland","15-24Y","CARS",1999,"Persons",851
+"POL","Poland","25-64Y","CARS",1999,"Persons",1721
+"POL","Poland","65MORE","CARS",1999,"Persons",201
+"POL","Poland","0-14Y","CARS",2000,"Persons",74
+"POL","Poland","15-24Y","CARS",2000,"Persons",776
+"POL","Poland","25-64Y","CARS",2000,"Persons",1673
+"POL","Poland","65MORE","CARS",2000,"Persons",186
+"POL","Poland","0-14Y","CARS",2001,"Persons",75
+"POL","Poland","15-24Y","CARS",2001,"Persons",698
+"POL","Poland","25-64Y","CARS",2001,"Persons",1486
+"POL","Poland","65MORE","CARS",2001,"Persons",179
+"POL","Poland","0-14Y","CARS",2002,"Persons",78
+"POL","Poland","15-24Y","CARS",2002,"Persons",772
+"POL","Poland","25-64Y","CARS",2002,"Persons",1514
+"POL","Poland","65MORE","CARS",2002,"Persons",184
+"POL","Poland","0-14Y","CARS",2003,"Persons",80
+"POL","Poland","15-24Y","CARS",2003,"Persons",672
+"POL","Poland","25-64Y","CARS",2003,"Persons",1552
+"POL","Poland","65MORE","CARS",2003,"Persons",207
+"POL","Poland","0-14Y","CARS",2004,"Persons",67
+"POL","Poland","15-24Y","CARS",2004,"Persons",640
+"POL","Poland","25-64Y","CARS",2004,"Persons",1523
+"POL","Poland","65MORE","CARS",2004,"Persons",187
+"POL","Poland","0-14Y","CARS",2005,"Persons",56
+"POL","Poland","15-24Y","CARS",2005,"Persons",737
+"POL","Poland","25-64Y","CARS",2005,"Persons",1498
+"POL","Poland","65MORE","CARS",2005,"Persons",190
+"POL","Poland","0-14Y","CARS",2006,"Persons",62
+"POL","Poland","15-24Y","CARS",2006,"Persons",701
+"POL","Poland","25-64Y","CARS",2006,"Persons",1419
+"POL","Poland","65MORE","CARS",2006,"Persons",177
+"POL","Poland","0-14Y","CARS",2007,"Persons",70
+"POL","Poland","15-24Y","CARS",2007,"Persons",777
+"POL","Poland","25-64Y","CARS",2007,"Persons",1542
+"POL","Poland","65MORE","CARS",2007,"Persons",164
+"POL","Poland","0-14Y","CARS",2008,"Persons",70
+"POL","Poland","15-24Y","CARS",2008,"Persons",778
+"POL","Poland","25-64Y","CARS",2008,"Persons",1474
+"POL","Poland","65MORE","CARS",2008,"Persons",205
+"POL","Poland","0-14Y","CARS",2009,"Persons",57
+"POL","Poland","15-24Y","CARS",2009,"Persons",648
+"POL","Poland","25-64Y","CARS",2009,"Persons",1306
+"POL","Poland","65MORE","CARS",2009,"Persons",165
+"POL","Poland","0-14Y","CARS",2010,"Persons",53
+"POL","Poland","15-24Y","CARS",2010,"Persons",519
+"POL","Poland","25-64Y","CARS",2010,"Persons",1121
+"POL","Poland","65MORE","CARS",2010,"Persons",157
+"POL","Poland","0-14Y","CARS",2011,"Persons",44
+"POL","Poland","15-24Y","CARS",2011,"Persons",551
+"POL","Poland","25-64Y","CARS",2011,"Persons",1127
+"POL","Poland","65MORE","CARS",2011,"Persons",171
+"POL","Poland","0-14Y","CARS",2012,"Persons",43
+"POL","Poland","15-24Y","CARS",2012,"Persons",442
+"POL","Poland","25-64Y","CARS",2012,"Persons",977
+"POL","Poland","65MORE","CARS",2012,"Persons",153
+"POL","Poland","0-14Y","CARS",2013,"Persons",33
+"POL","Poland","15-24Y","CARS",2013,"Persons",391
+"POL","Poland","25-64Y","CARS",2013,"Persons",849
+"POL","Poland","65MORE","CARS",2013,"Persons",174
+"POL","Poland","0-14Y","CARS",2014,"Persons",35
+"POL","Poland","15-24Y","CARS",2014,"Persons",363
+"POL","Poland","25-64Y","CARS",2014,"Persons",783
+"POL","Poland","65MORE","CARS",2014,"Persons",165
+"POL","Poland","0-14Y","CARS",2015,"Persons",37
+"POL","Poland","15-24Y","CARS",2015,"Persons",325
+"POL","Poland","25-64Y","CARS",2015,"Persons",805
+"POL","Poland","65MORE","CARS",2015,"Persons",164
+"POL","Poland","0-14Y","CARS",2016,"Persons",34
+"POL","Poland","15-24Y","CARS",2016,"Persons",346
+"POL","Poland","25-64Y","CARS",2016,"Persons",834
+"POL","Poland","65MORE","CARS",2016,"Persons",203
+"POL","Poland","0-14Y","CARS",2017,"Persons",25
+"POL","Poland","15-24Y","CARS",2017,"Persons",305
+"POL","Poland","25-64Y","CARS",2017,"Persons",762
+"POL","Poland","65MORE","CARS",2017,"Persons",203
+"POL","Poland","0-14Y","CARS",2018,"Persons",26
+"POL","Poland","15-24Y","CARS",2018,"Persons",303
+"POL","Poland","25-64Y","CARS",2018,"Persons",746
+"POL","Poland","65MORE","CARS",2018,"Persons",211
+"POL","Poland","0-14Y","CARS",2019,"Persons",34
+"POL","Poland","15-24Y","CARS",2019,"Persons",300
+"POL","Poland","25-64Y","CARS",2019,"Persons",781
+"POL","Poland","65MORE","CARS",2019,"Persons",215
+"POL","Poland","0-14Y","CARS",2020,"Persons",18
+"POL","Poland","15-24Y","CARS",2020,"Persons",315
+"POL","Poland","25-64Y","CARS",2020,"Persons",650
+"POL","Poland","65MORE","CARS",2020,"Persons",177
+"PRT","Portugal","0-14Y","CARS",1990,"Persons",44
+"PRT","Portugal","15-24Y","CARS",1990,"Persons",234
+"PRT","Portugal","25-64Y","CARS",1990,"Persons",533
+"PRT","Portugal","65MORE","CARS",1990,"Persons",76
+"PRT","Portugal","0-14Y","CARS",1991,"Persons",42
+"PRT","Portugal","15-24Y","CARS",1991,"Persons",296
+"PRT","Portugal","25-64Y","CARS",1991,"Persons",672
+"PRT","Portugal","65MORE","CARS",1991,"Persons",89
+"PRT","Portugal","0-14Y","CARS",1992,"Persons",47
+"PRT","Portugal","15-24Y","CARS",1992,"Persons",278
+"PRT","Portugal","25-64Y","CARS",1992,"Persons",638
+"PRT","Portugal","65MORE","CARS",1992,"Persons",123
+"PRT","Portugal","0-14Y","CARS",1993,"Persons",39
+"PRT","Portugal","15-24Y","CARS",1993,"Persons",222
+"PRT","Portugal","25-64Y","CARS",1993,"Persons",546
+"PRT","Portugal","65MORE","CARS",1993,"Persons",111
+"PRT","Portugal","0-14Y","CARS",1994,"Persons",42
+"PRT","Portugal","15-24Y","CARS",1994,"Persons",223
+"PRT","Portugal","25-64Y","CARS",1994,"Persons",462
+"PRT","Portugal","65MORE","CARS",1994,"Persons",88
+"PRT","Portugal","0-14Y","CARS",1995,"Persons",47
+"PRT","Portugal","15-24Y","CARS",1995,"Persons",247
+"PRT","Portugal","25-64Y","CARS",1995,"Persons",542
+"PRT","Portugal","65MORE","CARS",1995,"Persons",79
+"PRT","Portugal","0-14Y","CARS",1996,"Persons",44
+"PRT","Portugal","15-24Y","CARS",1996,"Persons",253
+"PRT","Portugal","25-64Y","CARS",1996,"Persons",600
+"PRT","Portugal","65MORE","CARS",1996,"Persons",96
+"PRT","Portugal","0-14Y","CARS",1997,"Persons",43
+"PRT","Portugal","15-24Y","CARS",1997,"Persons",242
+"PRT","Portugal","25-64Y","CARS",1997,"Persons",578
+"PRT","Portugal","65MORE","CARS",1997,"Persons",98
+"PRT","Portugal","0-14Y","CARS",1998,"Persons",57
+"PRT","Portugal","15-24Y","CARS",1998,"Persons",271
+"PRT","Portugal","25-64Y","CARS",1998,"Persons",573
+"PRT","Portugal","65MORE","CARS",1998,"Persons",103
+"PRT","Portugal","0-14Y","CARS",1999,"Persons",37
+"PRT","Portugal","15-24Y","CARS",1999,"Persons",246
+"PRT","Portugal","25-64Y","CARS",1999,"Persons",525
+"PRT","Portugal","65MORE","CARS",1999,"Persons",95
+"PRT","Portugal","0-14Y","CARS",2000,"Persons",34
+"PRT","Portugal","15-24Y","CARS",2000,"Persons",218
+"PRT","Portugal","25-64Y","CARS",2000,"Persons",465
+"PRT","Portugal","65MORE","CARS",2000,"Persons",88
+"PRT","Portugal","0-14Y","CARS",2001,"Persons",28
+"PRT","Portugal","15-24Y","CARS",2001,"Persons",218
+"PRT","Portugal","25-64Y","CARS",2001,"Persons",375
+"PRT","Portugal","65MORE","CARS",2001,"Persons",74
+"PRT","Portugal","0-14Y","CARS",2002,"Persons",30
+"PRT","Portugal","15-24Y","CARS",2002,"Persons",200
+"PRT","Portugal","25-64Y","CARS",2002,"Persons",450
+"PRT","Portugal","65MORE","CARS",2002,"Persons",96
+"PRT","Portugal","0-14Y","CARS",2003,"Persons",28
+"PRT","Portugal","15-24Y","CARS",2003,"Persons",163
+"PRT","Portugal","25-64Y","CARS",2003,"Persons",407
+"PRT","Portugal","65MORE","CARS",2003,"Persons",89
+"PRT","Portugal","0-14Y","CARS",2004,"Persons",18
+"PRT","Portugal","15-24Y","CARS",2004,"Persons",137
+"PRT","Portugal","25-64Y","CARS",2004,"Persons",352
+"PRT","Portugal","65MORE","CARS",2004,"Persons",79
+"PRT","Portugal","0-14Y","CARS",2005,"Persons",14
+"PRT","Portugal","15-24Y","CARS",2005,"Persons",155
+"PRT","Portugal","25-64Y","CARS",2005,"Persons",312
+"PRT","Portugal","65MORE","CARS",2005,"Persons",60
+"PRT","Portugal","0-14Y","CARS",2006,"Persons",9
+"PRT","Portugal","15-24Y","CARS",2006,"Persons",72
+"PRT","Portugal","25-64Y","CARS",2006,"Persons",251
+"PRT","Portugal","65MORE","CARS",2006,"Persons",72
+"PRT","Portugal","0-14Y","CARS",2007,"Persons",11
+"PRT","Portugal","15-24Y","CARS",2007,"Persons",110
+"PRT","Portugal","25-64Y","CARS",2007,"Persons",257
+"PRT","Portugal","65MORE","CARS",2007,"Persons",81
+"PRT","Portugal","0-14Y","CARS",2008,"Persons",14
+"PRT","Portugal","15-24Y","CARS",2008,"Persons",74
+"PRT","Portugal","25-64Y","CARS",2008,"Persons",239
+"PRT","Portugal","65MORE","CARS",2008,"Persons",68
+"PRT","Portugal","0-14Y","CARS",2009,"Persons",13
+"PRT","Portugal","15-24Y","CARS",2009,"Persons",84
+"PRT","Portugal","25-64Y","CARS",2009,"Persons",205
+"PRT","Portugal","65MORE","CARS",2009,"Persons",77
+"PRT","Portugal","0-14Y","CARS",2010,"Persons",10
+"PRT","Portugal","15-24Y","CARS",2010,"Persons",56
+"PRT","Portugal","25-64Y","CARS",2010,"Persons",224
+"PRT","Portugal","65MORE","CARS",2010,"Persons",77
+"PRT","Portugal","0-14Y","CARS",2011,"Persons",5
+"PRT","Portugal","15-24Y","CARS",2011,"Persons",71
+"PRT","Portugal","25-64Y","CARS",2011,"Persons",178
+"PRT","Portugal","65MORE","CARS",2011,"Persons",77
+"PRT","Portugal","0-14Y","CARS",2012,"Persons",7
+"PRT","Portugal","15-24Y","CARS",2012,"Persons",43
+"PRT","Portugal","25-64Y","CARS",2012,"Persons",142
+"PRT","Portugal","65MORE","CARS",2012,"Persons",61
+"PRT","Portugal","0-14Y","CARS",2013,"Persons",2
+"PRT","Portugal","15-24Y","CARS",2013,"Persons",30
+"PRT","Portugal","25-64Y","CARS",2013,"Persons",126
+"PRT","Portugal","65MORE","CARS",2013,"Persons",56
+"PRT","Portugal","0-14Y","CARS",2014,"Persons",3
+"PRT","Portugal","15-24Y","CARS",2014,"Persons",36
+"PRT","Portugal","25-64Y","CARS",2014,"Persons",126
+"PRT","Portugal","65MORE","CARS",2014,"Persons",57
+"PRT","Portugal","0-14Y","CARS",2015,"Persons",4
+"PRT","Portugal","15-24Y","CARS",2015,"Persons",38
+"PRT","Portugal","25-64Y","CARS",2015,"Persons",117
+"PRT","Portugal","65MORE","CARS",2015,"Persons",55
+"PRT","Portugal","0-14Y","CARS",2016,"Persons",3
+"PRT","Portugal","15-24Y","CARS",2016,"Persons",36
+"PRT","Portugal","25-64Y","CARS",2016,"Persons",114
+"PRT","Portugal","65MORE","CARS",2016,"Persons",72
+"PRT","Portugal","0-14Y","CARS",2017,"Persons",2
+"PRT","Portugal","15-24Y","CARS",2017,"Persons",19
+"PRT","Portugal","25-64Y","CARS",2017,"Persons",121
+"PRT","Portugal","65MORE","CARS",2017,"Persons",62
+"PRT","Portugal","0-14Y","CARS",2018,"Persons",5
+"PRT","Portugal","15-24Y","CARS",2018,"Persons",28
+"PRT","Portugal","25-64Y","CARS",2018,"Persons",122
+"PRT","Portugal","65MORE","CARS",2018,"Persons",76
+"PRT","Portugal","0-14Y","CARS",2019,"Persons",9
+"PRT","Portugal","15-24Y","CARS",2019,"Persons",37
+"PRT","Portugal","25-64Y","CARS",2019,"Persons",109
+"PRT","Portugal","65MORE","CARS",2019,"Persons",81
+"PRT","Portugal","0-14Y","CARS",2020,"Persons",8
+"PRT","Portugal","15-24Y","CARS",2020,"Persons",24
+"PRT","Portugal","25-64Y","CARS",2020,"Persons",108
+"PRT","Portugal","65MORE","CARS",2020,"Persons",56
+"SRB","Serbia","0-14Y","CARS",1997,"Persons",12
+"SRB","Serbia","15-24Y","CARS",1997,"Persons",153
+"SRB","Serbia","25-64Y","CARS",1997,"Persons",427
+"SRB","Serbia","65MORE","CARS",1997,"Persons",29
+"SRB","Serbia","0-14Y","CARS",1998,"Persons",21
+"SRB","Serbia","15-24Y","CARS",1998,"Persons",154
+"SRB","Serbia","25-64Y","CARS",1998,"Persons",446
+"SRB","Serbia","65MORE","CARS",1998,"Persons",38
+"SRB","Serbia","0-14Y","CARS",1999,"Persons",16
+"SRB","Serbia","15-24Y","CARS",1999,"Persons",112
+"SRB","Serbia","25-64Y","CARS",1999,"Persons",324
+"SRB","Serbia","65MORE","CARS",1999,"Persons",54
+"SRB","Serbia","0-14Y","CARS",2000,"Persons",16
+"SRB","Serbia","15-24Y","CARS",2000,"Persons",98
+"SRB","Serbia","25-64Y","CARS",2000,"Persons",281
+"SRB","Serbia","65MORE","CARS",2000,"Persons",29
+"SRB","Serbia","0-14Y","CARS",2001,"Persons",14
+"SRB","Serbia","15-24Y","CARS",2001,"Persons",117
+"SRB","Serbia","25-64Y","CARS",2001,"Persons",398
+"SRB","Serbia","65MORE","CARS",2001,"Persons",54
+"SRB","Serbia","0-14Y","CARS",2002,"Persons",14
+"SRB","Serbia","15-24Y","CARS",2002,"Persons",88
+"SRB","Serbia","25-64Y","CARS",2002,"Persons",228
+"SRB","Serbia","65MORE","CARS",2002,"Persons",25
+"SRB","Serbia","0-14Y","CARS",2003,"Persons",8
+"SRB","Serbia","15-24Y","CARS",2003,"Persons",69
+"SRB","Serbia","25-64Y","CARS",2003,"Persons",244
+"SRB","Serbia","65MORE","CARS",2003,"Persons",29
+"SRB","Serbia","0-14Y","CARS",2004,"Persons",9
+"SRB","Serbia","15-24Y","CARS",2004,"Persons",76
+"SRB","Serbia","25-64Y","CARS",2004,"Persons",253
+"SRB","Serbia","65MORE","CARS",2004,"Persons",47
+"SRB","Serbia","0-14Y","CARS",2005,"Persons",15
+"SRB","Serbia","15-24Y","CARS",2005,"Persons",93
+"SRB","Serbia","25-64Y","CARS",2005,"Persons",216
+"SRB","Serbia","65MORE","CARS",2005,"Persons",33
+"SRB","Serbia","0-14Y","CARS",2006,"Persons",17
+"SRB","Serbia","15-24Y","CARS",2006,"Persons",91
+"SRB","Serbia","25-64Y","CARS",2006,"Persons",281
+"SRB","Serbia","65MORE","CARS",2006,"Persons",38
+"SRB","Serbia","0-14Y","CARS",2007,"Persons",11
+"SRB","Serbia","15-24Y","CARS",2007,"Persons",98
+"SRB","Serbia","25-64Y","CARS",2007,"Persons",281
+"SRB","Serbia","65MORE","CARS",2007,"Persons",38
+"SRB","Serbia","0-14Y","CARS",2008,"Persons",11
+"SRB","Serbia","15-24Y","CARS",2008,"Persons",98
+"SRB","Serbia","25-64Y","CARS",2008,"Persons",250
+"SRB","Serbia","65MORE","CARS",2008,"Persons",41
+"SRB","Serbia","0-14Y","CARS",2009,"Persons",9
+"SRB","Serbia","15-24Y","CARS",2009,"Persons",65
+"SRB","Serbia","25-64Y","CARS",2009,"Persons",262
+"SRB","Serbia","65MORE","CARS",2009,"Persons",42
+"SRB","Serbia","0-14Y","CARS",2010,"Persons",9
+"SRB","Serbia","15-24Y","CARS",2010,"Persons",58
+"SRB","Serbia","25-64Y","CARS",2010,"Persons",187
+"SRB","Serbia","65MORE","CARS",2010,"Persons",25
+"SRB","Serbia","0-14Y","CARS",2011,"Persons",7
+"SRB","Serbia","15-24Y","CARS",2011,"Persons",72
+"SRB","Serbia","25-64Y","CARS",2011,"Persons",198
+"SRB","Serbia","65MORE","CARS",2011,"Persons",37
+"SRB","Serbia","0-14Y","CARS",2012,"Persons",10
+"SRB","Serbia","15-24Y","CARS",2012,"Persons",58
+"SRB","Serbia","25-64Y","CARS",2012,"Persons",191
+"SRB","Serbia","65MORE","CARS",2012,"Persons",40
+"SRB","Serbia","0-14Y","CARS",2013,"Persons",4
+"SRB","Serbia","15-24Y","CARS",2013,"Persons",59
+"SRB","Serbia","25-64Y","CARS",2013,"Persons",195
+"SRB","Serbia","65MORE","CARS",2013,"Persons",42
+"SRB","Serbia","0-14Y","CARS",2014,"Persons",4
+"SRB","Serbia","15-24Y","CARS",2014,"Persons",56
+"SRB","Serbia","25-64Y","CARS",2014,"Persons",151
+"SRB","Serbia","65MORE","CARS",2014,"Persons",33
+"SRB","Serbia","0-14Y","CARS",2015,"Persons",10
+"SRB","Serbia","15-24Y","CARS",2015,"Persons",48
+"SRB","Serbia","25-64Y","CARS",2015,"Persons",169
+"SRB","Serbia","65MORE","CARS",2015,"Persons",42
+"SRB","Serbia","0-14Y","CARS",2016,"Persons",6
+"SRB","Serbia","15-24Y","CARS",2016,"Persons",45
+"SRB","Serbia","25-64Y","CARS",2016,"Persons",195
+"SRB","Serbia","65MORE","CARS",2016,"Persons",35
+"SRB","Serbia","0-14Y","CARS",2017,"Persons",9
+"SRB","Serbia","15-24Y","CARS",2017,"Persons",29
+"SRB","Serbia","25-64Y","CARS",2017,"Persons",189
+"SRB","Serbia","65MORE","CARS",2017,"Persons",44
+"SRB","Serbia","0-14Y","CARS",2018,"Persons",5
+"SRB","Serbia","15-24Y","CARS",2018,"Persons",44
+"SRB","Serbia","25-64Y","CARS",2018,"Persons",152
+"SRB","Serbia","65MORE","CARS",2018,"Persons",40
+"SRB","Serbia","0-14Y","CARS",2019,"Persons",7
+"SRB","Serbia","15-24Y","CARS",2019,"Persons",36
+"SRB","Serbia","25-64Y","CARS",2019,"Persons",156
+"SRB","Serbia","65MORE","CARS",2019,"Persons",50
+"SRB","Serbia","0-14Y","CARS",2020,"Persons",6
+"SRB","Serbia","15-24Y","CARS",2020,"Persons",41
+"SRB","Serbia","25-64Y","CARS",2020,"Persons",139
+"SRB","Serbia","65MORE","CARS",2020,"Persons",35
+"SVN","Slovenia","0-14Y","CARS",1994,"Persons",14
+"SVN","Slovenia","15-24Y","CARS",1994,"Persons",103
+"SVN","Slovenia","25-64Y","CARS",1994,"Persons",157
+"SVN","Slovenia","65MORE","CARS",1994,"Persons",29
+"SVN","Slovenia","0-14Y","CARS",1995,"Persons",9
+"SVN","Slovenia","15-24Y","CARS",1995,"Persons",64
+"SVN","Slovenia","25-64Y","CARS",1995,"Persons",157
+"SVN","Slovenia","65MORE","CARS",1995,"Persons",21
+"SVN","Slovenia","0-14Y","CARS",1996,"Persons",7
+"SVN","Slovenia","15-24Y","CARS",1996,"Persons",85
+"SVN","Slovenia","25-64Y","CARS",1996,"Persons",143
+"SVN","Slovenia","65MORE","CARS",1996,"Persons",23
+"SVN","Slovenia","0-14Y","CARS",1997,"Persons",5
+"SVN","Slovenia","15-24Y","CARS",1997,"Persons",51
+"SVN","Slovenia","25-64Y","CARS",1997,"Persons",146
+"SVN","Slovenia","65MORE","CARS",1997,"Persons",19
+"SVN","Slovenia","0-14Y","CARS",1998,"Persons",8
+"SVN","Slovenia","15-24Y","CARS",1998,"Persons",47
+"SVN","Slovenia","25-64Y","CARS",1998,"Persons",115
+"SVN","Slovenia","65MORE","CARS",1998,"Persons",23
+"SVN","Slovenia","0-14Y","CARS",1999,"Persons",10
+"SVN","Slovenia","15-24Y","CARS",1999,"Persons",58
+"SVN","Slovenia","25-64Y","CARS",1999,"Persons",100
+"SVN","Slovenia","65MORE","CARS",1999,"Persons",18
+"SVN","Slovenia","0-14Y","CARS",2000,"Persons",3
+"SVN","Slovenia","15-24Y","CARS",2000,"Persons",45
+"SVN","Slovenia","25-64Y","CARS",2000,"Persons",106
+"SVN","Slovenia","65MORE","CARS",2000,"Persons",25
+"SVN","Slovenia","0-14Y","CARS",2001,"Persons",1
+"SVN","Slovenia","15-24Y","CARS",2001,"Persons",49
+"SVN","Slovenia","25-64Y","CARS",2001,"Persons",86
+"SVN","Slovenia","65MORE","CARS",2001,"Persons",17
+"SVN","Slovenia","0-14Y","CARS",2002,"Persons",1
+"SVN","Slovenia","15-24Y","CARS",2002,"Persons",50
+"SVN","Slovenia","25-64Y","CARS",2002,"Persons",104
+"SVN","Slovenia","65MORE","CARS",2002,"Persons",20
+"SVN","Slovenia","0-14Y","CARS",2003,"Persons",1
+"SVN","Slovenia","15-24Y","CARS",2003,"Persons",45
+"SVN","Slovenia","25-64Y","CARS",2003,"Persons",76
+"SVN","Slovenia","65MORE","CARS",2003,"Persons",24
+"SVN","Slovenia","0-14Y","CARS",2004,"Persons",5
+"SVN","Slovenia","15-24Y","CARS",2004,"Persons",49
+"SVN","Slovenia","25-64Y","CARS",2004,"Persons",104
+"SVN","Slovenia","65MORE","CARS",2004,"Persons",13
+"SVN","Slovenia","0-14Y","CARS",2005,"Persons",7
+"SVN","Slovenia","15-24Y","CARS",2005,"Persons",34
+"SVN","Slovenia","25-64Y","CARS",2005,"Persons",93
+"SVN","Slovenia","65MORE","CARS",2005,"Persons",17
+"SVN","Slovenia","0-14Y","CARS",2006,"Persons",5
+"SVN","Slovenia","15-24Y","CARS",2006,"Persons",51
+"SVN","Slovenia","25-64Y","CARS",2006,"Persons",83
+"SVN","Slovenia","65MORE","CARS",2006,"Persons",12
+"SVN","Slovenia","0-14Y","CARS",2007,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2007,"Persons",52
+"SVN","Slovenia","25-64Y","CARS",2007,"Persons",101
+"SVN","Slovenia","65MORE","CARS",2007,"Persons",26
+"SVN","Slovenia","0-14Y","CARS",2008,"Persons",0
+"SVN","Slovenia","15-24Y","CARS",2008,"Persons",32
+"SVN","Slovenia","25-64Y","CARS",2008,"Persons",65
+"SVN","Slovenia","65MORE","CARS",2008,"Persons",9
+"SVN","Slovenia","0-14Y","CARS",2009,"Persons",1
+"SVN","Slovenia","15-24Y","CARS",2009,"Persons",28
+"SVN","Slovenia","25-64Y","CARS",2009,"Persons",39
+"SVN","Slovenia","65MORE","CARS",2009,"Persons",18
+"SVN","Slovenia","0-14Y","CARS",2010,"Persons",1
+"SVN","Slovenia","15-24Y","CARS",2010,"Persons",16
+"SVN","Slovenia","25-64Y","CARS",2010,"Persons",37
+"SVN","Slovenia","65MORE","CARS",2010,"Persons",14
+"SVN","Slovenia","0-14Y","CARS",2011,"Persons",4
+"SVN","Slovenia","15-24Y","CARS",2011,"Persons",13
+"SVN","Slovenia","25-64Y","CARS",2011,"Persons",41
+"SVN","Slovenia","65MORE","CARS",2011,"Persons",11
+"SVN","Slovenia","0-14Y","CARS",2012,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2012,"Persons",14
+"SVN","Slovenia","25-64Y","CARS",2012,"Persons",40
+"SVN","Slovenia","65MORE","CARS",2012,"Persons",13
+"SVN","Slovenia","0-14Y","CARS",2013,"Persons",0
+"SVN","Slovenia","15-24Y","CARS",2013,"Persons",14
+"SVN","Slovenia","25-64Y","CARS",2013,"Persons",33
+"SVN","Slovenia","65MORE","CARS",2013,"Persons",10
+"SVN","Slovenia","0-14Y","CARS",2014,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2014,"Persons",7
+"SVN","Slovenia","25-64Y","CARS",2014,"Persons",36
+"SVN","Slovenia","65MORE","CARS",2014,"Persons",14
+"SVN","Slovenia","0-14Y","CARS",2015,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2015,"Persons",15
+"SVN","Slovenia","25-64Y","CARS",2015,"Persons",29
+"SVN","Slovenia","65MORE","CARS",2015,"Persons",9
+"SVN","Slovenia","0-14Y","CARS",2016,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2016,"Persons",14
+"SVN","Slovenia","25-64Y","CARS",2016,"Persons",38
+"SVN","Slovenia","65MORE","CARS",2016,"Persons",7
+"SVN","Slovenia","0-14Y","CARS",2017,"Persons",2
+"SVN","Slovenia","15-24Y","CARS",2017,"Persons",8
+"SVN","Slovenia","25-64Y","CARS",2017,"Persons",30
+"SVN","Slovenia","65MORE","CARS",2017,"Persons",8
+"SVN","Slovenia","0-14Y","CARS",2018,"Persons",0
+"SVN","Slovenia","15-24Y","CARS",2018,"Persons",10
+"SVN","Slovenia","25-64Y","CARS",2018,"Persons",27
+"SVN","Slovenia","65MORE","CARS",2018,"Persons",7
+"SVN","Slovenia","0-14Y","CARS",2019,"Persons",0
+"SVN","Slovenia","15-24Y","CARS",2019,"Persons",8
+"SVN","Slovenia","25-64Y","CARS",2019,"Persons",29
+"SVN","Slovenia","65MORE","CARS",2019,"Persons",10
+"SVN","Slovenia","0-14Y","CARS",2020,"Persons",3
+"SVN","Slovenia","15-24Y","CARS",2020,"Persons",8
+"SVN","Slovenia","25-64Y","CARS",2020,"Persons",20
+"SVN","Slovenia","65MORE","CARS",2020,"Persons",7
+"SWE","Sweden","0-14Y","CARS",1990,"Persons",17
+"SWE","Sweden","15-24Y","CARS",1990,"Persons",132
+"SWE","Sweden","25-64Y","CARS",1990,"Persons",235
+"SWE","Sweden","65MORE","CARS",1990,"Persons",84
+"SWE","Sweden","0-14Y","CARS",1991,"Persons",18
+"SWE","Sweden","15-24Y","CARS",1991,"Persons",113
+"SWE","Sweden","25-64Y","CARS",1991,"Persons",231
+"SWE","Sweden","65MORE","CARS",1991,"Persons",97
+"SWE","Sweden","0-14Y","CARS",1992,"Persons",15
+"SWE","Sweden","15-24Y","CARS",1992,"Persons",115
+"SWE","Sweden","25-64Y","CARS",1992,"Persons",251
+"SWE","Sweden","65MORE","CARS",1992,"Persons",85
+"SWE","Sweden","0-14Y","CARS",1993,"Persons",15
+"SWE","Sweden","15-24Y","CARS",1993,"Persons",70
+"SWE","Sweden","25-64Y","CARS",1993,"Persons",214
+"SWE","Sweden","65MORE","CARS",1993,"Persons",90
+"SWE","Sweden","0-14Y","CARS",1994,"Persons",15
+"SWE","Sweden","15-24Y","CARS",1994,"Persons",67
+"SWE","Sweden","25-64Y","CARS",1994,"Persons",191
+"SWE","Sweden","65MORE","CARS",1994,"Persons",118
+"SWE","Sweden","0-14Y","CARS",1995,"Persons",18
+"SWE","Sweden","15-24Y","CARS",1995,"Persons",66
+"SWE","Sweden","25-64Y","CARS",1995,"Persons",180
+"SWE","Sweden","65MORE","CARS",1995,"Persons",105
+"SWE","Sweden","0-14Y","CARS",1996,"Persons",10
+"SWE","Sweden","15-24Y","CARS",1996,"Persons",60
+"SWE","Sweden","25-64Y","CARS",1996,"Persons",153
+"SWE","Sweden","65MORE","CARS",1996,"Persons",108
+"SWE","Sweden","0-14Y","CARS",1997,"Persons",9
+"SWE","Sweden","15-24Y","CARS",1997,"Persons",52
+"SWE","Sweden","25-64Y","CARS",1997,"Persons",179
+"SWE","Sweden","65MORE","CARS",1997,"Persons",108
+"SWE","Sweden","0-14Y","CARS",1998,"Persons",7
+"SWE","Sweden","15-24Y","CARS",1998,"Persons",61
+"SWE","Sweden","25-64Y","CARS",1998,"Persons",169
+"SWE","Sweden","65MORE","CARS",1998,"Persons",90
+"SWE","Sweden","0-14Y","CARS",1999,"Persons",27
+"SWE","Sweden","15-24Y","CARS",1999,"Persons",63
+"SWE","Sweden","25-64Y","CARS",1999,"Persons",183
+"SWE","Sweden","65MORE","CARS",1999,"Persons",99
+"SWE","Sweden","0-14Y","CARS",2000,"Persons",9
+"SWE","Sweden","15-24Y","CARS",2000,"Persons",88
+"SWE","Sweden","25-64Y","CARS",2000,"Persons",206
+"SWE","Sweden","65MORE","CARS",2000,"Persons",90
+"SWE","Sweden","0-14Y","CARS",2001,"Persons",8
+"SWE","Sweden","15-24Y","CARS",2001,"Persons",89
+"SWE","Sweden","25-64Y","CARS",2001,"Persons",183
+"SWE","Sweden","65MORE","CARS",2001,"Persons",66
+"SWE","Sweden","0-14Y","CARS",2002,"Persons",9
+"SWE","Sweden","15-24Y","CARS",2002,"Persons",87
+"SWE","Sweden","25-64Y","CARS",2002,"Persons",193
+"SWE","Sweden","65MORE","CARS",2002,"Persons",68
+"SWE","Sweden","0-14Y","CARS",2003,"Persons",11
+"SWE","Sweden","15-24Y","CARS",2003,"Persons",83
+"SWE","Sweden","25-64Y","CARS",2003,"Persons",175
+"SWE","Sweden","65MORE","CARS",2003,"Persons",74
+"SWE","Sweden","0-14Y","CARS",2004,"Persons",9
+"SWE","Sweden","15-24Y","CARS",2004,"Persons",63
+"SWE","Sweden","25-64Y","CARS",2004,"Persons",136
+"SWE","Sweden","65MORE","CARS",2004,"Persons",76
+"SWE","Sweden","0-14Y","CARS",2005,"Persons",5
+"SWE","Sweden","15-24Y","CARS",2005,"Persons",57
+"SWE","Sweden","25-64Y","CARS",2005,"Persons",147
+"SWE","Sweden","65MORE","CARS",2005,"Persons",59
+"SWE","Sweden","0-14Y","CARS",2006,"Persons",7
+"SWE","Sweden","15-24Y","CARS",2006,"Persons",71
+"SWE","Sweden","25-64Y","CARS",2006,"Persons",137
+"SWE","Sweden","65MORE","CARS",2006,"Persons",46
+"SWE","Sweden","0-14Y","CARS",2007,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2007,"Persons",68
+"SWE","Sweden","25-64Y","CARS",2007,"Persons",145
+"SWE","Sweden","65MORE","CARS",2007,"Persons",61
+"SWE","Sweden","0-14Y","CARS",2008,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2008,"Persons",61
+"SWE","Sweden","25-64Y","CARS",2008,"Persons",110
+"SWE","Sweden","65MORE","CARS",2008,"Persons",60
+"SWE","Sweden","0-14Y","CARS",2009,"Persons",3
+"SWE","Sweden","15-24Y","CARS",2009,"Persons",65
+"SWE","Sweden","25-64Y","CARS",2009,"Persons",94
+"SWE","Sweden","65MORE","CARS",2009,"Persons",57
+"SWE","Sweden","0-14Y","CARS",2010,"Persons",7
+"SWE","Sweden","15-24Y","CARS",2010,"Persons",38
+"SWE","Sweden","25-64Y","CARS",2010,"Persons",77
+"SWE","Sweden","65MORE","CARS",2010,"Persons",29
+"SWE","Sweden","0-14Y","CARS",2011,"Persons",3
+"SWE","Sweden","15-24Y","CARS",2011,"Persons",40
+"SWE","Sweden","25-64Y","CARS",2011,"Persons",71
+"SWE","Sweden","65MORE","CARS",2011,"Persons",45
+"SWE","Sweden","0-14Y","CARS",2012,"Persons",4
+"SWE","Sweden","15-24Y","CARS",2012,"Persons",28
+"SWE","Sweden","25-64Y","CARS",2012,"Persons",84
+"SWE","Sweden","65MORE","CARS",2012,"Persons",26
+"SWE","Sweden","0-14Y","CARS",2013,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2013,"Persons",30
+"SWE","Sweden","25-64Y","CARS",2013,"Persons",69
+"SWE","Sweden","65MORE","CARS",2013,"Persons",43
+"SWE","Sweden","0-14Y","CARS",2014,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2014,"Persons",17
+"SWE","Sweden","25-64Y","CARS",2014,"Persons",62
+"SWE","Sweden","65MORE","CARS",2014,"Persons",41
+"SWE","Sweden","0-14Y","CARS",2015,"Persons",1
+"SWE","Sweden","15-24Y","CARS",2015,"Persons",30
+"SWE","Sweden","25-64Y","CARS",2015,"Persons",71
+"SWE","Sweden","65MORE","CARS",2015,"Persons",42
+"SWE","Sweden","0-14Y","CARS",2016,"Persons",1
+"SWE","Sweden","15-24Y","CARS",2016,"Persons",23
+"SWE","Sweden","25-64Y","CARS",2016,"Persons",70
+"SWE","Sweden","65MORE","CARS",2016,"Persons",44
+"SWE","Sweden","0-14Y","CARS",2017,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2017,"Persons",27
+"SWE","Sweden","25-64Y","CARS",2017,"Persons",71
+"SWE","Sweden","65MORE","CARS",2017,"Persons",30
+"SWE","Sweden","0-14Y","CARS",2018,"Persons",1
+"SWE","Sweden","15-24Y","CARS",2018,"Persons",30
+"SWE","Sweden","25-64Y","CARS",2018,"Persons",79
+"SWE","Sweden","65MORE","CARS",2018,"Persons",71
+"SWE","Sweden","0-14Y","CARS",2019,"Persons",2
+"SWE","Sweden","15-24Y","CARS",2019,"Persons",16
+"SWE","Sweden","25-64Y","CARS",2019,"Persons",52
+"SWE","Sweden","65MORE","CARS",2019,"Persons",33
+"SWE","Sweden","0-14Y","CARS",2020,"Persons",4
+"SWE","Sweden","15-24Y","CARS",2020,"Persons",25
+"SWE","Sweden","25-64Y","CARS",2020,"Persons",44
+"SWE","Sweden","65MORE","CARS",2020,"Persons",33
+"USA","United States","0-14Y","CARS",1990,"Persons",1170
+"USA","United States","15-24Y","CARS",1990,"Persons",7565
+"USA","United States","25-64Y","CARS",1990,"Persons",11390
+"USA","United States","65MORE","CARS",1990,"Persons",3936
+"USA","United States","0-14Y","CARS",1991,"Persons",1102
+"USA","United States","15-24Y","CARS",1991,"Persons",6900
+"USA","United States","25-64Y","CARS",1991,"Persons",10294
+"USA","United States","65MORE","CARS",1991,"Persons",4063
+"USA","United States","0-14Y","CARS",1992,"Persons",1130
+"USA","United States","15-24Y","CARS",1992,"Persons",6245
+"USA","United States","25-64Y","CARS",1992,"Persons",9904
+"USA","United States","65MORE","CARS",1992,"Persons",4068
+"USA","United States","0-14Y","CARS",1993,"Persons",1144
+"USA","United States","15-24Y","CARS",1993,"Persons",6355
+"USA","United States","25-64Y","CARS",1993,"Persons",9759
+"USA","United States","65MORE","CARS",1993,"Persons",4275
+"USA","United States","0-14Y","CARS",1994,"Persons",1207
+"USA","United States","15-24Y","CARS",1994,"Persons",6541
+"USA","United States","25-64Y","CARS",1994,"Persons",9728
+"USA","United States","65MORE","CARS",1994,"Persons",4495
+"USA","United States","0-14Y","CARS",1995,"Persons",1132
+"USA","United States","15-24Y","CARS",1995,"Persons",6529
+"USA","United States","25-64Y","CARS",1995,"Persons",10266
+"USA","United States","65MORE","CARS",1995,"Persons",4478
+"USA","United States","0-14Y","CARS",1996,"Persons",1186
+"USA","United States","15-24Y","CARS",1996,"Persons",6553
+"USA","United States","25-64Y","CARS",1996,"Persons",10225
+"USA","United States","65MORE","CARS",1996,"Persons",4502
+"USA","United States","0-14Y","CARS",1997,"Persons",1088
+"USA","United States","15-24Y","CARS",1997,"Persons",6303
+"USA","United States","25-64Y","CARS",1997,"Persons",10068
+"USA","United States","65MORE","CARS",1997,"Persons",4704
+"USA","United States","0-14Y","CARS",1998,"Persons",1058
+"USA","United States","15-24Y","CARS",1998,"Persons",5970
+"USA","United States","25-64Y","CARS",1998,"Persons",9520
+"USA","United States","65MORE","CARS",1998,"Persons",4620
+"USA","United States","0-14Y","CARS",1999,"Persons",1044
+"USA","United States","15-24Y","CARS",1999,"Persons",6223
+"USA","United States","25-64Y","CARS",1999,"Persons",9208
+"USA","United States","65MORE","CARS",1999,"Persons",4359
+"USA","United States","0-14Y","CARS",2000,"Persons",972
+"USA","United States","15-24Y","CARS",2000,"Persons",6423
+"USA","United States","25-64Y","CARS",2000,"Persons",9206
+"USA","United States","65MORE","CARS",2000,"Persons",4057
+"USA","United States","0-14Y","CARS",2001,"Persons",881
+"USA","United States","15-24Y","CARS",2001,"Persons",6381
+"USA","United States","25-64Y","CARS",2001,"Persons",9073
+"USA","United States","65MORE","CARS",2001,"Persons",3946
+"USA","United States","0-14Y","CARS",2002,"Persons",809
+"USA","United States","15-24Y","CARS",2002,"Persons",6832
+"USA","United States","25-64Y","CARS",2002,"Persons",9045
+"USA","United States","65MORE","CARS",2002,"Persons",3843
+"USA","United States","0-14Y","CARS",2003,"Persons",854
+"USA","United States","15-24Y","CARS",2003,"Persons",6330
+"USA","United States","25-64Y","CARS",2003,"Persons",8728
+"USA","United States","65MORE","CARS",2003,"Persons",3786
+"USA","United States","0-14Y","CARS",2004,"Persons",839
+"USA","United States","15-24Y","CARS",2004,"Persons",6288
+"USA","United States","25-64Y","CARS",2004,"Persons",8409
+"USA","United States","65MORE","CARS",2004,"Persons",3623
+"USA","United States","0-14Y","CARS",2005,"Persons",699
+"USA","United States","15-24Y","CARS",2005,"Persons",6039
+"USA","United States","25-64Y","CARS",2005,"Persons",8321
+"USA","United States","65MORE","CARS",2005,"Persons",3418
+"USA","United States","0-14Y","CARS",2006,"Persons",619
+"USA","United States","15-24Y","CARS",2006,"Persons",5900
+"USA","United States","25-64Y","CARS",2006,"Persons",8301
+"USA","United States","65MORE","CARS",2006,"Persons",3078
+"USA","United States","0-14Y","CARS",2007,"Persons",585
+"USA","United States","15-24Y","CARS",2007,"Persons",5402
+"USA","United States","25-64Y","CARS",2007,"Persons",7576
+"USA","United States","65MORE","CARS",2007,"Persons",3025
+"USA","United States","0-14Y","CARS",2008,"Persons",464
+"USA","United States","15-24Y","CARS",2008,"Persons",4528
+"USA","United States","25-64Y","CARS",2008,"Persons",6916
+"USA","United States","65MORE","CARS",2008,"Persons",2721
+"USA","United States","0-14Y","CARS",2009,"Persons",421
+"USA","United States","15-24Y","CARS",2009,"Persons",3805
+"USA","United States","25-64Y","CARS",2009,"Persons",6357
+"USA","United States","65MORE","CARS",2009,"Persons",2540
+"USA","United States","0-14Y","CARS",2010,"Persons",421
+"USA","United States","15-24Y","CARS",2010,"Persons",3546
+"USA","United States","25-64Y","CARS",2010,"Persons",5857
+"USA","United States","65MORE","CARS",2010,"Persons",2660
+"USA","United States","0-14Y","CARS",2011,"Persons",394
+"USA","United States","15-24Y","CARS",2011,"Persons",3466
+"USA","United States","25-64Y","CARS",2011,"Persons",5655
+"USA","United States","65MORE","CARS",2011,"Persons",2482
+"USA","United States","0-14Y","CARS",2012,"Persons",401
+"USA","United States","15-24Y","CARS",2012,"Persons",3435
+"USA","United States","25-64Y","CARS",2012,"Persons",6077
+"USA","United States","65MORE","CARS",2012,"Persons",2438
+"USA","United States","0-14Y","CARS",2013,"Persons",392
+"USA","United States","15-24Y","CARS",2013,"Persons",3125
+"USA","United States","25-64Y","CARS",2013,"Persons",6050
+"USA","United States","65MORE","CARS",2013,"Persons",2462
+"USA","United States","0-14Y","CARS",2014,"Persons",392
+"USA","United States","15-24Y","CARS",2014,"Persons",3168
+"USA","United States","25-64Y","CARS",2014,"Persons",5955
+"USA","United States","65MORE","CARS",2014,"Persons",2419
+"USA","United States","0-14Y","CARS",2015,"Persons",393
+"USA","United States","15-24Y","CARS",2015,"Persons",3325
+"USA","United States","25-64Y","CARS",2015,"Persons",6475
+"USA","United States","65MORE","CARS",2015,"Persons",2555
+"USA","United States","0-14Y","CARS",2016,"Persons",430
+"USA","United States","15-24Y","CARS",2016,"Persons",3424
+"USA","United States","25-64Y","CARS",2016,"Persons",6905
+"USA","United States","65MORE","CARS",2016,"Persons",2735
+"USA","United States","0-14Y","CARS",2017,"Persons",441
+"USA","United States","15-24Y","CARS",2017,"Persons",3265
+"USA","United States","25-64Y","CARS",2017,"Persons",7093
+"USA","United States","65MORE","CARS",2017,"Persons",2657
+"USA","United States","0-14Y","CARS",2018,"Persons",406
+"USA","United States","15-24Y","CARS",2018,"Persons",3053
+"USA","United States","25-64Y","CARS",2018,"Persons",6787
+"USA","United States","65MORE","CARS",2018,"Persons",2628
+"USA","United States","0-14Y","CARS",2019,"Persons",392
+"USA","United States","15-24Y","CARS",2019,"Persons",2840
+"USA","United States","25-64Y","CARS",2019,"Persons",6536
+"USA","United States","65MORE","CARS",2019,"Persons",2578
+"USA","United States","0-14Y","CARS",2020,"Persons",418
+"USA","United States","15-24Y","CARS",2020,"Persons",3389
+"USA","United States","25-64Y","CARS",2020,"Persons",7423
+"USA","United States","65MORE","CARS",2020,"Persons",2200
