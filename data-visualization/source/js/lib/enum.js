@@ -28,10 +28,10 @@ const AgeGroupColours = {
 
 /** @enum {string} */
 const AgeGroupColourLighter = {
-	[AGE_GROUP_0_14]: "#E88A8A",
-	[AGE_GROUP_15_24]: "#C47D7D",
-	[AGE_GROUP_25_64]: "#9F7171",
-	[AGE_GROUP_65_MORE]: "#7B6464",
+	[AGE_GROUP_0_14]: "#F4C5C5",
+	[AGE_GROUP_15_24]: "#E1BEBE",
+	[AGE_GROUP_25_64]: "#CFB8B8",
+	[AGE_GROUP_65_MORE]: "#BDB1B1",
 };
 
 /** @enum {number} */

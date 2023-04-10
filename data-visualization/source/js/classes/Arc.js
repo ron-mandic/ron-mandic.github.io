@@ -129,17 +129,37 @@ class Arc {
 				);
 			}
 
+			// Complete segments
 			if (this.isSubArc || this?.flag) {
-				stroke(this.colour);
-				arc(
-					this.x,
-					this.y,
-					this.w,
-					this.h,
-					this.start,
-					this.stop,
-					this.mode
-				);
+				// Deselected segments
+				if (
+					chartL.selectedSegment &&
+					this.parent.id !== chartL.selectedSegment.id
+				) {
+					stroke(this.colourLighter);
+					arc(
+						this.x,
+						this.y,
+						this.w,
+						this.h,
+						this.start,
+						this.stop,
+						this.mode
+					);
+					// Only selected segment
+				} else {
+					stroke(this.colour);
+					arc(
+						this.x,
+						this.y,
+						this.w,
+						this.h,
+						this.start,
+						this.stop,
+						this.mode
+					);
+				}
+				// Incomplete segments
 			} else {
 				stroke(CHART_COLOR_HSL_LIGHT);
 				arc(

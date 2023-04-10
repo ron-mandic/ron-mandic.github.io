@@ -110,7 +110,7 @@ class Segment {
 						textAlign(RIGHT, CENTER);
 						rotate(angle);
 
-						textStyle(BOLD);
+						// textStyle(BOLD);
 						fill("rgb(0, 0, 0)");
 						textSize(tSize);
 						this.parent.side === LEFT

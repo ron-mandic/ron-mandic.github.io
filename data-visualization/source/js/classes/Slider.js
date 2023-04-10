@@ -10,6 +10,7 @@ TEC costa rica, hfg schw. gmuend
 
 class Slider {
 	/**
+	 * @param {Chart} parent
 	 * @param {number} x
 	 * @param {number} y
 	 * @param {number} w
@@ -18,7 +19,9 @@ class Slider {
 	 * @param {number} maxValue
 	 * @param {number} value
 	 */
-	constructor(x, y, w, h, minValue, maxValue, value) {
+	constructor(parent, x, y, w, h, minValue, maxValue, value) {
+		this.parent = parent;
+
 		this.x = x;
 		this.y = y;
 

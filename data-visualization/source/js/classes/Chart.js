@@ -75,6 +75,7 @@ class Chart {
 		this.showGrid = true;
 
 		this.slider = new Slider(
+			this,
 			width / 2 - this.rA,
 			Canvas.HEIGHT + 40 + 100,
 			400,
@@ -89,6 +90,8 @@ class Chart {
 		this.listHeading = select("#numCountries").elt;
 		this.listItems = null;
 		this.template = select("#country-list-item-template").elt;
+
+		this.loader = select(".loader").elt;
 
 		this.listItem = null;
 		this.selectedSegment = null;
@@ -1040,11 +1043,11 @@ class Chart {
 			translate(chartL.p, height - 30);
 			textSize(10);
 			text(
-				"IG2 SoSe 23/23: Emily Kühl, Olivia Regattieri und Ron Eros Mandić",
+				"IG2 SoSe 23/23: Emily Kühl, Olivia Regattieri and Ron Eros Mandić",
 				0,
 				0
 			);
-			text("Daten: OECD, World Bank", 0, 10 + 4);
+			text("Data: OECD, World Bank", 0, 10 + 4);
 		});
 	}
 

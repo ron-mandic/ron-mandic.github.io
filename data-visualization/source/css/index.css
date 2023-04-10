@@ -94,7 +94,9 @@ canvas {
 body {
 	width: 100%;
 	height: 100vh;
+	height: 100svh;
 	font-family: "Inter", Courier, monospace;
+	overflow-y: hidden;
 }
 
 canvas {
@@ -228,22 +230,25 @@ span.code {
 
 .caption {
 	position: absolute;
-	bottom: 0;
+	bottom: 50%;
 	left: 50%;
-	transform: translate(-50%, -3rem);
+	transform: translate(-50%, calc(600px + 50%));
 	border-radius: 1rem;
 	border: 2px solid hsl(0, 0%, 97%);
 	box-shadow: 0 0.5rem 1rem hsla(0, 0%, 97%, 95%);
 	background-color: rgb(255 251 251 / 50%);
 	backdrop-filter: blur(10px);
+	max-width: 790px;
+	width: 90%;
 	z-index: 1000;
 }
 
 #button-group {
-	padding-right: 0.3rem;
-
 	display: flex;
 	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding-right: 0.3rem;
 	gap: 4.4rem;
 	padding: 2rem;
 }
@@ -315,6 +320,62 @@ span.code {
 	animation: showUp 2.25s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
+/* Loader */
+.loader {
+	position: absolute;
+	top: 50%;
+	right: 100px;
+	width: 600px;
+	height: 700px;
+	display: none;
+	justify-content: center;
+	align-items: center;
+	background-color: hsla(360, 100%, 95%, 10%);
+	border-radius: 0.5rem;
+	backdrop-filter: blur(10px);
+	transform: translate(0, calc(-50% - 100px));
+}
+
+svg {
+	width: 3.25em;
+	transform-origin: center;
+	width: 15%;
+	height: 15%;
+	animation: rotate4 2s linear infinite;
+}
+
+circle {
+	fill: none;
+	stroke: hsl(0, 100%, 80%);
+	stroke-width: 3;
+	stroke-dasharray: 1, 200;
+	stroke-dashoffset: 0;
+	stroke-linecap: butt;
+	animation: dash4 1.5s cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+}
+
+@keyframes rotate4 {
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes dash4 {
+	0% {
+		stroke-dasharray: 1, 200;
+		stroke-dashoffset: 0;
+	}
+
+	50% {
+		stroke-dasharray: 90, 200;
+		stroke-dashoffset: -35px;
+	}
+
+	100% {
+		stroke-dashoffset: -125px;
+	}
+}
+
 @keyframes showUp {
 	0% {
 		transform: translate(5px, calc(-50% - 100px - 50px));
@@ -322,5 +383,43 @@ span.code {
 	100% {
 		opacity: 1;
 		transform: translate(0, calc(-50% - 100px));
+	}
+}
+
+@media (max-width: 850px) {
+	#button-group {
+		flex-direction: row;
+		gap: 1rem;
+		text-align: center;
+	}
+	#grid,
+	#screen,
+	#reload,
+	#detail-on,
+	#detail-off {
+		margin-left: 0;
+	}
+	#screen::before,
+	#reload::before,
+	#detail-on::before,
+	#detail-off::before {
+		display: none;
+	}
+	#grid::after,
+	#screen::after,
+	#reload::after,
+	#detail-on::after,
+	#detail-off::after {
+		margin-left: 0;
+		margin-top: 1rem;
+		display: block;
+	}
+}
+
+@media (max-width: 600px) {
+	#button-group {
+		flex-direction: column;
+		gap: 1rem;
+		text-align: center;
 	}
 }

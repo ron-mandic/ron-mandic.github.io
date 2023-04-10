@@ -1,9 +1,7 @@
 //@ts-check
 "use strict";
 
-let list;
-let template;
-let clone;
+console.clear();
 
 // ##################################################
 function preload() {
@@ -43,11 +41,7 @@ function draw() {
 
 	chartL.draw();
 
-	chartL.slider.render();
-
 	f = frameCount;
-	if (f === f0) console.log("START");
-	if (f === fN) console.log("END");
 
 	if (f >= f0 && f <= fN) {
 		let progress = (f - f0) / fDuration;
@@ -60,6 +54,8 @@ function draw() {
 
 		chartL.slider.y = y;
 	}
+
+	chartL.slider.render();
 
 	Modal.display();
 }
