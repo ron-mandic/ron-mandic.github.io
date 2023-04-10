@@ -45,21 +45,46 @@ function draw() {
 
 	chartL.slider.render();
 
+	f = frameCount;
+	if (f === f0) console.log("START");
+	if (f === fN) console.log("END");
+
+	if (f >= f0 && f <= fN) {
+		let progress = (f - f0) / fDuration;
+
+		// let easedProgress = TimingFunctions.elastic(progress);
+		// y = lerp(y0, yN, easedProgress);
+
+		let easedProgress = TimingFunctions.cubicBezier(0.8, 1.67, 0.83, 0.99);
+		y = lerp(y0, yN, easedProgress(progress));
+
+		chartL.slider.y = y;
+	}
+
 	Modal.display();
 }
 
 // ##################################################
 function keyPressed() {
+	chartL.onPress(Keys.G, () => {
+		chartL.toggleGrid();
+	});
+	chartL.onPress(Keys.R, () => {
+		location.reload();
+		return false;
+	});
 	chartL.onPress(Keys.S, () => {
-		saveCanvas(canvas, "chart", "png");
+		saveCanvas(canvas, "canvas", "png");
 	});
 	chartL.onPress(Keys.PLUS, () => {
 		chartL.setHalved(true);
 		chartL.ui.style.display = "block";
+		chartL.ui.classList.toggle("animated");
 	});
 	chartL.onPress(Keys.MINUS, () => {
 		chartL.setHalved(false);
 		chartL.ui.style.display = "none";
+		chartL.ui.classList.toggle("animated");
 	});
 }
 

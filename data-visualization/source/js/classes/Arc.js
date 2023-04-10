@@ -18,6 +18,8 @@ class Arc {
 	 * @param {number} globalStop
 	 * @param {string} colour
 	 * @param {string} colourLighter
+	 * @param {null | Segment} parent
+	 * @param {boolean} isSubArc
 	 * @param {string} mode
 	 */
 	constructor(
@@ -35,6 +37,7 @@ class Arc {
 		globalStop,
 		colour,
 		colourLighter,
+		parent,
 		isSubArc = false,
 		mode = OPEN
 	) {
@@ -55,6 +58,8 @@ class Arc {
 		this.stop = stop;
 		this.globalStart = globalStart;
 		this.globalStop = globalStop;
+
+		this.parent = parent;
 
 		this.colour = colour;
 		this.colourLighter = colourLighter;
@@ -97,7 +102,10 @@ class Arc {
 			: angle >= endAngle && angle <= startAngle;
 	}
 
-	draw() {
+	/**
+	 * @param {Segment | null} parent
+	 */
+	draw(parent = null) {
 		once(() => {
 			ellipseMode(CENTER);
 			translate(this.origin.x, this.origin.y);
@@ -107,6 +115,7 @@ class Arc {
 			strokeWeight(this.strokeWidth);
 			strokeCap(SQUARE);
 
+			// Background
 			if (!this.isSubArc) {
 				stroke(CHART_COLOR_HSL_LIGHTER);
 				arc(
@@ -120,16 +129,29 @@ class Arc {
 				);
 			}
 
-			stroke(this.colour);
-			arc(
-				this.x,
-				this.y,
-				this.w,
-				this.h,
-				this.start,
-				this.stop,
-				this.mode
-			);
+			if (this.isSubArc || this?.flag) {
+				stroke(this.colour);
+				arc(
+					this.x,
+					this.y,
+					this.w,
+					this.h,
+					this.start,
+					this.stop,
+					this.mode
+				);
+			} else {
+				stroke(CHART_COLOR_HSL_LIGHT);
+				arc(
+					this.x,
+					this.y,
+					this.w,
+					this.h,
+					this.start,
+					this.stop,
+					this.mode
+				);
+			}
 		});
 	}
 }

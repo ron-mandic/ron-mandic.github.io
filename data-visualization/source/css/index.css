@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap");
 
 /* ###################################################################### General */
 /* ################################ Root */
@@ -107,17 +108,18 @@ canvas {
 #app {
 	position: relative;
 	width: var(--canvas_width);
-	height: var(--canvas_height);
+	min-height: var(--canvas_height);
+	max-height: var(--canvas_height);
+	overflow: hidden;
 }
 
-.rect {
+#rect {
 	display: none;
 	position: absolute;
 	top: 50%;
 	right: 100px;
 	width: 600px;
 	height: 700px;
-	transform: translateY(calc(-50% - 100px));
 	background-color: rgba(255, 250, 250, 0.75);
 	border-top: 1px solid hsla(0, 100%, 75%, 50%);
 	border-bottom: 1px solid hsla(0, 100%, 75%, 50%);
@@ -128,6 +130,8 @@ canvas {
 	overflow-y: auto;
 	backdrop-filter: blur(10px);
 	user-select: none;
+	opacity: 1;
+	transform: translate(0, calc(-50% - 100px));
 }
 
 h1 {
@@ -220,4 +224,103 @@ span.code {
 	font-size: 70%;
 	padding-left: 0.75rem;
 	content: "per 100,000 habitants";
+}
+
+.caption {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%, -3rem);
+	border-radius: 1rem;
+	border: 2px solid hsl(0, 0%, 97%);
+	box-shadow: 0 0.5rem 1rem hsla(0, 0%, 97%, 95%);
+	background-color: rgb(255 251 251 / 50%);
+	backdrop-filter: blur(10px);
+	z-index: 1000;
+}
+
+#button-group {
+	padding-right: 0.3rem;
+
+	display: flex;
+	flex-direction: row;
+	gap: 4.4rem;
+	padding: 2rem;
+}
+
+#grid,
+#screen,
+#reload,
+#detail-on,
+#detail-off {
+	display: block;
+	position: relative;
+	margin-left: 0.0625em;
+	letter-spacing: 0.05em;
+	text-align: center;
+	padding: 0.5rem 0;
+	transition: background-color 0.5s ease;
+	border-radius: 0.375em;
+	user-select: none;
+	font-family: "Nunito", Courier, monospace;
+	font-size: 1.25rem;
+}
+
+#screen::before,
+#reload::before,
+#detail-on::before,
+#detail-off::before {
+	content: "";
+	position: absolute;
+	top: 50%;
+	transform: translate(-2.2rem, -50%);
+	width: 1px;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.075);
+}
+
+#grid::after,
+#screen::after,
+#reload::after,
+#detail-on::after,
+#detail-off::after {
+	padding: 0.75rem 1rem;
+	margin-left: 0.75rem;
+	border-radius: 0.375em;
+	background-color: hsl(360, 100%, 95%);
+	text-align: center;
+}
+
+#grid::after {
+	content: "G";
+}
+#screen::after {
+	content: "S";
+}
+#reload::after {
+	content: "R";
+}
+#detail-on::after,
+#detail-off::after {
+	font-size: 115%;
+}
+#detail-on::after {
+	content: "+";
+}
+#detail-off::after {
+	content: "-";
+}
+
+.animated {
+	animation: showUp 2.25s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+@keyframes showUp {
+	0% {
+		transform: translate(5px, calc(-50% - 100px - 50px));
+	}
+	100% {
+		opacity: 1;
+		transform: translate(0, calc(-50% - 100px));
+	}
 }

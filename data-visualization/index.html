@@ -80,7 +80,7 @@
 		</div>
 		<main id="app">
 			<div id="canvas"></div>
-			<div class="rect">
+			<div id="rect">
 				<h1>
 					<span><span id="numCountries"></span> Countries</span>
 					<span
@@ -89,12 +89,22 @@
 							opacity: 0.75;
 							padding-left: 0.5rem;
 						"
-						>by population and total relative cases</span
+						>by population and total relative cases (rounded)</span
 					>
 				</h1>
 				<ul id="country-list"></ul>
 			</div>
 		</main>
+
+		<div class="caption">
+			<div id="button-group">
+				<div id="grid">Toggle grid</div>
+				<div id="screen">Screenshot</div>
+				<div id="reload">Reload</div>
+				<div id="detail-on">Detail view on</div>
+				<div id="detail-off">Detail view off</div>
+			</div>
+		</div>
 
 		<template id="country-list-item-template">
 			<li class="country">

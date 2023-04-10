@@ -86,7 +86,12 @@ class Slider {
 
 			strokeWeight(1);
 			stroke(CHART_COLOR_HSL_DARK);
-			rect(this.posButtonX, this.y, this.h, this.h);
+
+			if (this.mouseIsDragged) {
+				rect(this.posButtonX, this.y, this.h, this.h, 6);
+			} else {
+				rect(this.posButtonX, this.y, this.h, this.h);
+			}
 		});
 	}
 

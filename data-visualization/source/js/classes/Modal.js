@@ -139,10 +139,27 @@ class Modal {
 
 		once(() => {
 			noStroke();
-			fill("rgba(0,0,0,0.125)");
+			fill("rgba(0,0,0,0.175)");
 			rect(p0, p0, w, Modal.h, Modal.p / 4);
 		});
+
 		rect(p1, 0, w, Modal.h, Modal.p / 4);
+
+		if (!Modal.expand) {
+			once(() => {
+				rect(0, -30, w, 25, Modal.p / 4);
+				textSize(10);
+				textStyle(BOLD);
+				text("SHIFT: ", Modal.p, -14);
+				textSize(9);
+				textStyle(NORMAL);
+				text(
+					"Press and hold for details",
+					Modal.p + textWidth("SHIFT") + Modal.gH1 * 0.5,
+					-14
+				);
+			});
+		}
 	}
 
 	static renderHeader() {
@@ -263,11 +280,22 @@ class Modal {
 		// 	yOffset += Modal.textSizeSubHeading + Modal.gV3;
 		// }
 
+		let match0, match1, match2, match3;
+		let value0, value1, value2, value3, valueTotal;
+
 		once(() => {
 			translate(Modal.p * 2 + Modal.gH1 + col0Width, yOffset);
 			textAlign(LEFT, TOP);
 			textSize(Modal.textSizeSubHeading);
-			text(round(perValues[0], 2), 0, 0);
+
+			if (perValues[0] !== NOT_SPECIFIED) {
+				match0 = perValues[0].toString().match(/\d+\.\d{2}/);
+				value0 = match0 ? match0[0] : `${round(perValues[0], 2)}`;
+			} else {
+				value0 = NOT_SPECIFIED;
+			}
+
+			text(value0, 0, 0);
 		});
 		yOffset += Modal.textSizeSubHeading + Modal.gV3;
 
@@ -275,7 +303,15 @@ class Modal {
 			translate(Modal.p * 2 + Modal.gH1 + col0Width, yOffset);
 			textAlign(LEFT, TOP);
 			textSize(Modal.textSizeSubHeading);
-			text(round(perValues[1], 2), 0, 0);
+
+			if (perValues[1] !== NOT_SPECIFIED) {
+				match1 = perValues[1].toString().match(/\d+\.\d{2}/);
+				value1 = match1 ? match1[0] : `${round(perValues[1], 2)}`;
+			} else {
+				value1 = NOT_SPECIFIED;
+			}
+
+			text(value1, 0, 0);
 		});
 		yOffset += Modal.textSizeSubHeading + Modal.gV3;
 
@@ -283,7 +319,15 @@ class Modal {
 			translate(Modal.p * 2 + Modal.gH1 + col0Width, yOffset);
 			textAlign(LEFT, TOP);
 			textSize(Modal.textSizeSubHeading);
-			text(round(perValues[2], 2), 0, 0);
+
+			if (perValues[2] !== NOT_SPECIFIED) {
+				match2 = perValues[2].toString().match(/\d+\.\d{2}/);
+				value2 = match2 ? match2[0] : `${round(perValues[2], 2)}`;
+			} else {
+				value2 = NOT_SPECIFIED;
+			}
+
+			text(value2, 0, 0);
 		});
 		yOffset += Modal.textSizeSubHeading + Modal.gV3;
 
@@ -291,7 +335,15 @@ class Modal {
 			translate(Modal.p * 2 + Modal.gH1 + col0Width, yOffset);
 			textAlign(LEFT, TOP);
 			textSize(Modal.textSizeSubHeading);
-			text(round(perValues[3], 2), 0, 0);
+
+			if (perValues[3] !== NOT_SPECIFIED) {
+				match3 = perValues[3].toString().match(/\d+\.\d{2}/);
+				value3 = match3 ? match3[0] : `${round(perValues[3], 2)}`;
+			} else {
+				value3 = NOT_SPECIFIED;
+			}
+
+			text(value3, 0, 0);
 		});
 		yOffset += Modal.textSizeSubHeading + Modal.gV3;
 
@@ -302,7 +354,36 @@ class Modal {
 			);
 			textAlign(LEFT, TOP);
 			textSize(Modal.textSizeSubHeading);
-			text(round(segment.perTotalValue, 2), 0, 0);
+
+			// let value =
+			// 	segment.perTotalValue.toString().match(/\d+\.\d{2}/)[0] ||
+			// 	`${round(segment.perTotalValue, 2)}`;
+
+			if (value0 === NOT_SPECIFIED) value0 = 0;
+			if (value1 === NOT_SPECIFIED) value1 = 0;
+			if (value2 === NOT_SPECIFIED) value2 = 0;
+			if (value3 === NOT_SPECIFIED) value3 = 0;
+
+			valueTotal = `${
+				(+value0 * 100 +
+					+value1 * 100 +
+					+value2 * 100 +
+					+value3 * 100) /
+				100
+			}`;
+
+			let finalMatch = valueTotal.match(/\.\d+/);
+
+			if (!finalMatch) {
+				valueTotal = `${valueTotal}.00`;
+			} else {
+				let decimal = finalMatch[0];
+				if (decimal.length === 2) {
+					valueTotal = `${valueTotal}0`;
+				}
+			}
+
+			text(valueTotal, 0, 0);
 		});
 
 		// ---------------------------------------------------------
@@ -397,8 +478,7 @@ class Modal {
 
 	static render() {
 		once(() => {
-			if (!Modal.overflowX) translate(mouseX + 10, mouseY + 10);
-			else translate(mouseX - Modal.width - 10, mouseY + 10);
+			translate(mouseX + 10, mouseY + 10);
 
 			Modal.renderBackground();
 

@@ -36,6 +36,7 @@ const AgeGroupColourLighter = {
 
 /** @enum {number} */
 const Keys = {
+	G: 71,
 	R: 82,
 	S: 83,
 	PLUS: 187,

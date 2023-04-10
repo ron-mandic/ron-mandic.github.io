@@ -72,9 +72,11 @@ class Chart {
 		// @ts-ignore
 		this.arcValues = [];
 
+		this.showGrid = true;
+
 		this.slider = new Slider(
 			width / 2 - this.rA,
-			height - 125,
+			Canvas.HEIGHT + 40 + 100,
 			400,
 			40,
 			1990,
@@ -82,7 +84,7 @@ class Chart {
 			1990
 		);
 
-		this.ui = select(".rect").elt;
+		this.ui = select("#rect").elt;
 		this.list = select("#country-list").elt;
 		this.listHeading = select("#numCountries").elt;
 		this.listItems = null;
@@ -122,7 +124,9 @@ class Chart {
 				this.stop,
 				this.globalStart,
 				this.globalStop,
-				CHART_COLOR_HSL_LIGHT
+				CHART_COLOR_HSL_DARKER,
+				CHART_COLOR_HSL_LIGHT,
+				null
 			);
 			this.arcs.push(arc);
 		}
@@ -640,6 +644,7 @@ class Chart {
 					AgeGroupColours[key],
 					// @ts-ignore
 					AgeGroupColourLighter[key],
+					segment,
 					true,
 					OPEN
 				);
@@ -648,6 +653,14 @@ class Chart {
 				subArc.absValue = this.absValues[i][key];
 				subArc.perValue = this.perValues[i][key];
 				subArc.id = i;
+
+				if (
+					subArc.absValue === NOT_SPECIFIED ||
+					subArc.perValue === NOT_SPECIFIED
+				) {
+					subArc.flag = FLAG_INCOMPLETE;
+					if (!segment.flag) segment.flag = FLAG_INCOMPLETE;
+				}
 
 				if (segment.subArcs.length < AgeGroups.length) {
 					segment.subArcs.push(subArc);
@@ -745,20 +758,23 @@ class Chart {
 			let countryCode = clone.querySelector("span.code");
 			countryCode.innerText = `${country.code}`;
 
+			// --------------------------------------------------------
+
 			let population = populationOf(country.code, this.year.toString());
+			let num0 = `${population / 1e6}`;
 			let countryPopulation = clone.querySelector("span.population");
 
-			let num0 = `${round(population / 1e6, 2)}`;
-			let decimals0 = num0.match(/\d+$/)[0];
-			if (decimals0.length === 1) num0 += "0";
-			countryPopulation.innerText = num0 + " Mio.";
-
+			let cases = country.total;
+			let num1 = `${cases}`;
 			let countryCases = clone.querySelector("span.cases");
-			let num1 = `${round(country.total, 2)}`;
-			let decimals1 = num1.match(/\d+$/)[0];
 
-			if (decimals1.length === 1) num1 += "0";
+			let match0 = num0.match(/\d+\.\d{2}/);
+			let match1 = num1.match(/\d+\.\d{2}/);
 
+			num0 = match0 ? match0[0] : `${round(population / 1e6)}`;
+			num1 = match1 ? match1[0] : `${round(cases)}`;
+
+			countryPopulation.innerText = num0 + " Mio.";
 			countryCases.innerText = num1;
 
 			this.list.appendChild(clone);
@@ -810,6 +826,10 @@ class Chart {
 	}
 	hideUI() {
 		this.ui.style?.display === "none";
+	}
+
+	toggleGrid() {
+		this.showGrid = !this.showGrid;
 	}
 
 	onPress(_keyCode, callback) {
@@ -1015,6 +1035,19 @@ class Chart {
 		});
 	}
 
+	drawInfo() {
+		once(() => {
+			translate(chartL.p, height - 30);
+			textSize(10);
+			text(
+				"IG2 SoSe 23/23: Emily Kühl, Olivia Regattieri und Ron Eros Mandić",
+				0,
+				0
+			);
+			text("Daten: OECD, World Bank", 0, 10 + 4);
+		});
+	}
+
 	draw() {
 		// this.grid();
 
@@ -1027,8 +1060,9 @@ class Chart {
 			this.segments[i].draw();
 		}
 
-		this.sectors();
+		if (this.showGrid) this.sectors();
 		this.drawCursorLine();
 		this.drawCaption();
+		this.drawInfo();
 	}
 }

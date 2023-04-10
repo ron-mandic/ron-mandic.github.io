@@ -29,6 +29,10 @@ class Segment {
 		return this.arc.isHovering();
 	}
 
+	isIncomplete() {
+		return this.flag === FLAG_INCOMPLETE;
+	}
+
 	highlight(code) {
 		if (code === this.code && !this.highlighed) this.highlighed = true;
 		console.log(this);
@@ -48,7 +52,7 @@ class Segment {
 		this.drawLabels();
 
 		for (let i = 0; i < this.subArcs.length; i++) {
-			this.subArcs[i].draw();
+			this.subArcs[i].draw(this);
 		}
 	}
 
