@@ -32,6 +32,25 @@ function setup() {
 				chartL.selectListItem(children, code);
 			});
 		}
+
+		chartL.HTMLSlider.oninput = () => {
+			let year = chartL.HTMLSlider.value;
+
+			if (year < YEAR_MIN || year > YEAR_MAX) return;
+			if (year === chartL.year) return;
+
+			chartL.rebuildFor(year);
+		};
+		chartL.HTMLSlider.animate(
+			[
+				{ transform: "translateY(400px)" },
+				{ transform: "translateY(0)" },
+			],
+			{
+				duration: 1500,
+				easing: "cubic-bezier(.175, .885, .32, 1)",
+			}
+		);
 	});
 }
 
@@ -40,22 +59,6 @@ function draw() {
 	cursor(ARROW);
 
 	chartL.draw();
-
-	f = frameCount;
-
-	if (f >= f0 && f <= fN) {
-		let progress = (f - f0) / fDuration;
-
-		// let easedProgress = TimingFunctions.elastic(progress);
-		// y = lerp(y0, yN, easedProgress);
-
-		let easedProgress = TimingFunctions.cubicBezier(0.8, 1.67, 0.83, 0.99);
-		y = lerp(y0, yN, easedProgress(progress));
-
-		chartL.slider.y = y;
-	}
-
-	chartL.slider.render();
 
 	Modal.display();
 }
@@ -81,22 +84,5 @@ function keyPressed() {
 		chartL.setHalved(false);
 		chartL.ui.style.display = "none";
 		chartL.ui.classList.toggle("animated");
-	});
-}
-
-function mousePressed() {
-	chartL.slider.onMouseClick();
-}
-
-function mouseReleased() {
-	chartL.slider.onMouseReleased();
-}
-
-function mouseDragged() {
-	chartL.slider.onMouseDrag((value) => {
-		if (value === chartL.year) return;
-
-		let year = Math.ceil(value);
-		chartL.rebuildFor(year);
 	});
 }

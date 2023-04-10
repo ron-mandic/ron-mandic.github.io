@@ -28,7 +28,7 @@ class Chart {
 	 * @param {boolean} isHalved
 	 * @param {"left" | "right"} side
 	 */
-	constructor(data, isHalved, side = LEFT) {
+	constructor(data, isHalved, sameScale = true, side = LEFT) {
 		this.totalData = data;
 		this.data = null;
 
@@ -37,6 +37,7 @@ class Chart {
 		this.segments = [];
 
 		this.isHalved = isHalved;
+		this.sameScale = sameScale;
 		this.side = side;
 
 		// I) width = 1600 = 2(p + r + nw + ng - g)
@@ -63,7 +64,9 @@ class Chart {
 		this.globalMin = null;
 		this.globalMax = null;
 		this.globalMinValue = 0;
-		this.globalMaxValue = null;
+
+		if (this.sameScale) this.globalMaxValue = 17;
+		else this.globalMaxValue = null;
 
 		// @ts-ignore
 		this.absValues = [];
@@ -84,6 +87,8 @@ class Chart {
 			2020 + 1,
 			1990
 		);
+
+		this.HTMLSlider = select("#HTMLSlider").elt;
 
 		this.ui = select("#rect").elt;
 		this.list = select("#country-list").elt;
@@ -400,6 +405,12 @@ class Chart {
 		if (Type.isNull(this.globalMin) || value < this.globalMin) {
 			this.globalMin = value;
 		}
+
+		if (this.sameScale) {
+			if (this.globalMaxValue !== 17) this.globalMaxValue = 17;
+			return;
+		}
+
 		if (Type.isNull(this.globalMax) || value > this.globalMax) {
 			this.globalMax = value;
 		}
@@ -1051,6 +1062,15 @@ class Chart {
 		});
 	}
 
+	drawYear() {
+		once(() => {
+			translate(width / 2, height - 150);
+			textSize(28);
+			textAlign(CENTER, CENTER);
+			text(`${this.HTMLSlider.value}`, 0, 0);
+		});
+	}
+
 	draw() {
 		// this.grid();
 
@@ -1064,6 +1084,9 @@ class Chart {
 		}
 
 		if (this.showGrid) this.sectors();
+
+		this.drawYear();
+
 		this.drawCursorLine();
 		this.drawCaption();
 		this.drawInfo();

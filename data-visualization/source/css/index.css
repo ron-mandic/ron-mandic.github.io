@@ -25,7 +25,7 @@
 
 ::-webkit-scrollbar-track {
 	border-radius: 0.5rem;
-	background-color: hsl(0, 0%, 97%);
+	background-color: #fffaff;
 	border-right: 1px solid hsla(0, 100%, 75%, 50%);
 }
 
@@ -110,6 +110,7 @@ canvas {
 #app {
 	position: relative;
 	width: var(--canvas_width);
+	min-width: var(--canvas_width);
 	min-height: var(--canvas_height);
 	max-height: var(--canvas_height);
 	overflow: hidden;
@@ -418,8 +419,81 @@ circle {
 
 @media (max-width: 600px) {
 	#button-group {
-		flex-direction: column;
+		display: none;
+		/* flex-direction: column;
 		gap: 1rem;
-		text-align: center;
+		text-align: center; */
 	}
+}
+
+/* Custom slider */
+.slidecontainer {
+	width: 100%; /* Width of the outside container */
+	max-width: 400px;
+	position: absolute;
+	bottom: 60px;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.slidecontainer::before {
+	content: "1990";
+	position: absolute;
+	top: 0;
+	left: 0;
+	transform: translate(0, calc(-100% - 0.5rem));
+	font-size: 1.25rem;
+}
+
+.slidecontainer::after {
+	content: "2020";
+	position: absolute;
+	top: 0;
+	left: 100%;
+	transform: translate(-100%, calc(-100% - 0.5rem));
+	font-size: 1.25rem;
+}
+
+/* The slider itself */
+.slider {
+	-webkit-appearance: none; /* Override default CSS styles */
+	appearance: none;
+	width: 100%; /* Full-width */
+	height: 42px; /* Specified height */
+	background: #fffafa; /* Grey background */
+	outline: none; /* Remove outline */
+	opacity: 0.8; /* Set transparency (for mouse-over effects on hover) */
+	-webkit-transition: 0.2s; /* 0.2 seconds transition on hover */
+	transition: opacity 0.2s;
+	border: 2px solid #ffbebe;
+	animation-timing-function: ;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+	opacity: 1; /* Fully shown on mouse-over */
+}
+
+.slider::-webkit-slider-thumb:hover,
+.slider::-moz-range-thumb:hover {
+	background-color: hsl(0, 100%, 70%);
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+	-webkit-appearance: none; /* Override default look */
+	appearance: none;
+	width: 42px; /* Set a specific slider handle width */
+	height: 44px; /* Slider handle height */
+	border: 2px solid #ff9090; /* Green background */
+	background-color: #ffcccc;
+	cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+	width: 44px; /* Set a specific slider handle width */
+	height: 44px; /* Slider handle height */
+	border: 2px solid #ff9090; /* Green background */
+	cursor: pointer; /* Cursor on hover */
+	background-color: #ffcccc;
 }
